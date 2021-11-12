@@ -13548,22 +13548,258 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "193d6decdfb6416598fd7972a7bcc0e9-ao-1-A.svg",
+                                "193d6decdfb6416598fd7972a7bcc0e9-ao-1-Q.svg",
+                                "193d6decdfb6416598fd7972a7bcc0e9-ao-2-A.svg",
+                                "193d6decdfb6416598fd7972a7bcc0e9-ao-2-Q.svg",
+                                "193d6decdfb6416598fd7972a7bcc0e9-ao-3-A.svg",
+                                "193d6decdfb6416598fd7972a7bcc0e9-ao-3-Q.svg",
+                                "193d6decdfb6416598fd7972a7bcc0e9-ao-O.svg",
+                                "paste-d12f0746233d5cc5d462e00ee7ecef4b5aa8296b.png",
+                                "paste-eda4bcbdd6ea7c2787bee9fa96fada1ceb228369.png",
+                                "tmp43snzor4.png"
+                            ],
                             "name": "Glandes surrénales",
-                            "notes": []
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "74d40fc2-42ff-11ec-bacd-600308aa3fd6",
-                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "Loge rénale",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les surrénales sont situées en",
+                                        "T11"
+                                    ],
+                                    "guid": "kNWPVQGg{N",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La partie périphérique des surrénales provient",
+                                        "Du cœlome et du mésenchyme"
+                                    ],
+                                    "guid": "iGq*n21(Od",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La médulla des surrénales provient",
+                                        "Des crètes neurales"
+                                    ],
+                                    "guid": "E=ny}!CAH_",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Couleur des surrénales",
+                                        "Jaune chamois"
+                                    ],
+                                    "guid": "w3M7+T<@|a",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Forme de la surrénale droite",
+                                        "Bonnet phrygien<br><img src=\"paste-d12f0746233d5cc5d462e00ee7ecef4b5aa8296b.png\">"
+                                    ],
+                                    "guid": "I)Xkc9CBQr",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Forme de la surrénale gauche",
+                                        "Goutte<br><br><img src=\"paste-d12f0746233d5cc5d462e00ee7ecef4b5aa8296b.png\">"
+                                    ],
+                                    "guid": "l&HN_U`O.%",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "193d6decdfb6416598fd7972a7bcc0e9-ao-1",
+                                        "",
+                                        "<img src=\"tmp43snzor4.png\" />",
+                                        "<img src=\"193d6decdfb6416598fd7972a7bcc0e9-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"193d6decdfb6416598fd7972a7bcc0e9-ao-1-A.svg\" />",
+                                        "<img src=\"193d6decdfb6416598fd7972a7bcc0e9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "x=C4tF,T`M",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "193d6decdfb6416598fd7972a7bcc0e9-ao-2",
+                                        "",
+                                        "<img src=\"tmp43snzor4.png\" />",
+                                        "<img src=\"193d6decdfb6416598fd7972a7bcc0e9-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"193d6decdfb6416598fd7972a7bcc0e9-ao-2-A.svg\" />",
+                                        "<img src=\"193d6decdfb6416598fd7972a7bcc0e9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "g!6jKhHU[k",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "193d6decdfb6416598fd7972a7bcc0e9-ao-3",
+                                        "",
+                                        "<img src=\"tmp43snzor4.png\" />",
+                                        "<img src=\"193d6decdfb6416598fd7972a7bcc0e9-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"193d6decdfb6416598fd7972a7bcc0e9-ao-3-A.svg\" />",
+                                        "<img src=\"193d6decdfb6416598fd7972a7bcc0e9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "pU9.sCSG<?",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sécrétion de la partie médullaire des surrénales",
+                                        "Catécholamines (adrénaline, noradrénaline, dopamine)"
+                                    ],
+                                    "guid": "mbU7K:+l6Z",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sécrétion de la partie corticale des surrénales",
+                                        "corticoïdes<br><ul><li>minéralo-corticoïdes (aldostérone)</li><li>glucocorticoïdes (cortisol)</li><li>stéroïdes sexuels (androgènes et œstrogènes)</li></ul>Sécrété par ?"
+                                    ],
+                                    "guid": "JAT/g&<Bh;",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports de la surrénale gauche",
+                                        "Communs avec l'autre surrénale :<br><ul><li>pilier du diaphragme</li><li>muscle carré des lombes</li><li>plexus cœliaque<br></li><li>pôle supérieur du rein<br></li></ul>Particulier à ce côté<br><ul><li>tombe sur le pédicule rénal<br></li><li>queue du pancréas<br></li></ul>⇒ Rapports de quelle surrénale ?"
+                                    ],
+                                    "guid": "tYna+;uU5u",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports de la surrénale droite",
+                                        "Communs avec l'autre surrénale :<br><ul><li>pilier du diaphragme</li><li>muscle carré des lombes</li><li>plexus cœliaque<br></li><li>pôle supérieur du&nbsp;rein<br></li></ul>Particulier à ce côté<br><ul><li>Veine cave<br></li><li>Foie</li></ul>⇒ Rapport de quelle surrénale ?"
+                                    ],
+                                    "guid": "sh3a2IN|O$",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le rein droit est situé un peu plus {{c1::bas}} que le rein gauche",
+                                        ""
+                                    ],
+                                    "guid": "g8%qZ~9f/R",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Vascularisation des glandes surrénales (et origine)",
+                                        "<ul><li>L'artère capsulaire supérieure via l'artère phrénique inférieure. </li><li>L’artère capsulaire moyenne via l’aorte directement.</li><li>L'artère capsulaire inférieure via l'artère rénale.</li></ul><img src=\"paste-eda4bcbdd6ea7c2787bee9fa96fada1ceb228369.png\"><br>"
+                                    ],
+                                    "guid": "D``7$?0v67",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Retour veineux de la surrénale droite",
+                                        "Directement sur la veine cave"
+                                    ],
+                                    "guid": "kCtT.n:nM[",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Retour veineux de la surrénale gauche",
+                                        "Veine rénale"
+                                    ],
+                                    "guid": "Aq>2~Up2_]",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'exérèse de la surrénale {{c1::droite}} est délicate car {{c2::il faut&nbsp;couper des veines très courtes}}",
+                                        ""
+                                    ],
+                                    "guid": "KPb$,p()Wi",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'innervation des surrénales est {{c1::sympathique et parasympathique}}",
+                                        ""
+                                    ],
+                                    "guid": "fRM2_h<$8_",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Innervation des surrénales et origine",
+                                        "<ul><li>Plexus surrénaliens supérieurs ⇒ artère capsulaire sup<br></li><li>Plexus surrénaliens inférieurs ⇒ artère capsulaire inf<br></li><li>Plexus surrénaliens moyens ⇒ Ganglion&nbsp;cœliaque</li></ul>"
+                                    ],
+                                    "guid": "dcZ~Ow]_Mf",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A propos de l'innervation des surrénales, on parle de \"{{c1::feutrage neurogène}}\"",
+                                        ""
+                                    ],
+                                    "guid": "w()=EzRntn",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -16605,6 +16841,2096 @@
                                     "tags": []
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "74d40fc2-42ff-11ec-bacd-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "16d360e516d942ca8c1ca7034aef1846-ao-1-A.svg",
+                                "16d360e516d942ca8c1ca7034aef1846-ao-1-Q.svg",
+                                "16d360e516d942ca8c1ca7034aef1846-ao-2-A.svg",
+                                "16d360e516d942ca8c1ca7034aef1846-ao-2-Q.svg",
+                                "16d360e516d942ca8c1ca7034aef1846-ao-3-A.svg",
+                                "16d360e516d942ca8c1ca7034aef1846-ao-3-Q.svg",
+                                "16d360e516d942ca8c1ca7034aef1846-ao-O.svg",
+                                "208222c9e1684013958f4119d8ec31f2-ao-1-A.svg",
+                                "208222c9e1684013958f4119d8ec31f2-ao-1-Q.svg",
+                                "208222c9e1684013958f4119d8ec31f2-ao-2-A.svg",
+                                "208222c9e1684013958f4119d8ec31f2-ao-2-Q.svg",
+                                "208222c9e1684013958f4119d8ec31f2-ao-O.svg",
+                                "4376daebf64c495eb60bc9c863769e1d-ao-1-A.svg",
+                                "4376daebf64c495eb60bc9c863769e1d-ao-1-Q.svg",
+                                "4376daebf64c495eb60bc9c863769e1d-ao-2-A.svg",
+                                "4376daebf64c495eb60bc9c863769e1d-ao-2-Q.svg",
+                                "4376daebf64c495eb60bc9c863769e1d-ao-3-A.svg",
+                                "4376daebf64c495eb60bc9c863769e1d-ao-3-Q.svg",
+                                "4376daebf64c495eb60bc9c863769e1d-ao-O.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-1-A.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-1-Q.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-10-A.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-10-Q.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-2-A.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-2-Q.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-3-A.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-3-Q.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-4-A.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-4-Q.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-5-A.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-5-Q.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-6-A.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-6-Q.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-7-A.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-7-Q.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-8-A.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-8-Q.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-9-A.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-9-Q.svg",
+                                "58666f2effec4f75b8134bda4aaae446-ao-O.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-1-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-1-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-10-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-10-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-11-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-11-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-12-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-12-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-13-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-13-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-14-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-14-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-15-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-15-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-16-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-16-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-17-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-17-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-2-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-2-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-3-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-3-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-4-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-4-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-5-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-5-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-6-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-6-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-7-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-7-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-8-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-8-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-9-A.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-9-Q.svg",
+                                "85bbedd678874894a22d8720d2015209-ao-O.svg",
+                                "933819efe9e045b9bd0f3e51bae4a364-ao-1-A.svg",
+                                "933819efe9e045b9bd0f3e51bae4a364-ao-1-Q.svg",
+                                "933819efe9e045b9bd0f3e51bae4a364-ao-2-A.svg",
+                                "933819efe9e045b9bd0f3e51bae4a364-ao-2-Q.svg",
+                                "933819efe9e045b9bd0f3e51bae4a364-ao-3-A.svg",
+                                "933819efe9e045b9bd0f3e51bae4a364-ao-3-Q.svg",
+                                "933819efe9e045b9bd0f3e51bae4a364-ao-4-A.svg",
+                                "933819efe9e045b9bd0f3e51bae4a364-ao-4-Q.svg",
+                                "933819efe9e045b9bd0f3e51bae4a364-ao-O.svg",
+                                "953402dc95a64116825bc2ad76f2b238-ao-1-A.svg",
+                                "953402dc95a64116825bc2ad76f2b238-ao-1-Q.svg",
+                                "953402dc95a64116825bc2ad76f2b238-ao-2-A.svg",
+                                "953402dc95a64116825bc2ad76f2b238-ao-2-Q.svg",
+                                "953402dc95a64116825bc2ad76f2b238-ao-3-A.svg",
+                                "953402dc95a64116825bc2ad76f2b238-ao-3-Q.svg",
+                                "953402dc95a64116825bc2ad76f2b238-ao-4-A.svg",
+                                "953402dc95a64116825bc2ad76f2b238-ao-4-Q.svg",
+                                "953402dc95a64116825bc2ad76f2b238-ao-O.svg",
+                                "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-1-A.svg",
+                                "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-1-Q.svg",
+                                "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-2-A.svg",
+                                "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-2-Q.svg",
+                                "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-3-A.svg",
+                                "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-3-Q.svg",
+                                "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-4-A.svg",
+                                "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-4-Q.svg",
+                                "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-O.svg",
+                                "b70cb6bbac9d4f099c90d55261162b18-ao-1-A.svg",
+                                "b70cb6bbac9d4f099c90d55261162b18-ao-1-Q.svg",
+                                "b70cb6bbac9d4f099c90d55261162b18-ao-2-A.svg",
+                                "b70cb6bbac9d4f099c90d55261162b18-ao-2-Q.svg",
+                                "b70cb6bbac9d4f099c90d55261162b18-ao-3-A.svg",
+                                "b70cb6bbac9d4f099c90d55261162b18-ao-3-Q.svg",
+                                "b70cb6bbac9d4f099c90d55261162b18-ao-4-A.svg",
+                                "b70cb6bbac9d4f099c90d55261162b18-ao-4-Q.svg",
+                                "b70cb6bbac9d4f099c90d55261162b18-ao-5-A.svg",
+                                "b70cb6bbac9d4f099c90d55261162b18-ao-5-Q.svg",
+                                "b70cb6bbac9d4f099c90d55261162b18-ao-O.svg",
+                                "d6f57de5d40346ae89e4ce5feafa33ae-ao-1-A.svg",
+                                "d6f57de5d40346ae89e4ce5feafa33ae-ao-1-Q.svg",
+                                "d6f57de5d40346ae89e4ce5feafa33ae-ao-2-A.svg",
+                                "d6f57de5d40346ae89e4ce5feafa33ae-ao-2-Q.svg",
+                                "d6f57de5d40346ae89e4ce5feafa33ae-ao-3-A.svg",
+                                "d6f57de5d40346ae89e4ce5feafa33ae-ao-3-Q.svg",
+                                "d6f57de5d40346ae89e4ce5feafa33ae-ao-O.svg",
+                                "e912ffab9b4c4b6cbdf96ca89284d75b-ao-1-A.svg",
+                                "e912ffab9b4c4b6cbdf96ca89284d75b-ao-1-Q.svg",
+                                "e912ffab9b4c4b6cbdf96ca89284d75b-ao-2-A.svg",
+                                "e912ffab9b4c4b6cbdf96ca89284d75b-ao-2-Q.svg",
+                                "e912ffab9b4c4b6cbdf96ca89284d75b-ao-3-A.svg",
+                                "e912ffab9b4c4b6cbdf96ca89284d75b-ao-3-Q.svg",
+                                "e912ffab9b4c4b6cbdf96ca89284d75b-ao-O.svg",
+                                "f4aa89d8c6c340b88e6f359956eab52e-ao-1-A.svg",
+                                "f4aa89d8c6c340b88e6f359956eab52e-ao-1-Q.svg",
+                                "f4aa89d8c6c340b88e6f359956eab52e-ao-2-A.svg",
+                                "f4aa89d8c6c340b88e6f359956eab52e-ao-2-Q.svg",
+                                "f4aa89d8c6c340b88e6f359956eab52e-ao-3-A.svg",
+                                "f4aa89d8c6c340b88e6f359956eab52e-ao-3-Q.svg",
+                                "f4aa89d8c6c340b88e6f359956eab52e-ao-O.svg",
+                                "paste-0c59477654e6466ead05b09cc9b12812ba9acb7b.jpg",
+                                "paste-1bb71a203c7a36b6c980a184485149f6568f39e7.png",
+                                "paste-42004c6ec4122799132bafa87052d6f4c31a6469.jpg",
+                                "paste-569a4805e60e87baf1985a077010fb3e54700a28.png",
+                                "paste-9905d60ea105a39619a990d4193baadc2e1960be.jpg",
+                                "paste-cd889302a841ea975287fc11948b865532ca62f0.png",
+                                "paste-d2155186843c98ad11ace2c916a78162ec9c89c0.jpg",
+                                "tmp0_t77z04.png",
+                                "tmp1d8c55sc.png",
+                                "tmp1ngere8w.png",
+                                "tmp5enyrpha.png",
+                                "tmp6ii_ye8h.png",
+                                "tmpg4ehx0kj.png",
+                                "tmpj8pyztfh.png",
+                                "tmpl19q377u.png",
+                                "tmpojfdkf_4.png",
+                                "tmpu2x86r1b.png",
+                                "tmpuv_7jert.png",
+                                "tmpymcvf92i.png"
+                            ],
+                            "name": "Reins et voies urinaires supérieures",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le rein mesure chez l’adulte {{c1::12 cm}} de longueur, {{c1::6 cm}}&nbsp;de largeur et {{c1::3 cm}} d’épaisseur.",
+                                        ""
+                                    ],
+                                    "guid": "JJtDE0Z>T{",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "933819efe9e045b9bd0f3e51bae4a364-ao-1",
+                                        "",
+                                        "<img src=\"tmpl19q377u.png\" />",
+                                        "<img src=\"933819efe9e045b9bd0f3e51bae4a364-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"933819efe9e045b9bd0f3e51bae4a364-ao-1-A.svg\" />",
+                                        "<img src=\"933819efe9e045b9bd0f3e51bae4a364-ao-O.svg\" />"
+                                    ],
+                                    "guid": "NEM6`yUQx#",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "933819efe9e045b9bd0f3e51bae4a364-ao-2",
+                                        "",
+                                        "<img src=\"tmpl19q377u.png\" />",
+                                        "<img src=\"933819efe9e045b9bd0f3e51bae4a364-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"933819efe9e045b9bd0f3e51bae4a364-ao-2-A.svg\" />",
+                                        "<img src=\"933819efe9e045b9bd0f3e51bae4a364-ao-O.svg\" />"
+                                    ],
+                                    "guid": "nsF3O0PuO.",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "933819efe9e045b9bd0f3e51bae4a364-ao-3",
+                                        "",
+                                        "<img src=\"tmpl19q377u.png\" />",
+                                        "<img src=\"933819efe9e045b9bd0f3e51bae4a364-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"933819efe9e045b9bd0f3e51bae4a364-ao-3-A.svg\" />",
+                                        "<img src=\"933819efe9e045b9bd0f3e51bae4a364-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Jl_~2VBU5e",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "933819efe9e045b9bd0f3e51bae4a364-ao-4",
+                                        "",
+                                        "<img src=\"tmpl19q377u.png\" />",
+                                        "<img src=\"933819efe9e045b9bd0f3e51bae4a364-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"933819efe9e045b9bd0f3e51bae4a364-ao-4-A.svg\" />",
+                                        "<img src=\"933819efe9e045b9bd0f3e51bae4a364-ao-O.svg\" />"
+                                    ],
+                                    "guid": "q+>=?^JWh^",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le {{c1::pédicule}} du rein pénètre dans le {{c2::hile}}, qui présente deux {{c1::lèvres}} ({{c1::dorsale}} et {{c1::ventrale}}). La {{c1::lèvre ventrale}} est {{c2::proéminente en avant.}}",
+                                        ""
+                                    ],
+                                    "guid": "pg{5/D,p[z",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le&nbsp;sinus du rein est une cavité&nbsp;profonde de {{c1::3 cm}} environ",
+                                        ""
+                                    ],
+                                    "guid": "Bkh&33@xtf",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Composition de la voie excrétrice du sinus rénal",
+                                        "<ul><li>Le bassinet (pyélon)</li><li>3 calices majeurs</li><li>Plusieurs calices mineurs, avec chacun une papille rénale</li></ul>"
+                                    ],
+                                    "guid": "d^w/<McDu$",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La papille rénale est&nbsp;criblée de {{c1::15}} à {{c1::20}} foramens",
+                                        ""
+                                    ],
+                                    "guid": "y%|.trE=|U",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les {{c1::papilles rénales}} sont l'extrémité des {{c1::pyramides rénales de Malpighi}}",
+                                        ""
+                                    ],
+                                    "guid": "qW+SwKu#P2",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "On a environ {{c1::8}} à {{c1::10}} pyramides rénales de Malpighi dans chaque rein",
+                                        ""
+                                    ],
+                                    "guid": "Mag/%ARMkc",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le cortex forme une couche {{c1::brun pâle::couleur}} de {{c1::1 cm}} d’épaisseur environ.",
+                                        ""
+                                    ],
+                                    "guid": "zUnA_#h(.+",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les {{c2::corpuscules rénaux de Malpighi}} correspondent aux {{c1::glomérules}}",
+                                        ""
+                                    ],
+                                    "guid": "hF+zG#l5Rd",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les {{c1::colonnes de Bertin}} s'enfoncent {{c2::entre les pyramides rénales::où ?}}",
+                                        ""
+                                    ],
+                                    "guid": "{XgnPw^_9",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les {{c2::pyramides de Ferrein}} sont composées de {{c1::tubes collecteurs}} et ont leur sommet dirigé vers {{c1::la capsule}}",
+                                        ""
+                                    ],
+                                    "guid": "eDDVg];*PA",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Un {{c1::lobe rénal}} comporte {{c2::une pyramide rénale et le cortex correspondant.}}",
+                                        ""
+                                    ],
+                                    "guid": "uu6S.wu?Fr",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Dans chaque lobe, chaque {{c1::pyramide de Ferrein}} forme {{c2::un lobule}}",
+                                        ""
+                                    ],
+                                    "guid": "C<UO%>m}^H",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le cortex est le lieu de {{c1::l’ultrafiltration}} par {{c1::ses pelotons glomérulaires}}, et la médulla le siège {{c1::des phénomènes de réabsorption de liquide}}&nbsp;par {{c1::ses vaisseaux allongés et droits, parallèles aux tubes rénaux.}}",
+                                        ""
+                                    ],
+                                    "guid": "x+5L[5i|dC",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les reins sont situés dans {{c1::les fosses lombales}}, de part et d’autre de {{c1::la colonne vertébrale}} et {{c1::des muscles psoas}}",
+                                        "<img src=\"paste-1bb71a203c7a36b6c980a184485149f6568f39e7.png\">"
+                                    ],
+                                    "guid": "qTo)RP2i~?",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les viscères les plus profonds de l’abdomen sont {{c1::les reins}}",
+                                        ""
+                                    ],
+                                    "guid": "q`dcK!a{vW",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le grand axe rénal est {{c1::oblique en haut et en dedans}}, et le bord médial est plus {{c1::ventral}} que le bord latéral",
+                                        ""
+                                    ],
+                                    "guid": "Cyg-[*KzW%",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le hile du rein regarde {{c1::en avant et en dedans.}}",
+                                        ""
+                                    ],
+                                    "guid": "KSSpBd.*es",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les pôles crâniaux sont écartés de {{c1::3 à 4}}&nbsp;cm de la ligne médiane, et les pôles caudaux de {{c1::5 à 6}} cm",
+                                        ""
+                                    ],
+                                    "guid": "h5|W<1M-V|",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le pôle caudal du rein droit se projette sur {{c1::l’axe du processus costiforme de L3}}&nbsp;et son pôle crânial {{c1::croise la 12e côte droite}}",
+                                        ""
+                                    ],
+                                    "guid": "NB:0Ot];JI",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le pôle caudal du rein gauche est {{c1::en regard du disque L2-L3}} et son pôle crânial {{c1::atteint la 11e côte gauche.}}",
+                                        ""
+                                    ],
+                                    "guid": "Cgh1:nBiVX",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les deux hiles rénaux se trouvent en regard de {{c1::L1}}",
+                                        ""
+                                    ],
+                                    "guid": "c&RIbgph-b",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::Le cercle exo-rénal}}&nbsp;irrigue la capsule par sa périphérie",
+                                        ""
+                                    ],
+                                    "guid": "sp|ehEc#O^",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b70cb6bbac9d4f099c90d55261162b18-ao-1",
+                                        "",
+                                        "<img src=\"tmpuv_7jert.png\" />",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-1-A.svg\" />",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-O.svg\" />"
+                                    ],
+                                    "guid": "hSeKPS`f*N",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b70cb6bbac9d4f099c90d55261162b18-ao-2",
+                                        "",
+                                        "<img src=\"tmpuv_7jert.png\" />",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-2-A.svg\" />",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-O.svg\" />"
+                                    ],
+                                    "guid": "ws-7rnoc;,",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b70cb6bbac9d4f099c90d55261162b18-ao-3",
+                                        "",
+                                        "<img src=\"tmpuv_7jert.png\" />",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-3-A.svg\" />",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-O.svg\" />"
+                                    ],
+                                    "guid": "igyysanoS1",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b70cb6bbac9d4f099c90d55261162b18-ao-4",
+                                        "",
+                                        "<img src=\"tmpuv_7jert.png\" />",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-4-A.svg\" />",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-O.svg\" />"
+                                    ],
+                                    "guid": "HcK*EG5kh*",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b70cb6bbac9d4f099c90d55261162b18-ao-5",
+                                        "",
+                                        "<img src=\"tmpuv_7jert.png\" />",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-5-A.svg\" />",
+                                        "<img src=\"b70cb6bbac9d4f099c90d55261162b18-ao-O.svg\" />"
+                                    ],
+                                    "guid": "k]JAjHfn$M",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "208222c9e1684013958f4119d8ec31f2-ao-1",
+                                        "",
+                                        "<img src=\"tmpg4ehx0kj.png\" />",
+                                        "<img src=\"208222c9e1684013958f4119d8ec31f2-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"208222c9e1684013958f4119d8ec31f2-ao-1-A.svg\" />",
+                                        "<img src=\"208222c9e1684013958f4119d8ec31f2-ao-O.svg\" />"
+                                    ],
+                                    "guid": "IXi9Z!GL,U",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "208222c9e1684013958f4119d8ec31f2-ao-2",
+                                        "",
+                                        "<img src=\"tmpg4ehx0kj.png\" />",
+                                        "<img src=\"208222c9e1684013958f4119d8ec31f2-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"208222c9e1684013958f4119d8ec31f2-ao-2-A.svg\" />",
+                                        "<img src=\"208222c9e1684013958f4119d8ec31f2-ao-O.svg\" />"
+                                    ],
+                                    "guid": "laI<-y8xKG",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Composition de la loge&nbsp;rénale",
+                                        "<ul><li>Fascia pré-rénal</li><li>Fascia rétro-rénal (plus épais)</li><li>Graisse péri-rénale</li></ul>"
+                                    ],
+                                    "guid": "IuOVLzKPMF",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Autre nom du fascia rétro-rénal",
+                                        "Autre nom du fascia de Zuckerland"
+                                    ],
+                                    "guid": "l_I3Bg0i@K",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les fascias pré et rétro-rénaux se rejoignent pour former {{c1::la cloison inter surrénalo-rénale}}",
+                                        ""
+                                    ],
+                                    "guid": "tiJ:F4EAgg",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Autour de la loge rénale, on trouve {{c1::la graisse para-rénale}}, qui définit {{c1::l'espace de Gérota}}",
+                                        ""
+                                    ],
+                                    "guid": "QU}8JwnO8X",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La vascularisation artérielle des reins représente {{c1::1/5}} du débit cardiaque",
+                                        ""
+                                    ],
+                                    "guid": "oinI9m]6G2",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La vascularisation rénale est {{c1::de type terminale}}&nbsp;ce qui explique {{c2::la possibilité d’infarctus rénal}}",
+                                        ""
+                                    ],
+                                    "guid": "G(DtZVe:`9",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'artère rénale est de fort calibre ({{c1::5 à 6.5}} mm) née de {{c1::la face latérale de l’aorte}} en regard de {{c1::L1}}",
+                                        ""
+                                    ],
+                                    "guid": "H/>WhAtYB*",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Collatérales de l'artère rénale et leur vascularisation",
+                                        "<ul><li>Capsulaires caudales ⇒ glande surrénale</li><li>Urétérique crâniale ⇒ voies excrétrices<br></li></ul>"
+                                    ],
+                                    "guid": "spfT-Iku<8",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-1",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-1-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "q7Vk%VWd3%",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-2",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-2-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "gv<$NmNYA!",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-3",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-3-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "O]C(=$?FYy",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-4",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-4-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "n*XS^~9OF{",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-5",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-5-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "I^$wAst!V~",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-6",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-6-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "b^.FxTk*@%",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-7",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-7-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-7-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "q>UE[_j^6Q",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-8",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-8-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-8-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "kAa:jh$3/%",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-9",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-9-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-9-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Ob$V!]jY`N",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-10",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-10-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-10-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "vwh!DEk8;r",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-11",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-11-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-11-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "r1&J<%qGuf",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-12",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-12-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-12-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "A@4R[?xP3*",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-13",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-13-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-13-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "in>TAqeXdR",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-14",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-14-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-14-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "E^r!RZ)`=#",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-15",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-15-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-15-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "d[+7,pJcHL",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-16",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-16-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-16-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "m`5<j&q{UV",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "85bbedd678874894a22d8720d2015209-ao-17",
+                                        "",
+                                        "<img src=\"tmpu2x86r1b.png\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-17-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-17-A.svg\" />",
+                                        "<img src=\"85bbedd678874894a22d8720d2015209-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Ocne=L)XTt",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Branches rénales de l'artère rénale",
+                                        "Ventrale et dorsale"
+                                    ],
+                                    "guid": "cXi~l_{E.N",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les rameaux des branches (dorsale ou ventrale) de l'artère rénale forment {{c1::le plan pré pyélique}}, plutôt {{c1::caudal}}, et {{c1::le plan&nbsp;rétro pyélique}}, plutôt {{c1::crânial}}",
+                                        "<img src=\"paste-d2155186843c98ad11ace2c916a78162ec9c89c0.jpg\">"
+                                    ],
+                                    "guid": "fcz_;vwGo",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "58666f2effec4f75b8134bda4aaae446-ao-1",
+                                        "",
+                                        "<img src=\"tmp6ii_ye8h.png\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-1-A.svg\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-O.svg\" />"
+                                    ],
+                                    "guid": "f;ARA&I|hW",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "58666f2effec4f75b8134bda4aaae446-ao-2",
+                                        "",
+                                        "<img src=\"tmp6ii_ye8h.png\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-2-A.svg\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-O.svg\" />"
+                                    ],
+                                    "guid": "f_eh,Y-bNI",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "58666f2effec4f75b8134bda4aaae446-ao-3",
+                                        "",
+                                        "<img src=\"tmp6ii_ye8h.png\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-3-A.svg\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-O.svg\" />"
+                                    ],
+                                    "guid": "jKGdjAo}ft",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "58666f2effec4f75b8134bda4aaae446-ao-4",
+                                        "",
+                                        "<img src=\"tmp6ii_ye8h.png\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-4-A.svg\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Fym}VXe-Vv",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "58666f2effec4f75b8134bda4aaae446-ao-5",
+                                        "",
+                                        "<img src=\"tmp6ii_ye8h.png\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-5-A.svg\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-O.svg\" />"
+                                    ],
+                                    "guid": "D.+)?E^6Hv",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "58666f2effec4f75b8134bda4aaae446-ao-6",
+                                        "",
+                                        "<img src=\"tmp6ii_ye8h.png\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-6-A.svg\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-O.svg\" />"
+                                    ],
+                                    "guid": "C^fJf*jgmQ",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "58666f2effec4f75b8134bda4aaae446-ao-7",
+                                        "",
+                                        "<img src=\"tmp6ii_ye8h.png\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-7-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-7-A.svg\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-O.svg\" />"
+                                    ],
+                                    "guid": "eyv.g,V+W>",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "58666f2effec4f75b8134bda4aaae446-ao-8",
+                                        "",
+                                        "<img src=\"tmp6ii_ye8h.png\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-8-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-8-A.svg\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-O.svg\" />"
+                                    ],
+                                    "guid": "u$b^,GCUij",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "58666f2effec4f75b8134bda4aaae446-ao-9",
+                                        "",
+                                        "<img src=\"tmp6ii_ye8h.png\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-9-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-9-A.svg\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-O.svg\" />"
+                                    ],
+                                    "guid": "jqNcoPEL?G",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "58666f2effec4f75b8134bda4aaae446-ao-10",
+                                        "",
+                                        "<img src=\"tmp6ii_ye8h.png\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-10-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-10-A.svg\" />",
+                                        "<img src=\"58666f2effec4f75b8134bda4aaae446-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Dq>w*VH2$V",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Variations artérielles rénales",
+                                        "<ul><li>Artère polaire caudale (depuis l'artère rénale ou l'aorte)<br></li><li>Artère polaire crâniale<br></li><li>Artère rénale&nbsp; double, triple voire quadruple<br></li></ul>"
+                                    ],
+                                    "guid": "m3Lt49EB^/",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La présence d'une {{c2::artère polaire caudale}} peut entraîner {{c1::une compression de la zone de jonction pyélo-urétérale}}",
+                                        ""
+                                    ],
+                                    "guid": "A=`w!L7+V0",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les veines rénales ont un trajet {{c1::oblique en haut et en dedans}}",
+                                        ""
+                                    ],
+                                    "guid": "M(u-M}p46n",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "4376daebf64c495eb60bc9c863769e1d-ao-1",
+                                        "",
+                                        "<img src=\"tmp1d8c55sc.png\" />",
+                                        "<img src=\"4376daebf64c495eb60bc9c863769e1d-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"4376daebf64c495eb60bc9c863769e1d-ao-1-A.svg\" />",
+                                        "<img src=\"4376daebf64c495eb60bc9c863769e1d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "I%:gcJ<()3",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "4376daebf64c495eb60bc9c863769e1d-ao-2",
+                                        "",
+                                        "<img src=\"tmp1d8c55sc.png\" />",
+                                        "<img src=\"4376daebf64c495eb60bc9c863769e1d-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"4376daebf64c495eb60bc9c863769e1d-ao-2-A.svg\" />",
+                                        "<img src=\"4376daebf64c495eb60bc9c863769e1d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "s4M4DxrMT:",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "4376daebf64c495eb60bc9c863769e1d-ao-3",
+                                        "",
+                                        "<img src=\"tmp1d8c55sc.png\" />",
+                                        "<img src=\"4376daebf64c495eb60bc9c863769e1d-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"4376daebf64c495eb60bc9c863769e1d-ao-3-A.svg\" />",
+                                        "<img src=\"4376daebf64c495eb60bc9c863769e1d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "uNh#C+-%:}",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Lymphonoeuds rénaux",
+                                        "Latéro-aortiques, inter-aortico-caves et latéro-caves<br><br><img src=\"paste-9905d60ea105a39619a990d4193baadc2e1960be.jpg\">"
+                                    ],
+                                    "guid": "m7xlrAiB&w",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le système collecteur de la loge rénale est en connexion avec celui {{c1::du diaphragme.}}",
+                                        ""
+                                    ],
+                                    "guid": "m|HOkDx9Ic",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L’innervation du rein dépend du plexus {{c1::cœliaque}}, par l’intermédiaire des ganglions {{c1::aortico-rénaux}}<br>Il reçoit également des filets directs des nerfs {{c1::grand et petit splanchniques et du splanchnique inférieur}} ⇒ {{c2::fibres&nbsp; de&nbsp; la douleur qui proviennent essentiellement de la voie excrétrice::origine}}",
+                                        ""
+                                    ],
+                                    "guid": "B``/{f`eoh",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "16d360e516d942ca8c1ca7034aef1846-ao-1",
+                                        "",
+                                        "<img src=\"tmpojfdkf_4.png\" />",
+                                        "<img src=\"16d360e516d942ca8c1ca7034aef1846-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"16d360e516d942ca8c1ca7034aef1846-ao-1-A.svg\" />",
+                                        "<img src=\"16d360e516d942ca8c1ca7034aef1846-ao-O.svg\" />"
+                                    ],
+                                    "guid": "wElj$IsaXi",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "16d360e516d942ca8c1ca7034aef1846-ao-2",
+                                        "",
+                                        "<img src=\"tmpojfdkf_4.png\" />",
+                                        "<img src=\"16d360e516d942ca8c1ca7034aef1846-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"16d360e516d942ca8c1ca7034aef1846-ao-2-A.svg\" />",
+                                        "<img src=\"16d360e516d942ca8c1ca7034aef1846-ao-O.svg\" />"
+                                    ],
+                                    "guid": "rJMnO~t_0o",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "16d360e516d942ca8c1ca7034aef1846-ao-3",
+                                        "",
+                                        "<img src=\"tmpojfdkf_4.png\" />",
+                                        "<img src=\"16d360e516d942ca8c1ca7034aef1846-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"16d360e516d942ca8c1ca7034aef1846-ao-3-A.svg\" />",
+                                        "<img src=\"16d360e516d942ca8c1ca7034aef1846-ao-O.svg\" />"
+                                    ],
+                                    "guid": "M9t(BSj|yI",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports des reins en arrière",
+                                        "<ul><li>Côtes</li><li>Diaphragme</li><li>M. Carré des lombes</li><li>M. Transverse&nbsp;</li><li>Paroi lombale superficielle</li></ul>Quels rapports avec les reins ?"
+                                    ],
+                                    "guid": "Fg[?4D;@o,",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports des reins médialement",
+                                        "Hile :<br><ul><li>Pédicule</li><li>Bord latéral du psoas</li><li>Uretère proximale</li><li>Vaisseaux gonadiques</li></ul>⇒ Quel rapport avec les reins ?<br>"
+                                    ],
+                                    "guid": "u3sV=xHcIK",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports spécifiques du rein droit",
+                                        "<ul><li>Médialement : v. cavce caudale, duodénum D2</li><li>Caudalement : angle colique droit</li><li>Ventralement : Racine de mésocolon transverse, face inf. du foie</li></ul>⇒ Quel rapport avec les reins ?<br>"
+                                    ],
+                                    "guid": "G>y%>Z4/39",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports spécifiques du rein gauche",
+                                        "<ul><li>Médialement : Aorte, surrénale</li><li>Crânialement : Surrénale</li><li>Caudalement : Colon gauche et mésocolon</li><li>Ventralement : Estomac, queue du pancréas, pédicule splénique, racine du mésocolon transverse, angle duodénojéjunal, 1e anse</li></ul>⇒ Quel rapport avec les reins ?<br>"
+                                    ],
+                                    "guid": "DfYZ5j]{I:",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "f4aa89d8c6c340b88e6f359956eab52e-ao-1",
+                                        "",
+                                        "<img src=\"tmp5enyrpha.png\" />",
+                                        "<img src=\"f4aa89d8c6c340b88e6f359956eab52e-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"f4aa89d8c6c340b88e6f359956eab52e-ao-1-A.svg\" />",
+                                        "<img src=\"f4aa89d8c6c340b88e6f359956eab52e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "yO[][r7TWM",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "f4aa89d8c6c340b88e6f359956eab52e-ao-2",
+                                        "",
+                                        "<img src=\"tmp5enyrpha.png\" />",
+                                        "<img src=\"f4aa89d8c6c340b88e6f359956eab52e-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"f4aa89d8c6c340b88e6f359956eab52e-ao-2-A.svg\" />",
+                                        "<img src=\"f4aa89d8c6c340b88e6f359956eab52e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "B,(TfL~[^H",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "f4aa89d8c6c340b88e6f359956eab52e-ao-3",
+                                        "",
+                                        "<img src=\"tmp5enyrpha.png\" />",
+                                        "<img src=\"f4aa89d8c6c340b88e6f359956eab52e-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"f4aa89d8c6c340b88e6f359956eab52e-ao-3-A.svg\" />",
+                                        "<img src=\"f4aa89d8c6c340b88e6f359956eab52e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "<bt*U9Q0/",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-1",
+                                        "",
+                                        "<img src=\"tmp1ngere8w.png\" />",
+                                        "<img src=\"b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-1-A.svg\" />",
+                                        "<img src=\"b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-O.svg\" />"
+                                    ],
+                                    "guid": "MbZ$5m;iCk",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-2",
+                                        "",
+                                        "<img src=\"tmp1ngere8w.png\" />",
+                                        "<img src=\"b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-2-A.svg\" />",
+                                        "<img src=\"b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-O.svg\" />"
+                                    ],
+                                    "guid": "qnhQp8wtpu",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-3",
+                                        "",
+                                        "<img src=\"tmp1ngere8w.png\" />",
+                                        "<img src=\"b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-3-A.svg\" />",
+                                        "<img src=\"b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-O.svg\" />"
+                                    ],
+                                    "guid": "m%)ndQ7*~=",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-4",
+                                        "",
+                                        "<img src=\"tmp1ngere8w.png\" />",
+                                        "<img src=\"b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-4-A.svg\" />",
+                                        "<img src=\"b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-O.svg\" />"
+                                    ],
+                                    "guid": "fQ[rQ@5:&M",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "e912ffab9b4c4b6cbdf96ca89284d75b-ao-1",
+                                        "",
+                                        "<img src=\"tmpj8pyztfh.png\" />",
+                                        "<img src=\"e912ffab9b4c4b6cbdf96ca89284d75b-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"e912ffab9b4c4b6cbdf96ca89284d75b-ao-1-A.svg\" />",
+                                        "<img src=\"e912ffab9b4c4b6cbdf96ca89284d75b-ao-O.svg\" />"
+                                    ],
+                                    "guid": "DEk~ya*F7%",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "e912ffab9b4c4b6cbdf96ca89284d75b-ao-2",
+                                        "",
+                                        "<img src=\"tmpj8pyztfh.png\" />",
+                                        "<img src=\"e912ffab9b4c4b6cbdf96ca89284d75b-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"e912ffab9b4c4b6cbdf96ca89284d75b-ao-2-A.svg\" />",
+                                        "<img src=\"e912ffab9b4c4b6cbdf96ca89284d75b-ao-O.svg\" />"
+                                    ],
+                                    "guid": "I@z}I,00(.",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "e912ffab9b4c4b6cbdf96ca89284d75b-ao-3",
+                                        "",
+                                        "<img src=\"tmpj8pyztfh.png\" />",
+                                        "<img src=\"e912ffab9b4c4b6cbdf96ca89284d75b-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"e912ffab9b4c4b6cbdf96ca89284d75b-ao-3-A.svg\" />",
+                                        "<img src=\"e912ffab9b4c4b6cbdf96ca89284d75b-ao-O.svg\" />"
+                                    ],
+                                    "guid": "moJM!9M8%A",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le pédicule rénal comprend d’avant en arrière <br><ul><li>{{c1::la veine rénale}}</li><li>{{c1::l’artère rénale un peu plus crâniale}}</li><li>{{c1::la voie excrétrice}}</li></ul>",
+                                        "<img src=\"paste-42004c6ec4122799132bafa87052d6f4c31a6469.jpg\">"
+                                    ],
+                                    "guid": "DvDir1j?=>",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le bassinet (ou {{c1::pyélon}}) mesure environ {{c1::20 mm}} de haut, {{c1::15 mm}} de large et {{c1::moins de 10 mm}} d’épaisseur",
+                                        ""
+                                    ],
+                                    "guid": "caOPj7ON9p",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<ul><li>La veine du pédicule rénal {{c1::droit}} est courte.&nbsp;L'artère du pédicule rénal {{c1::droit}} est longue</li><li>La veine du pédicule rénal {{c1::gauche}} est longue.&nbsp;L'artère du pédicule rénal {{c1::gauche}}&nbsp;est courte</li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "OY&|v$trg<",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La veine rénale {{c1::gauche}} a un long trajet horizontal à hauteur de {{c1::L1}}",
+                                        ""
+                                    ],
+                                    "guid": "H(uC+Io=[q",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Pince vasculaire aorto-mésentérique",
+                                        "Passage de la veine rénale gauche devant l'aorte sous&nbsp;la naissance de l’artère mésentérique crâniale"
+                                    ],
+                                    "guid": "N5)FIguJfN",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La veine rénale {{c2::gauche}} reçoit<br><ul><li>{{c1::la veine gonadique gauche}} à son bord {{c2::caudal}}</li><li>{{c1::la veine capsulaire}} à son bord {{c2::crânial}}</li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "Q0-iFg]e),",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La veine rénale {{c1::gauche}} donne souvent naissance à&nbsp;{{c2::la racine médiale de la veine hémi-azygos caudale}} en participant le {{c1::cercle réno-azygo-lombal}}",
+                                        ""
+                                    ],
+                                    "guid": "r}?3oZw%#|",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L’uretère est un conduit {{c1::musculo-membraneux::tissu ?}} long de {{c1::25 à 30}}cm et de diamètre {{c1::4 à 5}}mm",
+                                        ""
+                                    ],
+                                    "guid": "N6EMC3b^O6",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "953402dc95a64116825bc2ad76f2b238-ao-1",
+                                        "",
+                                        "<img src=\"tmpymcvf92i.png\" />",
+                                        "<img src=\"953402dc95a64116825bc2ad76f2b238-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"953402dc95a64116825bc2ad76f2b238-ao-1-A.svg\" />",
+                                        "<img src=\"953402dc95a64116825bc2ad76f2b238-ao-O.svg\" />"
+                                    ],
+                                    "guid": "K4@:Em}cLf",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "953402dc95a64116825bc2ad76f2b238-ao-2",
+                                        "",
+                                        "<img src=\"tmpymcvf92i.png\" />",
+                                        "<img src=\"953402dc95a64116825bc2ad76f2b238-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"953402dc95a64116825bc2ad76f2b238-ao-2-A.svg\" />",
+                                        "<img src=\"953402dc95a64116825bc2ad76f2b238-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Gc_KZ$yxWP",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "953402dc95a64116825bc2ad76f2b238-ao-3",
+                                        "",
+                                        "<img src=\"tmpymcvf92i.png\" />",
+                                        "<img src=\"953402dc95a64116825bc2ad76f2b238-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"953402dc95a64116825bc2ad76f2b238-ao-3-A.svg\" />",
+                                        "<img src=\"953402dc95a64116825bc2ad76f2b238-ao-O.svg\" />"
+                                    ],
+                                    "guid": "J^]he;RzmZ",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "953402dc95a64116825bc2ad76f2b238-ao-4",
+                                        "",
+                                        "<img src=\"tmpymcvf92i.png\" />",
+                                        "<img src=\"953402dc95a64116825bc2ad76f2b238-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"953402dc95a64116825bc2ad76f2b238-ao-4-A.svg\" />",
+                                        "<img src=\"953402dc95a64116825bc2ad76f2b238-ao-O.svg\" />"
+                                    ],
+                                    "guid": "dO+=A!ruMv",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Origine de l'uretère et position",
+                                        "Jonction pyélo-urétérale ⇒&nbsp;processus transverse de L2, à 4 cm environ de la ligne médiane"
+                                    ],
+                                    "guid": "Q*V]^00`%X",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Portions de l'uretère",
+                                        "<ul><li>Portion lombale<br></li><li>Portion&nbsp;pelvienne</li></ul>"
+                                    ],
+                                    "guid": "/mopQ@pS`",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Caractéristiques de la portion lombale de l'uretère : orientation, entouré de ?",
+                                        "Verticale, contre le psoas, entouré des vaisseaux gonadiques"
+                                    ],
+                                    "guid": "faA|>-8O!5",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Caractéristiques de la portion pelvienne de l'uretère : orientation, entouré de ?",
+                                        "Trajet horizontal en avant, contre la paroi"
+                                    ],
+                                    "guid": "cV3M?u1BJq",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'uretère lombal devient&nbsp;uretère pelvien au niveau {{c1::du détroit supérieur.}}",
+                                        "<img src=\"paste-0c59477654e6466ead05b09cc9b12812ba9acb7b.jpg\">"
+                                    ],
+                                    "guid": "y;,TMGq#TN",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "d6f57de5d40346ae89e4ce5feafa33ae-ao-1",
+                                        "",
+                                        "<img src=\"tmp0_t77z04.png\" />",
+                                        "<img src=\"d6f57de5d40346ae89e4ce5feafa33ae-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"d6f57de5d40346ae89e4ce5feafa33ae-ao-1-A.svg\" />",
+                                        "<img src=\"d6f57de5d40346ae89e4ce5feafa33ae-ao-O.svg\" />"
+                                    ],
+                                    "guid": "nODl5zf~R|",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "d6f57de5d40346ae89e4ce5feafa33ae-ao-2",
+                                        "",
+                                        "<img src=\"tmp0_t77z04.png\" />",
+                                        "<img src=\"d6f57de5d40346ae89e4ce5feafa33ae-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"d6f57de5d40346ae89e4ce5feafa33ae-ao-2-A.svg\" />",
+                                        "<img src=\"d6f57de5d40346ae89e4ce5feafa33ae-ao-O.svg\" />"
+                                    ],
+                                    "guid": "FhaR}htXy&",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "d6f57de5d40346ae89e4ce5feafa33ae-ao-3",
+                                        "",
+                                        "<img src=\"tmp0_t77z04.png\" />",
+                                        "<img src=\"d6f57de5d40346ae89e4ce5feafa33ae-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"d6f57de5d40346ae89e4ce5feafa33ae-ao-3-A.svg\" />",
+                                        "<img src=\"d6f57de5d40346ae89e4ce5feafa33ae-ao-O.svg\" />"
+                                    ],
+                                    "guid": "yEM#*;9gAd",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Terminaison de l'uretère",
+                                        "<ul><li>Segment intra-pariétal oblique en bas et en dedans</li><li>Au niveau du méat urétéral</li><li>Aux extrémités de la barre trigonale<br></li></ul><img src=\"paste-569a4805e60e87baf1985a077010fb3e54700a28.png\"><br>"
+                                    ],
+                                    "guid": "&;WgMh:[;",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le segment&nbsp;intra-pariétal mesure environ {{c1::15 mm}} et a une portion {{c1::trans-détrusorienne}} suivie d’une portion {{c1::sous muqueuse.}}",
+                                        ""
+                                    ],
+                                    "guid": "mjrE(0%E<E",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Vascularisation de l'uretère (artères et veines)",
+                                        "Réseau artériel, veineux et lymphatique péri-urétéral à larges mailles par :<br><ul><li>Rénales</li><li>Gonadiques</li><li>Iliaques</li><li>Vésiacles</li><li>Génitales principales</li></ul>"
+                                    ],
+                                    "guid": "LNaUL(7[t*",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Innervation urétérale",
+                                        "<ul><li>Partie crâniale :&nbsp;plexus rénal</li><li>Partie caudale : plexus&nbsp;hypogastrique</li></ul>"
+                                    ],
+                                    "guid": "OWUS>qAY-0",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports dorsaux de la portion lombale de l'uretère",
+                                        "Psoas, N. cutané de la cuise, N. génito-fémoral<br><br>⇒ Quels rapports avec l'uretère ?"
+                                    ],
+                                    "guid": "nF$DUVeUM%",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports médiaux de la portion lombale de l'uretère",
+                                        "<ul><li>Tronc lombo-sacré</li><li>Aorte à gauche, veine cave inf à droite</li></ul><br>⇒ Quels rapports avec l'uretère ?"
+                                    ],
+                                    "guid": "cqPy?;4`X<",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports ventraux de la portion lombale de l'uretère",
+                                        "Par l'intermédiaire du feuillet péritonéal :<br><ul><li>Côlon descendant puis sigmoïde à gauche<br></li><li>Deuxième duodénum et côlon ascendant à droite<br></li></ul>Quel rapport avec l'uretère ?"
+                                    ],
+                                    "guid": "mPX>SB1c/C",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports latéraux de la portion pelvienne de l'uretère",
+                                        "<ul><li>N. obturateur</li><li>M. obturateur interne et son fascia</li><li>Branche de l'hypogastrique</li></ul>⇒ Quel rapport avec l'uretère ?<br>"
+                                    ],
+                                    "guid": "wF^,SsSxnC",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports médiaux de la portion pelvienne de l'uretère",
+                                        "Le rectum<br><br>⇒ Quel rapport avec l'uretère ?"
+                                    ],
+                                    "guid": "fA7Lc9xU:[",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapport antérieurs de l'uretère pelvien chez l'homme",
+                                        "<ul><li>surcroisé par le conduit déférent</li><li>Branches vasculaires du bloc vésico-prostatique<br></li><li>Lame sacro-leclo-génito-vésico-pubienne<br></li><li>Césicule séminale homolatérale<br></li></ul>⇒ Quel rapport avec l'uretère ?"
+                                    ],
+                                    "guid": "Kn6%`HN]Lv",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapport antérieurs de l'uretère pelvien chez la femme",
+                                        "<ul><li>Artère utérine&nbsp;surcroise l’uretère dans le paramètre<br></li><li>Cul-de-sac vaginal latéral</li></ul>Quel rapport avec l'uretère ?"
+                                    ],
+                                    "guid": "Pb[+c1H<O)",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rein ptôsé, plevien",
+                                        "Rein dans la fosse iliaque"
+                                    ],
+                                    "guid": "y;`#Nm#;>#",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rein sigmoïde",
+                                        "2 reins du même côté"
+                                    ],
+                                    "guid": "ioif2zYLEY",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rein en fer à cheval",
+                                        "2 reins unis par un pont de parenchyme<br><img src=\"paste-cd889302a841ea975287fc11948b865532ca62f0.png\">"
+                                    ],
+                                    "guid": "wNpx>X1$y$",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rein mal roté",
+                                        "Rein dont le hile regarde en avant voire en dehors"
+                                    ],
+                                    "guid": "eT71~Kvwj.",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Bifidité pyélique rénale",
+                                        "Division trop précoce du bourgeon urétéral mais relativement haute"
+                                    ],
+                                    "guid": "y1%npm!ve:",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Bifidité pyéolo-urétérale",
+                                        "Division trop précoce du bourgeon urétéral et basse"
+                                    ],
+                                    "guid": "uIet/Z09e0",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Duplicité rénale",
+                                        "Division trop précoce du bourgeon urétéral ⇒ 2 uretères drainent un rein"
+                                    ],
+                                    "guid": "Pkd6^pQiyo",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Complication possible d'un uretère rétro-cave",
+                                        "L’uretère rétro-cave a un trajet en spirale autour de la veine cave caudale qu’il cravate en dedans et qui peut le comprimer."
+                                    ],
+                                    "guid": "ybQBovj6nW",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "5f08c43a-43cc-11ec-a829-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Voie urinaire distale",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "5bd97cf4-4332-11ec-bacd-600308aa3fd6",

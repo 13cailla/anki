@@ -13740,6 +13740,37 @@
                                 "a68cc686dcc24895bba493c9a912834f-ao-7-A.svg",
                                 "a68cc686dcc24895bba493c9a912834f-ao-7-Q.svg",
                                 "a68cc686dcc24895bba493c9a912834f-ao-O.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-1-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-1-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-10-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-10-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-11-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-11-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-12-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-12-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-13-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-13-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-14-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-14-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-15-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-15-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-2-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-2-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-3-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-3-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-4-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-4-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-5-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-5-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-6-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-6-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-7-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-7-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-8-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-8-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-9-A.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-9-Q.svg",
+                                "abcea23211c54174864263a572ee1bd9-ao-O.svg",
                                 "c789b36c2dfd49eb9f882f284c748b13-ao-1-A.svg",
                                 "c789b36c2dfd49eb9f882f284c748b13-ao-1-Q.svg",
                                 "c789b36c2dfd49eb9f882f284c748b13-ao-2-A.svg",
@@ -13773,6 +13804,7 @@
                                 "tmpa54_66vg.png",
                                 "tmpekxqns39.png",
                                 "tmpi3vsvx2_.png",
+                                "tmpj7v9nw9e.png",
                                 "tmptydp5j6t.png",
                                 "tmpun5n0ov2.png",
                                 "tmpwne84is2.png",
@@ -15425,7 +15457,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Vacularisation de l'artère mésentérique caudale",
-                                        "Deux tiers gauches du côlon transverse, côlon gauche et haut rectum."
+                                        "Deux tiers gauches du côlon transverse, côlon gauche et haut rectum ⇒ Vascularisé par ?"
                                     ],
                                     "guid": "m{QKNJNS=[",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -15435,7 +15467,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Vacularisation du&nbsp;tronc cœliaque",
-                                        "Étage sus méso colique (estomac, foie, rate, pancréas en partie)"
+                                        "Étage sus méso colique (estomac, foie, rate, pancréas en partie) ⇒ Vascularisé par ?"
                                     ],
                                     "guid": "LVNS=@O7bC",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -15495,7 +15527,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Branches latérales de la veine cave caudale derrière et au-dessus du foie et position",
-                                        "<ul><li>veines du lobe caudé du foie</li><li>veine surrénaleprincipale droite (derrière le foie)<br></li><li>veines hépatiques (T10-T11)<br></li></ul>"
+                                        "<ul><li>veines du lobe caudé du foie</li><li>veine surrénale principale droite (derrière le foie)<br></li><li>veines hépatiques (T10-T11)<br></li></ul>"
                                     ],
                                     "guid": "c>#i-orLtf",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -15505,7 +15537,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Branches pariétales de la veine cave caudale",
-                                        "<ul><li>3° et 4° veines tombales<br></li><li>veine phrénique inférieure<br></li></ul>"
+                                        "<ul><li>3° et 4° veines lombales<br></li><li>veine phrénique inférieure<br></li></ul>"
                                     ],
                                     "guid": "eqSC:7pxVt",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -15525,7 +15557,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Position de la racine de la veine azygos",
-                                        "Dans la région abdominale dorsale"
+                                        "L12"
                                     ],
                                     "guid": "BCLM$o`oA:",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -15659,7 +15691,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Racine latérale de la&nbsp;veine grande azygos",
+                                        "Racine latérale de la&nbsp;veine grande azygos/hémi-azygos caudale",
                                         "<ul><li>Veine lombale ascendante (qui reçoit la 5° veine lombale)<br></li><li>12° veine intercostale<br></li></ul><img src=\"paste-d0741c259841aab1137cf8a73394e71b7f693759.png\"><br>"
                                     ],
                                     "guid": "A<KBJTQwfG",
@@ -15669,8 +15701,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Racine&nbsp;latérale de la veine hémi-azygos caudale ou de la grande veine azygos (à gauche donc)",
-                                        "<ul><li>veine rénale gauche + 2° veine lombale =&nbsp;arc réno-azygo-lombal de Lejars</li><li>11° veine intercostale<br></li></ul>"
+                                        "Racine&nbsp;médiale de la veine hémi-azygos caudale",
+                                        "<ul><li>Arc réno-azygo-lombal de Lejars</li><li>11° veine intercostale<br></li></ul>"
                                     ],
                                     "guid": "Ab`H[(2VtE",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -15901,7 +15933,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "le système sympathique contracte avec lui des liaisons à chaque niveau vertébral, sous forme de {{c1::rameaux communicants blancs}} <br>(afférents) ou {{c1::gris}} (efférents)",
+                                        "le système sympathique contracte avec le système somatique des liaisons à chaque niveau vertébral, sous forme de {{c1::rameaux communicants blancs}} <br>(afférents) ou {{c1::gris}} (efférents)",
                                         ""
                                     ],
                                     "guid": "O8kp1X.9p:",
@@ -15922,7 +15954,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Innervation sympathique postérieure de l'abdomen et origine",
-                                        "Nerfs splanchiques lombaux ou pelviens (venant de 4 ganglions)"
+                                        "Nerfs splanchiques lombaux ou inférieurs (pelviens) (venant de 4 ganglions)"
                                     ],
                                     "guid": "kfN|w~Vl-9",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -16161,7 +16193,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Le plexus cœliaque est constitué par et où ?",
-                                        "Deux ganglions cœliaques en forme de demi-lune concave en haut situés en Tl2 ⇒ consitute ?"
+                                        "Deux ganglions cœliaques en forme de demi-lune concave en haut situés en T12 ⇒ consitute ?"
                                     ],
                                     "guid": "joQnb.qYht",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -16171,7 +16203,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Le plexus rénal et mésentérique est constitué par ?",
-                                        "Les ganglions aortico-mésentériques et artico-rénaux ⇒ constitue ?"
+                                        "Les ganglions aortico-mésentériques et aortico-rénaux ⇒ constitue ?"
                                     ],
                                     "guid": "H@b/zU[gR`",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -16191,7 +16223,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Le plexus coeliaque reçoit les fibres de ?",
-                                        "<ul><li>Tronc vagal dorsal à la corne médiale</li><li>Les Nerfs grands splanchniques à leur corne latérale</li><li>Les nerfs petits splanchniques à leur convexité</li><li>Le nerf phrénique droit</li></ul>Quel plexus ?"
+                                        "<ul><li>Tronc vagal dorsal</li><li>Les Nerfs grands splanchniques</li><li>Les nerfs petits splanchniques</li><li>Le nerf phrénique droit</li></ul>Quel plexus ?"
                                     ],
                                     "guid": "KNBfRgX5L7",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -16211,7 +16243,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Le plexus hypogastrique reçoit les fibres de ?",
-                                        "<ul><li>nerfs pré-sacrés et splanchniques pelviens (plexus hypogastrique supérieur)&nbsp;</li><li>nerfs érecteurs d’Eckhard (plexus hypogastrique inférieur)</li></ul>"
+                                        "<ul><li>supérieur : nerfs pré-sacrés et splanchniques inférieurs (pelviens) (L3, L4)&nbsp;</li><li>inférieur : nerfs érecteurs d’Eckhard (S2,S3,S4)</li></ul>"
                                     ],
                                     "guid": "j:o]GM1qP_",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -16275,6 +16307,301 @@
                                     ],
                                     "guid": "x{RGF~M}?v",
                                     "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-1",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-1-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "d7.9918)Yp",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-2",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-2-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "HGx!wi8<}V",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-3",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-3-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "s]0R454mf@",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-4",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-4-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "k]LXMtIYDF",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-5",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-5-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "y#+,8H)j9J",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-6",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-6-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "rCbbCHKO|Q",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-7",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-7-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-7-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "J,hiW/KE?M",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-8",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-8-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-8-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "vF7RA{qbkU",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-9",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-9-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-9-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "LF_`4wb^tG",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-10",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-10-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-10-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "lfT-@^{=7=",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-11",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-11-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-11-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "ub:[{|bc&F",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-12",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-12-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-12-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "jV:pz)quH_",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-13",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-13-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-13-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "DaCcHzNxL/",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-14",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-14-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-14-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "M>Zg<:yhmT",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "abcea23211c54174864263a572ee1bd9-ao-15",
+                                        "",
+                                        "<img src=\"tmpj7v9nw9e.png\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-15-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-15-A.svg\" />",
+                                        "<img src=\"abcea23211c54174864263a572ee1bd9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "plRsHnNBz)",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "veine rénale gauche + 2° veine lombale ⇒ forme ?",
+                                        "Arc réno-azygo-lombal de Lejars"
+                                    ],
+                                    "guid": "l#NNzyecTt",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": []
                                 }
                             ]

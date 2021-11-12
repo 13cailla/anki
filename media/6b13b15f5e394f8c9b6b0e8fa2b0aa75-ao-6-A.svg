@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2278" height="932">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <rect id="svg_7" height="2" width="2" y="-32" x="1936" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffd4aa"/>
+  <rect id="svg_8" height="200" width="414" y="186" x="1872" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffd4aa"/>
+  <rect id="svg_9" height="96" width="382" y="480" x="1870" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffd4aa"/>
+  <rect id="svg_10" height="86" width="408" y="662" x="1866" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffd4aa"/>
+  <rect stroke="#2D2D2D" id="svg_11" height="118" width="330" y="746" x="402" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffd4aa"/>
+  <rect id="svg_12" height="198" width="328" y="482" x="400" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffd4aa"/>
+  <rect id="svg_13" height="170" width="420" y="254" x="338" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffd4aa"/>
+  <rect id="svg_14" height="72" width="246" y="138" x="486" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#ffd4aa"/>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="6b13b15f5e394f8c9b6b0e8fa2b0aa75-ao-1" height="46" width="270" y="214" x="440" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="6b13b15f5e394f8c9b6b0e8fa2b0aa75-ao-2" height="62" width="306" y="422" x="410" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="6b13b15f5e394f8c9b6b0e8fa2b0aa75-ao-3" height="54" width="324" y="684" x="412" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="6b13b15f5e394f8c9b6b0e8fa2b0aa75-ao-4" height="66" width="412" y="106" x="1868" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="6b13b15f5e394f8c9b6b0e8fa2b0aa75-ao-5" height="52" width="410" y="404" x="1874" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  
+ </g>
+</svg>

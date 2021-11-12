@@ -16,9 +16,9 @@ Il permet d'importer des decks directement à partir de github
 Voilà le lien : https://ankiweb.net/shared/info/1788670778
 
 ## Etape 2 : CrowdAnki: import git repository
-Suivre File -> CrowdAnki: import git repository et rentrer l'url https://github.com/13cailla/anki
+`File` -> `CrowdAnki: import git repository` et rentrer l'url https://github.com/13cailla/anki
 
 ## Etape 3 : Cliquer sur OK \o/
-Les decks devraient être dans le gros deck To_Export (oui on a fait mieux comme nom)
+Les decks devraient être dans le gros deck `To_Export` (oui on a fait mieux comme nom)
 
 Si vous rencontrez des problèmes, n'hésitez pas à me le demander

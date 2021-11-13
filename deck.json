@@ -13556,6 +13556,7 @@
                                 "193d6decdfb6416598fd7972a7bcc0e9-ao-3-A.svg",
                                 "193d6decdfb6416598fd7972a7bcc0e9-ao-3-Q.svg",
                                 "193d6decdfb6416598fd7972a7bcc0e9-ao-O.svg",
+                                "paste-732ad7e90fd2f977f649aadd5d359b60f68e29a7.png",
                                 "paste-d12f0746233d5cc5d462e00ee7ecef4b5aa8296b.png",
                                 "paste-eda4bcbdd6ea7c2787bee9fa96fada1ceb228369.png",
                                 "tmp43snzor4.png"
@@ -13683,7 +13684,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Sécrétion de la partie médullaire des surrénales",
-                                        "Catécholamines (adrénaline, noradrénaline, dopamine)"
+                                        "Catécholamines (adrénaline, noradrénaline, dopamine)<br>⇒ Sécrété par ?"
                                     ],
                                     "guid": "mbU7K:+l6Z",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -13703,7 +13704,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Rapports de la surrénale gauche",
-                                        "Communs avec l'autre surrénale :<br><ul><li>pilier du diaphragme</li><li>muscle carré des lombes</li><li>plexus cœliaque<br></li><li>pôle supérieur du rein<br></li></ul>Particulier à ce côté<br><ul><li>tombe sur le pédicule rénal<br></li><li>queue du pancréas<br></li></ul>⇒ Rapports de quelle surrénale ?"
+                                        "Communs avec l'autre surrénale :<br><ul><li>pilier du diaphragme</li><li>muscle carré des lombes</li><li>plexus cœliaque<br></li><li>pôle supérieur du rein<br></li></ul>Particulier à ce côté<br><ul><li>tombe sur le pédicule rénal<br></li><li>queue du pancréas<br></li></ul>⇒ Rapports de quelle surrénale ?<br><br><img src=\"paste-732ad7e90fd2f977f649aadd5d359b60f68e29a7.png\"><br>"
                                     ],
                                     "guid": "tYna+;uU5u",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -14026,6 +14027,7 @@
                                 "df9f2b74669b4a6ca10dd9e0d97e12df-ao-5-A.svg",
                                 "df9f2b74669b4a6ca10dd9e0d97e12df-ao-5-Q.svg",
                                 "df9f2b74669b4a6ca10dd9e0d97e12df-ao-O.svg",
+                                "mF-dUNblsc-4hx1-qwGT0w.jpg",
                                 "paste-3d7075f9e8f7e94d3ebe6cd69a3ed2435a46a77a.png",
                                 "paste-55c165034e49f7d2b35a5e9b6b0eeda29a3216f6.png",
                                 "paste-6618d5a7e8c04707158bb78ae79f6c8f0daf8cb8.jpg",
@@ -16479,7 +16481,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Le plexus hypogastrique reçoit les fibres de ?",
-                                        "<ul><li>supérieur : nerfs pré-sacrés et splanchniques inférieurs (pelviens) (L3, L4)&nbsp;</li><li>inférieur : nerfs érecteurs d’Eckhard (S2,S3,S4)</li></ul>"
+                                        "<ul><li>supérieur : nerfs pré-sacrés et splanchniques inférieurs (pelviens) (L3, L4)&nbsp;</li><li>inférieur : nerfs érecteurs d’Eckhard (S2,S3,S4)</li></ul><img src=\"mF-dUNblsc-4hx1-qwGT0w.jpg\"><br>"
                                     ],
                                     "guid": "j:o]GM1qP_",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -16945,6 +16947,7 @@
                                 "953402dc95a64116825bc2ad76f2b238-ao-4-A.svg",
                                 "953402dc95a64116825bc2ad76f2b238-ao-4-Q.svg",
                                 "953402dc95a64116825bc2ad76f2b238-ao-O.svg",
+                                "RE-CKmgj9V0NlsuOO0qObJdWc9eb5AuftyCdfepUuuqfcxpspFRW_u5DJRBKRWJxUiVm2LWE0FsdoV10MOR_ex2_T8fELDpOKw.png",
                                 "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-1-A.svg",
                                 "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-1-Q.svg",
                                 "b4a57f8874bb44e8bbcd6c4a3faa82b5-ao-2-A.svg",
@@ -17128,7 +17131,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "La papille rénale est&nbsp;criblée de {{c1::15}} à {{c1::20}} foramens",
-                                        ""
+                                        "<img src=\"RE-CKmgj9V0NlsuOO0qObJdWc9eb5AuftyCdfepUuuqfcxpspFRW_u5DJRBKRWJxUiVm2LWE0FsdoV10MOR_ex2_T8fELDpOKw.png\">"
                                     ],
                                     "guid": "y%|.trE=|U",
                                     "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
@@ -17137,7 +17140,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Les {{c1::papilles rénales}} sont l'extrémité des {{c1::pyramides rénales de Malpighi}}",
+                                        "Les {{c2::papilles rénales}} sont l'extrémité des {{c1::pyramides rénales de Malpighi}}",
                                         ""
                                     ],
                                     "guid": "qW+SwKu#P2",
@@ -18258,7 +18261,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Rapports spécifiques du rein droit",
-                                        "<ul><li>Médialement : v. cavce caudale, duodénum D2</li><li>Caudalement : angle colique droit</li><li>Ventralement : Racine de mésocolon transverse, face inf. du foie</li></ul>⇒ Quel rapport avec les reins ?<br>"
+                                        "<ul><li>Médialement : v. cave caudale, duodénum D2</li><li>Caudalement : angle colique droit</li><li>Ventralement : Racine de mésocolon transverse, face inf. du foie</li></ul>⇒ Quel rapport avec les reins ?<br>"
                                     ],
                                     "guid": "G>y%>Z4/39",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -18477,7 +18480,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Le bassinet (ou {{c1::pyélon}}) mesure environ {{c1::20 mm}} de haut, {{c1::15 mm}} de large et {{c1::moins de 10 mm}} d’épaisseur",
+                                        "Le bassinet&nbsp; mesure environ {{c1::20 mm}} de haut, {{c1::15 mm}} de large et {{c1::moins de 10 mm}} d’épaisseur",
                                         ""
                                     ],
                                     "guid": "caOPj7ON9p",
@@ -18527,7 +18530,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "La veine rénale {{c1::gauche}} donne souvent naissance à&nbsp;{{c2::la racine médiale de la veine hémi-azygos caudale}} en participant le {{c1::cercle réno-azygo-lombal}}",
+                                        "La veine rénale {{c1::gauche}} donne souvent naissance à&nbsp;{{c2::la racine médiale de la veine hémi-azygos caudale}} en participant au {{c1::cercle réno-azygo-lombal}}",
                                         ""
                                     ],
                                     "guid": "r}?3oZw%#|",
@@ -18751,7 +18754,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Vascularisation de l'uretère (artères et veines)",
-                                        "Réseau artériel, veineux et lymphatique péri-urétéral à larges mailles par :<br><ul><li>Rénales</li><li>Gonadiques</li><li>Iliaques</li><li>Vésiacles</li><li>Génitales principales</li></ul>"
+                                        "Réseau artériel, veineux et lymphatique péri-urétéral à larges mailles par :<br><ul><li>Rénales</li><li>Gonadiques</li><li>Iliaques</li><li>Vésicales</li><li>Génitales principales</li></ul>"
                                     ],
                                     "guid": "LNaUL(7[t*",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -19498,6 +19501,79 @@
     "note_models": [
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Recto",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Verso",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basique (et envers de la carte)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Verso}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Carte 1",
+                    "ord": 0,
+                    "qfmt": "{{Recto}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Recto}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Carte 2",
+                    "ord": 1,
+                    "qfmt": "{{Verso}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}.cloze {font-weight: bold;color: orange;}",
             "flds": [
@@ -19744,79 +19820,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Recto",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Verso",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basique (et envers de la carte)",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ],
-                [
-                    1,
-                    "any",
-                    [
-                        1
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Verso}}",
-                    "bafmt": "",
-                    "bfont": "Arial",
-                    "bqfmt": "",
-                    "bsize": 12,
-                    "did": null,
-                    "name": "Carte 1",
-                    "ord": 0,
-                    "qfmt": "{{Recto}}"
-                },
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Recto}}",
-                    "bafmt": "",
-                    "bfont": "Arial",
-                    "bqfmt": "",
-                    "bsize": 12,
-                    "did": null,
-                    "name": "Carte 2",
-                    "ord": 1,
-                    "qfmt": "{{Verso}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "73c7429e-4254-11ec-92c1-600308aa3fd6",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
             "flds": [
@@ -19870,5 +19873,16 @@
             "type": 0
         }
     ],
-    "notes": []
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Autre nom du pyélon",
+                "Autre nom du bassinet"
+            ],
+            "guid": "o#=ZdWjp7Q",
+            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+            "tags": []
+        }
+    ]
 }

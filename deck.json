@@ -2175,6 +2175,16 @@
                                     "guid": "Lxe<znPT<>",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Épanchement pleural gaz ⇒ Nom ?",
+                                        "Pneumothorax"
+                                    ],
+                                    "guid": "L]ve1=L<@r",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
                                 }
                             ]
                         }
@@ -2906,7 +2916,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Cellules de l'épithélium respiratoire",
-                                "<ul><li>cellules ciliées, les plus abondantes avec cils vibratiles + quelques microvillosité</li><li>cellules caliciformes à mucus</li><li>cellules basales indifférenciées</li><li>cellules du système APUD, ou neuro-endocrine diffus sécrétion hormones + neuromédiateurs</li></ul>"
+                                "<ul><li>cellules ciliées, les plus abondantes avec cils vibratiles + quelques microvillosité</li><li>cellules caliciformes à mucus</li><li>cellules basales indifférenciées</li><li>cellules du système SNED (anceinnement APUD), ou neuro-endocrine diffus sécrétion hormones + neuromédiateurs</li></ul>"
                             ],
                             "guid": "v^wm0aT=J4",
                             "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -4186,6 +4196,16 @@
                             ],
                             "guid": "DmIQYq$LCH",
                             "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Système SNED (anciennement APUD)",
+                                "Système neuroendocrinien disséminé"
+                            ],
+                            "guid": "P_?W@YC}6^",
+                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
                             "tags": []
                         }
                     ]
@@ -16161,7 +16181,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Le système synpathique dépend&nbsp;{{c1::de la moelle sacrée}}",
+                                        "Le système sympathique dépend&nbsp;{{c1::de la moelle sacrée}}",
                                         ""
                                     ],
                                     "guid": "3;x+m}`qL",
@@ -17866,7 +17886,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Les rameaux des branches (dorsale ou ventrale) de l'artère rénale forment {{c1::le plan pré pyélique}}, plutôt {{c1::caudal}}, et {{c1::le plan&nbsp;rétro pyélique}}, plutôt {{c1::crânial}}",
+                                        "Les rameaux des branches (dorsale ou ventrale) de l'artère rénale forment le plan {{c1::pré pyélique}}, plutôt {{c1::caudal}}, et le plan&nbsp;&nbsp;{{c1::rétro pyélique}}, plutôt {{c1::crânial}}",
                                         "<img src=\"paste-d2155186843c98ad11ace2c916a78162ec9c89c0.jpg\">"
                                     ],
                                     "guid": "fcz_;vwGo",

@@ -22,3 +22,6 @@ Voilà le lien : https://ankiweb.net/shared/info/1788670778
 Les decks devraient être dans le gros deck `To_Export` (oui on a fait mieux comme nom)
 
 Si vous rencontrez des problèmes, n'hésitez pas à me le demander
+
+# Quelles parties du cours sont ajoutées ?
+Vous pouvez suivre la progression des ajouts de cartes sur ce [Notion](https://holly-lift-c14.notion.site/a785c4eb9de942b1b26f1b57a1207a78?v=6de07ef6f02545b59a138430c057a78f)

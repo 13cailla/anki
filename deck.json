@@ -16886,6 +16886,7 @@
                                 "208222c9e1684013958f4119d8ec31f2-ao-2-A.svg",
                                 "208222c9e1684013958f4119d8ec31f2-ao-2-Q.svg",
                                 "208222c9e1684013958f4119d8ec31f2-ao-O.svg",
+                                "25-0.jpg",
                                 "4376daebf64c495eb60bc9c863769e1d-ao-1-A.svg",
                                 "4376daebf64c495eb60bc9c863769e1d-ao-1-Q.svg",
                                 "4376daebf64c495eb60bc9c863769e1d-ao-2-A.svg",
@@ -17009,13 +17010,16 @@
                                 "f4aa89d8c6c340b88e6f359956eab52e-ao-3-A.svg",
                                 "f4aa89d8c6c340b88e6f359956eab52e-ao-3-Q.svg",
                                 "f4aa89d8c6c340b88e6f359956eab52e-ao-O.svg",
+                                "paste-09f6addceabcda80e59d185168ca7a8eeeaad93f.png",
                                 "paste-0c59477654e6466ead05b09cc9b12812ba9acb7b.jpg",
                                 "paste-1bb71a203c7a36b6c980a184485149f6568f39e7.png",
+                                "paste-2d6b7e905649849735fe10afbabeffb9539de6df.jpg",
                                 "paste-42004c6ec4122799132bafa87052d6f4c31a6469.jpg",
                                 "paste-569a4805e60e87baf1985a077010fb3e54700a28.png",
                                 "paste-9905d60ea105a39619a990d4193baadc2e1960be.jpg",
                                 "paste-cd889302a841ea975287fc11948b865532ca62f0.png",
                                 "paste-d2155186843c98ad11ace2c916a78162ec9c89c0.jpg",
+                                "schemas.php",
                                 "tmp0_t77z04.png",
                                 "tmp1d8c55sc.png",
                                 "tmp1ngere8w.png",
@@ -18824,7 +18828,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Rapports latéraux de la portion pelvienne de l'uretère",
-                                        "<ul><li>N. obturateur</li><li>M. obturateur interne et son fascia</li><li>Branche de l'hypogastrique</li></ul>⇒ Quel rapport avec l'uretère ?<br>"
+                                        "<ul><li>N. obturateur</li><li>M. obturateur interne et son fascia</li><li>Branche de l'hypogastrique</li></ul>⇒ Quel rapport avec l'uretère ?<br><br><img src=\"schemas.php\"><br>"
                                     ],
                                     "guid": "wF^,SsSxnC",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -18844,7 +18848,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Rapport antérieurs de l'uretère pelvien chez l'homme",
-                                        "<ul><li>surcroisé par le conduit déférent</li><li>Branches vasculaires du bloc vésico-prostatique<br></li><li>Lame sacro-leclo-génito-vésico-pubienne<br></li><li>Césicule séminale homolatérale<br></li></ul>⇒ Quel rapport avec l'uretère ?"
+                                        "<ul><li>surcroisé par le conduit déférent</li><li>Branches vasculaires du bloc vésico-prostatique<br></li><li>Lame sacro-recto-génito-vésico-pubienne<br></li><li>Vésicule séminale homolatérale<br></li></ul>⇒ Quel rapport avec l'uretère ?<br><br><img src=\"paste-09f6addceabcda80e59d185168ca7a8eeeaad93f.png\"><br>"
                                     ],
                                     "guid": "Kn6%`HN]Lv",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -18854,7 +18858,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Rapport antérieurs de l'uretère pelvien chez la femme",
-                                        "<ul><li>Artère utérine&nbsp;surcroise l’uretère dans le paramètre<br></li><li>Cul-de-sac vaginal latéral</li></ul>Quel rapport avec l'uretère ?"
+                                        "<ul><li>Artère utérine&nbsp;surcroise l’uretère dans le paramètre<br></li><li>Cul-de-sac vaginal latéral</li></ul>Quel rapport avec l'uretère ?<br><br><img src=\"25-0.jpg\"><br>"
                                     ],
                                     "guid": "Pb[+c1H<O)",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -18863,7 +18867,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Rein ptôsé, plevien",
+                                        "Rein ptôsé, pelvien",
                                         "Rein dans la fosse iliaque"
                                     ],
                                     "guid": "y;`#Nm#;>#",
@@ -18874,7 +18878,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Rein sigmoïde",
-                                        "2 reins du même côté"
+                                        "2 reins du même côté<br><img src=\"paste-2d6b7e905649849735fe10afbabeffb9539de6df.jpg\">"
                                     ],
                                     "guid": "ioif2zYLEY",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -18951,9 +18955,1713 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "0a898e3277224445877d17dd82e0ef9e-ao-1-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-1-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-10-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-10-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-11-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-11-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-12-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-12-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-13-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-13-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-14-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-14-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-2-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-2-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-3-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-3-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-4-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-4-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-5-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-5-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-6-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-6-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-7-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-7-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-8-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-8-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-9-A.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-9-Q.svg",
+                                "0a898e3277224445877d17dd82e0ef9e-ao-O.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-1-A.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-1-Q.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-2-A.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-2-Q.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-3-A.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-3-Q.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-4-A.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-4-Q.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-5-A.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-5-Q.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-6-A.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-6-Q.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-7-A.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-7-Q.svg",
+                                "5c01b31147014309b1fdb09bcd828607-ao-O.svg",
+                                "613cd0aef2864720841c69138fe48ce9-ao-1-A.svg",
+                                "613cd0aef2864720841c69138fe48ce9-ao-1-Q.svg",
+                                "613cd0aef2864720841c69138fe48ce9-ao-2-A.svg",
+                                "613cd0aef2864720841c69138fe48ce9-ao-2-Q.svg",
+                                "613cd0aef2864720841c69138fe48ce9-ao-3-A.svg",
+                                "613cd0aef2864720841c69138fe48ce9-ao-3-Q.svg",
+                                "613cd0aef2864720841c69138fe48ce9-ao-O.svg",
+                                "79d8600dc8ed499399aa679e9435e50f-ao-1-A.svg",
+                                "79d8600dc8ed499399aa679e9435e50f-ao-1-Q.svg",
+                                "79d8600dc8ed499399aa679e9435e50f-ao-O.svg",
+                                "bf087bbd0a7c4d348d5810c228ec4a0c-ao-1-A.svg",
+                                "bf087bbd0a7c4d348d5810c228ec4a0c-ao-1-Q.svg",
+                                "bf087bbd0a7c4d348d5810c228ec4a0c-ao-2-A.svg",
+                                "bf087bbd0a7c4d348d5810c228ec4a0c-ao-2-Q.svg",
+                                "bf087bbd0a7c4d348d5810c228ec4a0c-ao-3-A.svg",
+                                "bf087bbd0a7c4d348d5810c228ec4a0c-ao-3-Q.svg",
+                                "bf087bbd0a7c4d348d5810c228ec4a0c-ao-4-A.svg",
+                                "bf087bbd0a7c4d348d5810c228ec4a0c-ao-4-Q.svg",
+                                "bf087bbd0a7c4d348d5810c228ec4a0c-ao-5-A.svg",
+                                "bf087bbd0a7c4d348d5810c228ec4a0c-ao-5-Q.svg",
+                                "bf087bbd0a7c4d348d5810c228ec4a0c-ao-O.svg",
+                                "paste-089519d19c624736e27e18e144be14428d0a54a2.png",
+                                "paste-a2ba67ab7ba236479a8564f15252055f7891a1c9.png",
+                                "tmp0mwjr43j.png",
+                                "tmp2etnch0r.png",
+                                "tmp9cj23jaj.png",
+                                "tmpqi2drkyh.png",
+                                "tmpulp7d2cn.png"
+                            ],
                             "name": "Voie urinaire distale",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Petit Bassin",
+                                        "<ul><li>Portion pelvienne des uretères</li><li>Vessie</li><li>Urètre</li></ul>⇒ Nom ?<br>"
+                                    ],
+                                    "guid": "Jcm/ed*/2d",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "5c01b31147014309b1fdb09bcd828607-ao-1",
+                                        "",
+                                        "<img src=\"tmp9cj23jaj.png\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-1-A.svg\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-O.svg\" />"
+                                    ],
+                                    "guid": "8&Cwr*P^~",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "5c01b31147014309b1fdb09bcd828607-ao-2",
+                                        "",
+                                        "<img src=\"tmp9cj23jaj.png\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-2-A.svg\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Cqo{49]/6I",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "5c01b31147014309b1fdb09bcd828607-ao-3",
+                                        "",
+                                        "<img src=\"tmp9cj23jaj.png\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-3-A.svg\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-O.svg\" />"
+                                    ],
+                                    "guid": "p|v2s+{&3o",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "5c01b31147014309b1fdb09bcd828607-ao-4",
+                                        "",
+                                        "<img src=\"tmp9cj23jaj.png\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-4-A.svg\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-O.svg\" />"
+                                    ],
+                                    "guid": "o7H1$2`9&-",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "5c01b31147014309b1fdb09bcd828607-ao-5",
+                                        "",
+                                        "<img src=\"tmp9cj23jaj.png\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-5-A.svg\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-O.svg\" />"
+                                    ],
+                                    "guid": "b)f,Qg>yb@",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "5c01b31147014309b1fdb09bcd828607-ao-6",
+                                        "",
+                                        "<img src=\"tmp9cj23jaj.png\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-6-A.svg\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-O.svg\" />"
+                                    ],
+                                    "guid": "B]N_F(N<Hx",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "5c01b31147014309b1fdb09bcd828607-ao-7",
+                                        "",
+                                        "<img src=\"tmp9cj23jaj.png\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-7-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-7-A.svg\" />",
+                                        "<img src=\"5c01b31147014309b1fdb09bcd828607-ao-O.svg\" />"
+                                    ],
+                                    "guid": "E2@eK-2>p(",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bf087bbd0a7c4d348d5810c228ec4a0c-ao-1",
+                                        "",
+                                        "<img src=\"tmp2etnch0r.png\" />",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-1-A.svg\" />",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-O.svg\" />"
+                                    ],
+                                    "guid": "lT!3qluG*#",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bf087bbd0a7c4d348d5810c228ec4a0c-ao-2",
+                                        "",
+                                        "<img src=\"tmp2etnch0r.png\" />",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-2-A.svg\" />",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-O.svg\" />"
+                                    ],
+                                    "guid": "hNg[w$(1fj",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bf087bbd0a7c4d348d5810c228ec4a0c-ao-3",
+                                        "",
+                                        "<img src=\"tmp2etnch0r.png\" />",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-3-A.svg\" />",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-O.svg\" />"
+                                    ],
+                                    "guid": "MiCTQ|An7~",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bf087bbd0a7c4d348d5810c228ec4a0c-ao-4",
+                                        "",
+                                        "<img src=\"tmp2etnch0r.png\" />",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-4-A.svg\" />",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-O.svg\" />"
+                                    ],
+                                    "guid": "bWv*XTNp=l",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bf087bbd0a7c4d348d5810c228ec4a0c-ao-5",
+                                        "",
+                                        "<img src=\"tmp2etnch0r.png\" />",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-5-A.svg\" />",
+                                        "<img src=\"bf087bbd0a7c4d348d5810c228ec4a0c-ao-O.svg\" />"
+                                    ],
+                                    "guid": "CMKY;t4kw,",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Capacité fonctionnelle de la vessie",
+                                        "350-500 mL"
+                                    ],
+                                    "guid": "sic^-P0}qD",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Capacité maximale de la vessie",
+                                        "1.5 L"
+                                    ],
+                                    "guid": "q&l,!5xh|p",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Forme de la vessie remplie",
+                                        "Ovoïde"
+                                    ],
+                                    "guid": "ApRm;G?mZ_",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Forme de la vessie vide et faces",
+                                        "Pyramide à sommet ventral :<br><ul><li>Dôme vésical</li><li>2 faces antérolatérales</li><li>1 face postéro-inférieure</li></ul>"
+                                    ],
+                                    "guid": "vr]d7S0Q$E",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le {{c2::ligament ombilical médian}} unit {{c1::la vessie}} à {{c1::l’ombilic}}, inséré à {{c1::l'apex de la vessie}}",
+                                        ""
+                                    ],
+                                    "guid": "OO8hXM!k(4",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le ligament ombilical médian provient de {{c1::l'ouraque}}",
+                                        ""
+                                    ],
+                                    "guid": "g(nVWT=spW",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Éléments de la face supérieure de la vessie",
+                                        "<ul><li>Apex ⇒ Insertion du ligament ombilical médian</li><li>Recouvert de péritoine pariétal</li></ul>"
+                                    ],
+                                    "guid": "Lg.OhZ_5mv",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Éléments des faces antéro-latérales de la vessie",
+                                        "Ligaments ombilicaux latéraux"
+                                    ],
+                                    "guid": "q&|5)itEx/",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Éléments de la base de la vessie",
+                                        "<ul><li>Réception des uretères</li><li>Forme d'entonnoir jusqu'au col vésical</li></ul>"
+                                    ],
+                                    "guid": "K/[f{q!Non",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les faces antéro-latérales de la vessie s'unissent médianement en {{c1::cupule}}",
+                                        ""
+                                    ],
+                                    "guid": "VW%w8B=I8",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L’ensemble face supérieure -faces antérolatérales provient de {{c1::l’allantoïde}} et constitue {{c1::la calotte vésicale.}}",
+                                        ""
+                                    ],
+                                    "guid": "s8#4WmBoLJ",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La base de la vessie provient {{c1::du mésonéphros}}",
+                                        ""
+                                    ],
+                                    "guid": "ziCWa?HIsy",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La paroi vésicale comprend {{c1::une muqueuse, une sous muqueuse et une musculeuse}}",
+                                        ""
+                                    ],
+                                    "guid": "dmd[mNzIW8",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La muqueuse vésicale ({{c1::urothélium vésical::type d'épithélium}}) est {{c1::rosée, régulière, et festonnée}}",
+                                        ""
+                                    ],
+                                    "guid": "K*yx_kW7a^",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La muqueuse vésicale est lisse à deux niveaux : {{c1::le col vésical}}, et {{c1::le trigone}}",
+                                        "<img src=\"paste-089519d19c624736e27e18e144be14428d0a54a2.png\">"
+                                    ],
+                                    "guid": "qqW@Le#VBj",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c2::Le trigone}} est la zone interne de la vessie correspondant à la base, limitée en bas par {{c1::le col vésical}}, et en haut par {{c1::les méats ou ostiums urétéraux}}",
+                                        ""
+                                    ],
+                                    "guid": "A7J6&x*mp*",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Barre inter-urétérique",
+                                        "Relief musculaire transversal soulevant la muqueuse entre les deux méats"
+                                    ],
+                                    "guid": "H7PQPvY~F3",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Partie de la vessie distensible",
+                                        "Calotte vésicale"
+                                    ],
+                                    "guid": "bgyVAwY+m{",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Partie de la vessie contractile",
+                                        "Toute la vessie :D"
+                                    ],
+                                    "guid": "kUFMQEeN?T",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Muscle plexiforme au niveau de la calotte vésicale",
+                                        "Détrusor"
+                                    ],
+                                    "guid": "Nxwkn,qk|M",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Fonction du détrusor",
+                                        "Muscle expulsant les urines"
+                                    ],
+                                    "guid": "e1why,0a+N",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Fonction des fibres musculaires du trigone",
+                                        "<ul><li>ouverture du col en phase pré mictionnelle</li><li>s’opposer au reflux vésico-urétéral</li></ul>"
+                                    ],
+                                    "guid": "PO~@Xp}KdM",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Caractéristiques des fibres musculaires du trigone",
+                                        "<ul><li>Denses</li><li>Peu d'amplitude</li><li>Disposition circulaire concentrique</li></ul>"
+                                    ],
+                                    "guid": "HAQjztzjGj",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "79d8600dc8ed499399aa679e9435e50f-ao-1",
+                                        "",
+                                        "<img src=\"tmpqi2drkyh.png\" />",
+                                        "<img src=\"79d8600dc8ed499399aa679e9435e50f-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"79d8600dc8ed499399aa679e9435e50f-ao-1-A.svg\" />",
+                                        "<img src=\"79d8600dc8ed499399aa679e9435e50f-ao-O.svg\" />"
+                                    ],
+                                    "guid": "xtN5h}%m:*",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Formation de la loge vésicale",
+                                        "<ul><li>En haut : Péritoine pariétal</li><li>Latéralement : Un fascia sous-péritonéal : l'aponévrose ombilico-prévésicale</li><li>Ventralement : La face dorsale de la symphyse pubienne + paroi abdomen</li></ul>"
+                                    ],
+                                    "guid": "I6]ym3MLsb",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Situation de la vessie vide",
+                                        "<ul><li>En haut : ne dépasse pas le bord crânial de la symphyse</li><li>Latéralement : se projette sur le foramen obturé<br></li></ul>"
+                                    ],
+                                    "guid": "bUQWs#D!r3",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Situation de la vessie pleine",
+                                        "Peut atteindre l'ombilic"
+                                    ],
+                                    "guid": "hR`74bZ!Wv",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Autre nom de la rétention aigüe d'urines",
+                                        "Globe vésical"
+                                    ],
+                                    "guid": "H$iY_(6b?]",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Origine et caractéristique des afférences artérielles de la vessie",
+                                        "<ul><li>Artère hypogastrique</li><li>Réseaux anastomosés +++</li></ul>"
+                                    ],
+                                    "guid": "y>l6;B2n8^",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Courants artériels destinés à la vessie",
+                                        "<ul><li>Courant sus-urétéral<br></li><li>Courant sous-urétéral</li></ul>"
+                                    ],
+                                    "guid": "DWx6i-yBdw",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Artères du courant sus-urétéral et origines",
+                                        "<ul><li>A. vésicales sup (artère ombilicale)</li><li>A. génitales principales (utérine ou vésiculo-déférentielle selon H/F)<br></li></ul>"
+                                    ],
+                                    "guid": "w5YYy*O6Pt",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Artères du courant sous-urétéral et origines",
+                                        "<ul><li>Branches post de l'A. génitale accessoire (vésico-prostatique ou vaginale longue)</li><li>Branches inf de l'A pudendale interne<br></li></ul>"
+                                    ],
+                                    "guid": "onq9:z16;a",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le retour veineux vésical émane essentiellement de {{c1::la calotte}}",
+                                        ""
+                                    ],
+                                    "guid": "Le5.aZL6X!",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Plexus drainant la vessie",
+                                        "<ul><li>Plexus rétro-pubien (de Santorini)</li><li>Plexusvésico-prostatique et séminal (H) ou vaginal (F)</li></ul>"
+                                    ],
+                                    "guid": "cd!KYVRXEJ",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les premiers lymphonœuds relais vessie sont {{c1::para-vésicaux::localisation}}. <br>De là, les collecteurs gagnent trois relais :<br><ul><li>{{c1::les chaînes iliaques externes}}</li><li>{{c1::les chaînes iliaques internes}}</li><li>{{c1::les lymphonœuds du promontoire}}</li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "OuTFf5G.b;",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les rapports de la vessie diffèrent selon {{c1::l’état de réplétion, l’âge et le sexe}}",
+                                        ""
+                                    ],
+                                    "guid": "l<`%ov>PCn",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports ventraux de la vessie vide",
+                                        "Arcature pubienne par l’intermédiaire de l’espace rétro-pubien (de Retzius) ⇒ limité en bas par des ligaments pubo-vésicaux"
+                                    ],
+                                    "guid": "Rb`frfb,lM",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports ventraux de la vessie lorsqu'elle se remplit",
+                                        "La paroi abdominale ⇒ soulève les plis ombilicaux médians (ouraque) et médiaux (A; ombilicales)"
+                                    ],
+                                    "guid": "u=u@(S3u!M",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports ventraux de la vessie lorsqu'elle est très pleine",
+                                        "<ul><li>les plis latéraux (artères épigastriques caudales)</li><li>l'anneau inguinal profond</li></ul>"
+                                    ],
+                                    "guid": "pM,-7pBK35",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "On ponctionne la vessie {{c1::au ras du bord crânial de la symphyse pubienne}}, en pleine matité",
+                                        ""
+                                    ],
+                                    "guid": "twpI1<=w/T",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports latéraux de la vessie",
+                                        "<ul><li>Muscles latéraux de la paroi abodminale (obturateur interne, insertion de l'élévateur de l'anus)</li><li>Lames sacro-recto-génito-vésico-pelviennes</li></ul>"
+                                    ],
+                                    "guid": "z>|}*n?%g?",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports crâniaux de la vessie",
+                                        "<ul><li>Péritoine</li><li>Contenu abdominale</li><li>Utérus (F)</li></ul>"
+                                    ],
+                                    "guid": "Clh?!IBzea",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports dorso-caudaux de la vessie",
+                                        "<ul><li>Diaphragme pelvien au niveau de la fente uro-génitale<br></li><li>Réception des deux uretères pelviens</li><li>Le reste dépend du sexe...</li></ul>"
+                                    ],
+                                    "guid": "t3j+v%C]oZ",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports dorso-caudaux de la vessie spécifiques de l'homme",
+                                        "<ul><li>Prostate<br></li><li>Ensemble vésiculo- déférentiel<br></li><li>Cul-de-sac recto-vésico-séminal (de Douglas)<br></li><li>Aponévrose proslato-péritonéale (de Denonvilliers)<br></li></ul>"
+                                    ],
+                                    "guid": "FcVY0rbT2",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::L'aponévrose proslato-péritonéale (de Denonvilliers)}} sépare {{c2::la loge vésico-prostatique}} de {{c2::la loge rectale.}}",
+                                        ""
+                                    ],
+                                    "guid": "BI*gcs(Va/",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rapports dorso-caudaux de la vessie spécifiques de la femme",
+                                        "<ul><li>cul-de-sac antérieur du vagin<br></li><li>isthme de l’utérus<br></li><li>paroi antérieure (triangle de Pawlick)</li></ul>"
+                                    ],
+                                    "guid": "JE$gb[{KOl",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La cloison vésico-vaginale est faite d’un {{c1::tissu conjonctif lâche}}, {{c1::facilement clivable::caractéristique}}, le {{c1::fascia de Halban.}}",
+                                        ""
+                                    ],
+                                    "guid": "N`Qxq&k@2m",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "En continuité avec {{c1::le col vésical}}, l’urètre traverse {{c1::le plancher pelvien}} pour se terminer {{c1::au périnée}}",
+                                        ""
+                                    ],
+                                    "guid": "hxjKEk>!w6",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Longueur de l'urètre féminin",
+                                        "3 à 4 cm"
+                                    ],
+                                    "guid": "qQYrv&NF]i",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'urètre féminin s'ouvre&nbsp;",
+                                        "à la partie antérieure de la vulve"
+                                    ],
+                                    "guid": "QB&y>Yv=ea",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Parties de l'urètre féminin",
+                                        "<ul><li>partie pelvienne</li><li>partie périnéale</li></ul>"
+                                    ],
+                                    "guid": "nMz9rWZU#o",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Parois de l'urètre féminin",
+                                        "<ul><li>muqueuse urothéliale transitionnelle</li><li>sous-muqueuse comportant des fibres nerveuses sensitives</li><li>plan musculaire lisse</li></ul>"
+                                    ],
+                                    "guid": "BhrtoYnm(7",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le sphincter strié entoure l'urètre féminin sur {{c1::1,5 cm}} au niveau de la&nbsp;partie {{c1::pelvienne}}",
+                                        ""
+                                    ],
+                                    "guid": "Q#yIlC<mKg",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'urètre masculin mesure environ {{c1::17 cm}} de long",
+                                        ""
+                                    ],
+                                    "guid": "yu/3NP|UfD",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Portions de l'urètre masculin",
+                                        "<ul><li>Portion postérieure fixe (urètre prostatique et urètre membraneux)</li><li>Portion antérieure mobile (urètre spongieux)<br></li></ul>"
+                                    ],
+                                    "guid": "vO(6q3U<~g",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Orientation, longueur et composition de l'urètre prostatique",
+                                        "<ul><li>Vertical, un peu en avant</li><li>3cm de long</li><li>muqueuse urothéliale et musculeuse lisse<br></li></ul>"
+                                    ],
+                                    "guid": "fT`kP3%(|g",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Longueur et composition de l'urètre prostatique",
+                                        "<ul><li>1.5cm</li><li>Sphincter strié</li></ul>"
+                                    ],
+                                    "guid": "A%_:TCT*;d",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "613cd0aef2864720841c69138fe48ce9-ao-1",
+                                        "",
+                                        "<img src=\"tmpulp7d2cn.png\" />",
+                                        "<img src=\"613cd0aef2864720841c69138fe48ce9-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"613cd0aef2864720841c69138fe48ce9-ao-1-A.svg\" />",
+                                        "<img src=\"613cd0aef2864720841c69138fe48ce9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "d>5>dHobz,",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "613cd0aef2864720841c69138fe48ce9-ao-2",
+                                        "",
+                                        "<img src=\"tmpulp7d2cn.png\" />",
+                                        "<img src=\"613cd0aef2864720841c69138fe48ce9-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"613cd0aef2864720841c69138fe48ce9-ao-2-A.svg\" />",
+                                        "<img src=\"613cd0aef2864720841c69138fe48ce9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "b4@]Q<Ck~1",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "613cd0aef2864720841c69138fe48ce9-ao-3",
+                                        "",
+                                        "<img src=\"tmpulp7d2cn.png\" />",
+                                        "<img src=\"613cd0aef2864720841c69138fe48ce9-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"613cd0aef2864720841c69138fe48ce9-ao-3-A.svg\" />",
+                                        "<img src=\"613cd0aef2864720841c69138fe48ce9-ao-O.svg\" />"
+                                    ],
+                                    "guid": "r/84v&ay.Z",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Conception classique du fonctionnement sphinctérien",
+                                        "<ul><li>Sphincter lisse involontaire</li><li>Sphincter strié volontaire</li></ul>"
+                                    ],
+                                    "guid": "cFV)5EbYoK",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Conception moderne du fonctionnement sphinctérien",
+                                        "Il faut désormais envisager un&nbsp;« complexe sphinctérien » dans lequel les fibres se connectent et s’emboîtent, et qui, comme le&nbsp;complexe sphinctérien ano-rectal, emprunte des fibres exogènes du diaphragme pelvien."
+                                    ],
+                                    "guid": "G9r):D72R?",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Composition du sphincter lisse chez la femme et forme ?",
+                                        "<ul><li>Fibres longitudinales (trigone et détrusor)</li><li>Fibres circulaires</li></ul>⇒ Forme un anneau lisse au niveau du sphincter strié<br>"
+                                    ],
+                                    "guid": "pB?EKwRqIx",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Composition du sphincter lisse chez l'homme et forme ?",
+                                        "Fibres d'origine vésicale<br>⇒ Forment un manchon sur l'urètre prostatique (sphincter interne)"
+                                    ],
+                                    "guid": "kw3O1TM-rj",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le muscle sphincter strié de l'urètre se présente plus comme une {{c1::gouttière ouverte en arrière}} que comme un anneau.",
+                                        ""
+                                    ],
+                                    "guid": "c8{|y~LU4K",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Localisation et insertion du sphincter strié chez la femme",
+                                        "<ul><li>sur le plan du muscle transverse profond du périnée<br></li><li>s’insère en arrière dans le centre tendineux du périnée</li></ul>"
+                                    ],
+                                    "guid": "gw+J~B73`3",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-1",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-1-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "o_nkke9>M*",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-2",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-2-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "wB1|3~g|&o",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-3",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-3-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "lA0>]4%^ou",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-4",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-4-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "gP?{25DEPH",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-5",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-5-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "d`:3x5yDkj",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-6",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-6-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "v:OZPezT|e",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-7",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-7-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-7-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "L(c_ma!xR4",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-8",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-8-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-8-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "ru3S:X8>}=",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-9",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-9-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-9-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "P]W:/Y#)Ui",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-10",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-10-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-10-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "beZJCF^#&2",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-11",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-11-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-11-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "mBs^Xu{/_l",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-12",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-12-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-12-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "teU_ql09{[",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-13",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-13-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-13-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "IR2VB3WFT.",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0a898e3277224445877d17dd82e0ef9e-ao-14",
+                                        "",
+                                        "<img src=\"tmp0mwjr43j.png\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-14-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-14-A.svg\" />",
+                                        "<img src=\"0a898e3277224445877d17dd82e0ef9e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Lpz*=lD>~a",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Localisation et forme du sphincter strié chez l'homme",
+                                        "<ul><li>De l'apex prostatique&nbsp;à l’origine du bulbe</li><li>En forme de&nbsp;</li><ul><li>Croissant (crânialement)</li><li>Fer à cheval</li><li>Oméga (caudalement)</li></ul></ul><img src=\"paste-a2ba67ab7ba236479a8564f15252055f7891a1c9.png\">"
+                                    ],
+                                    "guid": "iRGURMBKSf",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le muscle sphincter strié comporte deux types de fibres :<br><ul><li>{{c1::Des fibres lentes para-urétrales}}, qui {{c1::maintiennent un tonus permanent}}</li><li>{{c1::Des&nbsp; fibres&nbsp; rapides péri-urétrales}},&nbsp; plus&nbsp; périphériques, capables&nbsp; de&nbsp; {{c1::produire une compression brève, volontaire ou réflexe, de l’urètre.}}</li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "QBRTI~|T%#",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sangle externe",
+                                        "Entrecroisement de fibres du m. pubo-rectal en arrière<br>Relié au centre tendineux du périnée"
+                                    ],
+                                    "guid": "w(4.*/P11f",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Fonctions de la sangle externe",
+                                        "<ul><li>Tracte l'urètre en haut et en avant</li><li>Participe à la fermeture de la fente uro-génitale</li></ul>"
+                                    ],
+                                    "guid": "iNwqK,10uZ",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Innervation sensitive de l’ensemble vésico-sphinctérien - Type",
+                                        "Somatique et végétative"
+                                    ],
+                                    "guid": "dFT/,G3fin",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Innervation sensitive de l’ensemble vésico-sphinctérien - Localisation des terminaisons",
+                                        "Dans la sous-muqueuse vésicale"
+                                    ],
+                                    "guid": "v#[;DYc>Wb",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Innervation sensitive de l’ensemble vésico-sphinctérien - Transmission à la moelle",
+                                        "<ul><li>La moelle sacrale par les N. érecteurs et pudendaux</li><li>La moelle lombale par les N. hypogastriques</li></ul>"
+                                    ],
+                                    "guid": "rVhDjw]VCQ",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Innervation sensitive de l’ensemble vésico-sphinctérien - Transmission à l'encéphale",
+                                        "Faisceau Spino-thalamique ⇒ Thalamus"
+                                    ],
+                                    "guid": "gc/3`C~w1A",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Relai de la sensibilité vésicale à la conscience",
+                                        "Circonvolution pariétale ascendante"
+                                    ],
+                                    "guid": "f1W:VZ4HLq",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Innervation vésicale motrice - Type",
+                                        "<ul><li>Végétative pour le muscle lisse</li><li>Somatique pour le muscle strié</li></ul>"
+                                    ],
+                                    "guid": "dVF?LGV_l}",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Innervation vésicale motrice somatique - Voyage par quels nerfs vient de quels noyaux ?",
+                                        "<ul><li>Par les nerfs pudendaux&nbsp;</li><li>à partir d'un noyau médullaire sacral (d’Onuf) situé dans la corne antérieure de S2 à S4</li></ul>"
+                                    ],
+                                    "guid": "IstIN&EEIa",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A quelle partie du cortex est relié le noyau médullaire sacral d’Onuf ?",
+                                        "L’aire corticale de la motricité volontaire sur la circonvolution frontale ascendante"
+                                    ],
+                                    "guid": "C~$c3izgg7",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Innervation musculaire végétative vésicale en conditions normales",
+                                        "Nerfs hypogastriques et érecteurs"
+                                    ],
+                                    "guid": "cT3j`#,1tc",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Innervation musculaire végétative vésicale en conditions pathologiques et&nbsp;réflexe mictionnel",
+                                        "Contrôle central à plusieurs étages (cortical, diencéphalique dans les noyaux gris centraux, puis au niveau de la protubérance du tronc cérébral)"
+                                    ],
+                                    "guid": "I#pplYI%>m",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Médiateurs de l'innervation de l'appareil sphinctérien et position",
+                                        "<ul><li>Acétylcholine (Dôme)</li><li>Noradrénaline (Base)</li><li>Médiateurs NANC (non adrénergiques non cholinergiques)</li></ul>"
+                                    ],
+                                    "guid": "tyt_SxT`c~",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effet de l'acétylcholine sur l'appareil sphinctérien",
+                                        "<ul><li>Facilitation transmission synaptique</li><li>Contraction des fibres musculaires</li></ul>"
+                                    ],
+                                    "guid": "h~=[-(%D6S",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effet de la noradrénaline sur l'appareil sphinctérien",
+                                        "<ul><li>Récepteurs α ⇒ contraction (maintien du tonus actif du sphincter lisse et du trigone)</li><li>Récepteurs β ⇒ relaxation (relâchement de la calotte vésicale et du sphincter lisse)</li></ul>"
+                                    ],
+                                    "guid": "O>Ti/JbyR+",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Blocage de l'effet de l'acétylcholine par :",
+                                        "<ul><li>Antimuscariniques (atropine par exemple) ⇒ fibres lisses</li><li>Curare ⇒ fibres striées</li></ul>"
+                                    ],
+                                    "guid": "i]iZ}>72V)",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effet des médiateurs NANC",
+                                        "<ul><li>Contraction du détrusor</li><li>Rôle accessoire en situation physiologique</li></ul>"
+                                    ],
+                                    "guid": "vD3;qnk)ar",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les bases de la&nbsp;{{c2::continence}} sont basées sur la&nbsp;régulation {{c1::automatique}}",
+                                        ""
+                                    ],
+                                    "guid": "Elt|,kXsbd",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les bases de la&nbsp;{{c2::propreté}} sont basées sur la&nbsp;régulation {{c1::contrôlée cérébralement}}",
+                                        ""
+                                    ],
+                                    "guid": "fl:c@X@]LH",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Au repos, la pression {{c1::intra vésicale}} reste normalement très inférieure à la pression {{c1::urétrale}}",
+                                        ""
+                                    ],
+                                    "guid": "Oxq&^@{1mh",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La pression urétrale est déterminée par {{c1::le tonus des fibres sphinctériennes}} qui augmente pendant {{c1::le remplissage}} et s’effondre pendant {{c1::la miction}}",
+                                        ""
+                                    ],
+                                    "guid": "x6!pdC[#j&",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La résistance urétrale est liée à la fois à {{c1::l’angulation de l’urètre par rapport au col vésical}}&nbsp;mais également à {{c1::sa longueur}} et à {{c1::la densité de son tissu de soutien}}",
+                                        ""
+                                    ],
+                                    "guid": "g$*$d=r.Y]",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les éléments concourant à la continence au repos comprennent<br><ul><li>{{c1::La&nbsp; pression&nbsp; urétrale}}<br></li><li>{{c1::La résistance urétrale}}<br></li><li>{{c1::Le tonus de base du sphincter strié,}}<br></li><li>{{c1::Le relâchement du détrusor}}<br></li><li>{{c1::La contraction tonique du col et du sphincter lisse}}<br></li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "IXI}P~<p%[",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le réflexe de continence à l'effort&nbsp;met en œuvre <br><ul><li>{{c1::les fibres rapides du sphincter strié}}</li><li>{{c1::la musculature pelvi-périnéale}}<br></li></ul>Il a un temps de latence de {{c1::10 ms}}",
+                                        ""
+                                    ],
+                                    "guid": "rbb;hr>>7T",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Mécanisme de la miction",
+                                        "<ul><li>pression vésicale&nbsp;↑, pression urétrale&nbsp;↓</li><li>Contraction de la&nbsp;barre musculaire inter-urétérale ⇒&nbsp;empêche le reflux vésico-rénal</li><li>Ouverture du col vésical puis de l’urètre<br></li><li>Contraction concentrique</li></ul>"
+                                    ],
+                                    "guid": "P$@Bz(u,xx",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Induction du réflexe mictionnel chez l'adulte - Stimulation et organisation",
+                                        "<ul><li>Récepteurs de tension du détrusor</li><li>Dans le tronc cérébral (réflexe supra-segmentaire)</li></ul>"
+                                    ],
+                                    "guid": "f}r}QZ?9oJ",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Induction du réflexe mictionnel chez l'enfant - Stimulation et organisation",
+                                        "<ul><li>Récepteurs cutanés ou muqueux</li><li>Organisé de manière segmentaire au niveau de la moelle sacrée</li></ul>"
+                                    ],
+                                    "guid": "G&cr}Sw!oB",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le réflexe mictionnel repose sur le système {{c1::parasympathique}}",
+                                        ""
+                                    ],
+                                    "guid": "q)#6@5LfsR",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Double action du système parasympathique permettant le réflexe mictionnel",
+                                        "<ul><li>Mise en phase de toutes les fibres musculaires lisses de la vessie ⇒contraction puissante, synchrone et organisée</li><li>Inhibition concomitante des systèmes antagonistes (sympathique et somatique) ⇒&nbsp;effondrement du tonus sphinctérien<br></li></ul>"
+                                    ],
+                                    "guid": "P)[21&J.-l",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La synergie vésico sphinctérienne repose sur le fait que :",
+                                        "Le tonus sphinctérien induit la relaxation du détrusor et la contraction du&nbsp;détrusor inhibe le tonus sphinctérien"
+                                    ],
+                                    "guid": "O.@jliT[V#",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La rétention volontaire des urines est possible jusqu'à {{c1::700mL}}",
+                                        ""
+                                    ],
+                                    "guid": "s5LW>T]Hr5",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La rétention volontaire est possible grâce à deux mécanismes",
+                                        "<ul><li>Contraction volontaire du sphincter strié (qq secodnes)</li><li>⇒ Inhibition réflexe du détrusor</li></ul>"
+                                    ],
+                                    "guid": "i5RPb1#PG{",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Impériosité mictionnelle",
+                                        "Perte de l'inhibition réflexe du détrusor après contraction volontaire du sphincter strié"
+                                    ],
+                                    "guid": "N+(bLIo-[:",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Origine du déclenchement volontaire de la miction",
+                                        "Centre mictionnel cortical situé à la face interne du lobe frontal"
+                                    ],
+                                    "guid": "sM&J078(G(",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::L’existence du centre&nbsp;mictionnel cortical}}&nbsp;fait de la vessie le viscère le plus {{c1::« corticalisé »}}, et de ce fait le plus susceptible de <br>{{c2::comportements « psychosomatiques »}}",
+                                        ""
+                                    ],
+                                    "guid": "RgRJm2yN73",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La miction peut être déclenchée de façon involontaire lors d’une émotion intense ({{c1::système limbique diencéphalique}}), ou par des stimuli sensoriels (froid, eau qui coule...)",
+                                        ""
+                                    ],
+                                    "guid": "o7Ac+4CG>r",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Origine du reflux urétéral",
+                                        "<ul><li>Trajet transmural des uretères trop court ou trop direct</li><li>Uretères implantés trop latéralement (dans détrusor)</li></ul>"
+                                    ],
+                                    "guid": "Hm%;bMUIFF",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Origine d'une dilatation urétérale ou méga-uretère",
+                                        "Uretère implanté dans le trigone ou trop près du col ⇒ Obstruction de l'uretère"
+                                    ],
+                                    "guid": "PPMv%n?XwY",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Complication possible d'une obstruction de l'uretère à cause de son implantation",
+                                        "Hernie muqueuse ou urétérocèle"
+                                    ],
+                                    "guid": "P2cHd,&V^1",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "De façon rare, un uretère peut s'implanter {{c1::hors de la vessie}} ({{c1::urètre, vulve, voire hors de la filière urinaire}})",
+                                        ""
+                                    ],
+                                    "guid": "QgA1z<*Nc>",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les anomalies d’implantation urétérale sont considérablement plus fréquentes en cas de {{c1::duplicité urétérale}}",
+                                        ""
+                                    ],
+                                    "guid": "m(L.jzE}rC",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                }
+                            ]
                         }
                     ],
                     "crowdanki_uuid": "5bd97cf4-4332-11ec-bacd-600308aa3fd6",
@@ -19019,7 +20727,13 @@
                 "6074ac83ba574439a876467c5ff7e9e7-ao-9-A.svg",
                 "6074ac83ba574439a876467c5ff7e9e7-ao-9-Q.svg",
                 "6074ac83ba574439a876467c5ff7e9e7-ao-O.svg",
+                "7a0de493cab847a1ae5e2b400c900869-ao-1-A.svg",
+                "7a0de493cab847a1ae5e2b400c900869-ao-1-Q.svg",
+                "7a0de493cab847a1ae5e2b400c900869-ao-2-A.svg",
+                "7a0de493cab847a1ae5e2b400c900869-ao-2-Q.svg",
+                "7a0de493cab847a1ae5e2b400c900869-ao-O.svg",
                 "Transversus_abdominis.png",
+                "tmp1wl97n2x.png",
                 "tmp8vw5iasi.png",
                 "tmpsrx0bdgo.png"
             ],
@@ -19451,6 +21165,44 @@
                         "<img src=\"6074ac83ba574439a876467c5ff7e9e7-ao-O.svg\" />"
                     ],
                     "guid": "l=Zc$AH7}M",
+                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7a0de493cab847a1ae5e2b400c900869-ao-1",
+                        "",
+                        "<img src=\"tmp1wl97n2x.png\" />",
+                        "<img src=\"7a0de493cab847a1ae5e2b400c900869-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7a0de493cab847a1ae5e2b400c900869-ao-1-A.svg\" />",
+                        "<img src=\"7a0de493cab847a1ae5e2b400c900869-ao-O.svg\" />"
+                    ],
+                    "guid": "DD>@B4p#u0",
+                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7a0de493cab847a1ae5e2b400c900869-ao-2",
+                        "",
+                        "<img src=\"tmp1wl97n2x.png\" />",
+                        "<img src=\"7a0de493cab847a1ae5e2b400c900869-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7a0de493cab847a1ae5e2b400c900869-ao-2-A.svg\" />",
+                        "<img src=\"7a0de493cab847a1ae5e2b400c900869-ao-O.svg\" />"
+                    ],
+                    "guid": "frbYld-E4u",
                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
                     "tags": []
                 }

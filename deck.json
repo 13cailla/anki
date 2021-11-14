@@ -9475,15 +9475,11 @@
                                 "92271294bcad42aab80ff987302c62e4-ao-3-A.svg",
                                 "92271294bcad42aab80ff987302c62e4-ao-3-Q.svg",
                                 "92271294bcad42aab80ff987302c62e4-ao-O.svg",
-                                "c8908003b4344592b194c7cc0f6a47ac-ao-1-A.svg",
-                                "c8908003b4344592b194c7cc0f6a47ac-ao-1-Q.svg",
-                                "c8908003b4344592b194c7cc0f6a47ac-ao-2-A.svg",
-                                "c8908003b4344592b194c7cc0f6a47ac-ao-2-Q.svg",
-                                "c8908003b4344592b194c7cc0f6a47ac-ao-3-A.svg",
-                                "c8908003b4344592b194c7cc0f6a47ac-ao-3-Q.svg",
-                                "c8908003b4344592b194c7cc0f6a47ac-ao-4-A.svg",
-                                "c8908003b4344592b194c7cc0f6a47ac-ao-4-Q.svg",
-                                "c8908003b4344592b194c7cc0f6a47ac-ao-O.svg",
+                                "c8908003b4344592b194c7cc0f6a47ac-oa-1-A.svg",
+                                "c8908003b4344592b194c7cc0f6a47ac-oa-1-Q.svg",
+                                "c8908003b4344592b194c7cc0f6a47ac-oa-2-A.svg",
+                                "c8908003b4344592b194c7cc0f6a47ac-oa-2-Q.svg",
+                                "c8908003b4344592b194c7cc0f6a47ac-oa-O.svg",
                                 "cb986ac2ee7f4dbaad94e769ae4e9c0f-ao-1-A.svg",
                                 "cb986ac2ee7f4dbaad94e769ae4e9c0f-ao-1-Q.svg",
                                 "cb986ac2ee7f4dbaad94e769ae4e9c0f-ao-O.svg",
@@ -9498,6 +9494,12 @@
                                 "ceec8f1613ec4336a97c70b27d35eeb3-ao-O.svg",
                                 "e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-1-A.svg",
                                 "e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-1-Q.svg",
+                                "e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-2-A.svg",
+                                "e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-2-Q.svg",
+                                "e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-3-A.svg",
+                                "e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-3-Q.svg",
+                                "e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-4-A.svg",
+                                "e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-4-Q.svg",
                                 "e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-O.svg",
                                 "e6337b957e8244b6a3c170240203dcc1-ao-1-A.svg",
                                 "e6337b957e8244b6a3c170240203dcc1-ao-1-Q.svg",
@@ -9541,7 +9543,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Les concentrations de Na2+ sont&nbsp;{{c1::plus}} élevées en extra qu’en intra-cellulaire",
+                                        "Les concentrations de Na+ sont&nbsp;{{c1::plus}} élevées en extra qu’en intra-cellulaire",
                                         ""
                                     ],
                                     "guid": "yZUoV?;bS7",
@@ -9739,7 +9741,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "L’ECG standard comporte {{c1::12}} dérivations : <br><ul><li>6 dans le plan {{c1::frontal}} (dérivations {{c1::périphériques}})</li><li>6 dans un plan {{c1::horizontal}} (dérivations {{c1::précordiales}})</li></ul>",
+                                        "L’ECG standard comporte {{c1::12}} dérivations : <br><ul><li>{{c1::6}} dans le plan {{c1::frontal}} (dérivations {{c1::périphériques}})</li><li>{{c1::6}} dans un plan {{c1::horizontal}} (dérivations {{c1::précordiales}})</li></ul>",
                                         ""
                                     ],
                                     "guid": "E)Xh981Ubg",
@@ -10024,7 +10026,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Territoires explorés par V1, V2 et V3",
-                                        "Antéro-septal : Paroi antérieure du VG et le septum inter-ventriculaire ⇒ exploré par qui ?"
+                                        "Antéro-septal : Paroi antérieure du VG et le septum inter-ventriculaire ⇒ exploré par qui ?<br><br><img src=\"tmpfcof2j03.png\">"
                                     ],
                                     "guid": "eE7%+Gw]$Q",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -10034,7 +10036,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Territoires explorés par V4",
-                                        "Région apicale VG ⇒ Exploré par qui ?"
+                                        "Région apicale VG ⇒ Exploré par qui ?<br><br><img src=\"tmpfcof2j03.png\">"
                                     ],
                                     "guid": "DaCqNT,VUq",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -10044,7 +10046,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Territoires explorés par&nbsp;D1, aVL",
-                                        "Région latérale haute du VG ⇒ Exploré par qui ?"
+                                        "Région latérale haute du VG ⇒ Exploré par qui ?<br><br><img src=\"tmpfcof2j03.png\">"
                                     ],
                                     "guid": "sd9gpd8A12",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -10054,7 +10056,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Territoires explorés par&nbsp;V5, V6",
-                                        "Région latérale basse du VG ⇒ Exploré par qui ?"
+                                        "Région latérale basse du VG ⇒ Exploré par qui ?<br><br><img src=\"tmpfcof2j03.png\">"
                                     ],
                                     "guid": "wx:7lbAW&Z",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -10064,7 +10066,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Territoires explorés par D2, D3 et aVF",
-                                        "Face inférieure (ou diaphragmatiques) du VG ⇒ Exploré par qui ?"
+                                        "Face inférieure (ou diaphragmatiques) du VG ⇒ Exploré par qui ?<br><br><img src=\"tmpfcof2j03.png\">"
                                     ],
                                     "guid": "eEMdXI?gZ3",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -10074,7 +10076,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Territoires explorés par V7, V8 et V9",
-                                        "Postérieures : face basale et inférieure du VG ⇒ Exploré par qui ?"
+                                        "Postérieures : face basale et inférieure du VG ⇒ Exploré par qui ?<br><br><img src=\"tmpfcof2j03.png\"><br>"
                                     ],
                                     "guid": "hV|(Q3ux1:",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -10084,7 +10086,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Territoires explorés par V2R, V3R et VE",
-                                        "VD ⇒ Exploré par qui ?"
+                                        "VD ⇒ Exploré par qui ?<br><br><img src=\"tmpfcof2j03.png\">"
                                     ],
                                     "guid": "ORuev~p3QE",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -10391,7 +10393,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "L’onde q physiologique est {{c1::&lt; 40 ms et &lt; 0,2 V::amplitude et durée}}",
+                                        "L’onde q physiologique est {{c1::&lt; 40 ms et &lt; 2mm::amplitude et durée}}",
                                         ""
                                     ],
                                     "guid": "E.*3(SA@NM",
@@ -10566,82 +10568,6 @@
                                     ],
                                     "guid": "h&.GVofXKu",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "c8908003b4344592b194c7cc0f6a47ac-ao-1",
-                                        "",
-                                        "<img src=\"tmptamvmt5a.png\" />",
-                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-ao-1-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-ao-1-A.svg\" />",
-                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-ao-O.svg\" />"
-                                    ],
-                                    "guid": "rSO=:mUeu(",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "c8908003b4344592b194c7cc0f6a47ac-ao-2",
-                                        "",
-                                        "<img src=\"tmptamvmt5a.png\" />",
-                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-ao-2-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-ao-2-A.svg\" />",
-                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-ao-O.svg\" />"
-                                    ],
-                                    "guid": "O^^DQ]9VJx",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "c8908003b4344592b194c7cc0f6a47ac-ao-3",
-                                        "",
-                                        "<img src=\"tmptamvmt5a.png\" />",
-                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-ao-3-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-ao-3-A.svg\" />",
-                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-ao-O.svg\" />"
-                                    ],
-                                    "guid": "FDhL@tP<}^",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "c8908003b4344592b194c7cc0f6a47ac-ao-4",
-                                        "",
-                                        "<img src=\"tmptamvmt5a.png\" />",
-                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-ao-4-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-ao-4-A.svg\" />",
-                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-ao-O.svg\" />"
-                                    ],
-                                    "guid": "s16A+Ld,rg",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": []
                                 },
                                 {
@@ -10969,6 +10895,101 @@
                                     ],
                                     "guid": "Ev:Zr?C_q8",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-2",
+                                        "",
+                                        "<img src=\"tmpfcof2j03.png\" />",
+                                        "<img src=\"e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-2-A.svg\" />",
+                                        "<img src=\"e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "2!Jzy@WQu",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-3",
+                                        "",
+                                        "<img src=\"tmpfcof2j03.png\" />",
+                                        "<img src=\"e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-3-A.svg\" />",
+                                        "<img src=\"e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "G_xOdf/Y+y",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-4",
+                                        "",
+                                        "<img src=\"tmpfcof2j03.png\" />",
+                                        "<img src=\"e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-4-A.svg\" />",
+                                        "<img src=\"e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-O.svg\" />"
+                                    ],
+                                    "guid": "u[h`=FVm2Q",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "c8908003b4344592b194c7cc0f6a47ac-oa-1",
+                                        "",
+                                        "<img src=\"tmptamvmt5a.png\" />",
+                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-oa-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-oa-1-A.svg\" />",
+                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-oa-O.svg\" />"
+                                    ],
+                                    "guid": "Ak9Vx/@@M>",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "c8908003b4344592b194c7cc0f6a47ac-oa-2",
+                                        "",
+                                        "<img src=\"tmptamvmt5a.png\" />",
+                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-oa-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-oa-2-A.svg\" />",
+                                        "<img src=\"c8908003b4344592b194c7cc0f6a47ac-oa-O.svg\" />"
+                                    ],
+                                    "guid": "iXv$Qr<jxI",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": []
                                 }
                             ]

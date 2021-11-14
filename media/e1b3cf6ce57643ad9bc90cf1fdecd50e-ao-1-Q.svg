@@ -6,20 +6,23 @@
  <g>
   <title>Masks</title>
   <g id="e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-1" class="qshape">
-   <rect height="79.59184" width="85.71429" y="293.83666" x="145.71434" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="55.10204" width="65.30613" y="661.18362" x="306.93884" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="44.89796" width="48.97959" y="714.24484" x="531.42864" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="42.85714" width="55.10204" y="716.28566" x="655.91844" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="42.85714" width="73.46939" y="681.59178" x="919.18376" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="48.97959" width="67.34694" y="704.04076" x="778.36743" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="57.14286" width="65.30613" y="614.24484" x="1039.59193" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="65.30613" width="53.06123" y="473.42851" x="1092.65315" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="48.97959" width="46.93878" y="416.28565" x="1004.89805" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="46.93878" width="77.55102" y="381.59177" x="880.40825" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="67.34694" width="57.14286" y="306.08156" x="1076.32662" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="55.10204" width="93.87755" y="995.87751" x="615.10212" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="32.65306" width="93.87755" y="955.06118" x="827.34702" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="53.06123" width="81.63266" y="946.89792" x="402.85721" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="145.71434" y="293.83666" width="85.71429" height="79.59184" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="306.93884" y="661.18362" width="65.30613" height="55.10204" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="531.42864" y="714.24484" width="48.97959" height="44.89796" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="655.91844" y="716.28566" width="55.10204" height="42.85714" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="919.18376" y="681.59178" width="73.46939" height="42.85714" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="778.36743" y="704.04076" width="67.34694" height="48.97959" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="1039.59193" y="614.24484" width="65.30613" height="57.14286" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="1092.65315" y="473.42851" width="53.06123" height="65.30613" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="1004.89805" y="416.28565" width="46.93878" height="48.97959" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="880.40825" y="381.59177" width="77.55102" height="46.93878" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="1076.32662" y="306.08156" width="57.14286" height="67.34694" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="615.10212" y="995.87751" width="93.87755" height="55.10204" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="827.34702" y="955.06118" width="93.87755" height="32.65306" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="402.85721" y="946.89792" width="81.63266" height="53.06123" class="qshape"/>
   </g>
+  <rect id="e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-2" height="110.20409" width="144.89797" y="55.06114" x="825.30621" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-3" height="104.08164" width="116.32654" y="177.51013" x="194.69394" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="e1b3cf6ce57643ad9bc90cf1fdecd50e-ao-4" height="157.14287" width="140.81633" y="773.42851" x="202.8572" fill="#FFEBA2"/>
  </g>
 </svg>

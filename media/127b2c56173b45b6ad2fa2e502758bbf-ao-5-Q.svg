@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="822" height="546">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text fill="#000000" stroke-width="0" x="660.65307" y="99.91834" id="svg_1" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">Couche moléculaire externe</text>
+  <text fill="#000000" stroke-width="0" x="639.22132" y="225.68668" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" id="svg_2">Couche des cellules de Purkinje</text>
+  <text fill="#000000" stroke-width="0" x="630.03764" y="299.15607" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" id="svg_3">Couche moléculaire interne</text>
+  <text fill="#000000" stroke-width="0" x="633.09887" y="416.503" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" id="svg_4">Axe des lamelles</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_5" y="516.24487" x="458.61225" stroke-width="0" fill="#000000">Histologie du cervelet</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="468.81633" y="20.3265" width="341.83674" height="39.79592" id="127b2c56173b45b6ad2fa2e502758bbf-ao-1"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="466.26531" y="83.08165" width="341.83674" height="39.79592" id="127b2c56173b45b6ad2fa2e502758bbf-ao-2"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="469.32653" y="201.44899" width="341.83674" height="39.79592" id="127b2c56173b45b6ad2fa2e502758bbf-ao-3"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="469.32652" y="268.79593" width="341.83674" height="39.79592" id="127b2c56173b45b6ad2fa2e502758bbf-ao-4"/>
+  <rect fill="#FF7E7E" stroke="#2D2D2D" x="475.44899" y="390.2245" width="341.83674" height="39.79592" id="127b2c56173b45b6ad2fa2e502758bbf-ao-5" class="qshape"/>
+ </g>
+</svg>

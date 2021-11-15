@@ -5090,26 +5090,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Les atriums sont recouverts de graisse&nbsp;",
-                                        "Jamais"
-                                    ],
-                                    "guid": "J<U}FX@Yh9",
-                                    "note_model_uuid": "73c7429e-4254-11ec-92c1-600308aa3fd6",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Les sillons sont recouverts de graisse",
-                                        "Toujours"
-                                    ],
-                                    "guid": "OIf%`w3pH[",
-                                    "note_model_uuid": "73c7429e-4254-11ec-92c1-600308aa3fd6",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "{{c2::L’artère coronaire droite}}&nbsp;court dans {{c1::le sillon atrioventriculaire droit}}",
                                         ""
                                     ],
@@ -10085,7 +10065,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Territoires explorés par V2R, V3R et VE",
+                                        "Territoires explorés par V3R, V4R et VE",
                                         "VD ⇒ Exploré par qui ?<br><br><img src=\"tmpfcof2j03.png\">"
                                     ],
                                     "guid": "ORuev~p3QE",
@@ -10669,7 +10649,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "L’onde T est en général positive en {{c1::DI, DII, V3, V4, V5, V6}}<br>L’onde T est en général positive en {{c1::AVR}}<br>Elle est variable en&nbsp;{{c1::DIII, AVL, V1}}",
+                                        "L’onde T est en général positive en {{c1::DI, DII, V3, V4, V5, V6}}<br>L’onde T est en général négative en {{c1::AVR}}<br>Elle est variable en&nbsp;{{c1::DIII, AVL, V1}}",
                                         ""
                                     ],
                                     "guid": "Na56ylV1TE",
@@ -15295,6 +15275,683 @@
                     "media_files": [],
                     "name": "Anatomie",
                     "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "101ea516-460f-11ec-a829-600308aa3fd6",
+                    "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "127b2c56173b45b6ad2fa2e502758bbf-ao-1-A.svg",
+                        "127b2c56173b45b6ad2fa2e502758bbf-ao-1-Q.svg",
+                        "127b2c56173b45b6ad2fa2e502758bbf-ao-2-A.svg",
+                        "127b2c56173b45b6ad2fa2e502758bbf-ao-2-Q.svg",
+                        "127b2c56173b45b6ad2fa2e502758bbf-ao-3-A.svg",
+                        "127b2c56173b45b6ad2fa2e502758bbf-ao-3-Q.svg",
+                        "127b2c56173b45b6ad2fa2e502758bbf-ao-4-A.svg",
+                        "127b2c56173b45b6ad2fa2e502758bbf-ao-4-Q.svg",
+                        "127b2c56173b45b6ad2fa2e502758bbf-ao-5-A.svg",
+                        "127b2c56173b45b6ad2fa2e502758bbf-ao-5-Q.svg",
+                        "127b2c56173b45b6ad2fa2e502758bbf-ao-O.svg",
+                        "paste-398045e6847d7819c6a2f1968c12342bcdbe4f35.png",
+                        "paste-5e465b695a81f867763fc9f58638d5eae678e252.png",
+                        "paste-7a06e009d950c4f72c8dd1319512ac0830e7fadc.png",
+                        "paste-977df42a7e93f1aacd5425e953fc762ea849358c.png",
+                        "paste-ceadf2574c42f5c9bfa70124b8c7632a55ebc20f.png",
+                        "tmpxigh5q1l.png"
+                    ],
+                    "name": "Histologie",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Il y a environ {{c1::10^11}} neurones dans le cerveau humain",
+                                ""
+                            ],
+                            "guid": "eD#p:F_%TC",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Les dendrites conduisent le signal {{c1::des synapses::de ?}} {{c1::au corps cellulaire::à ?}}",
+                                ""
+                            ],
+                            "guid": "NJUt}k4/h(",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "L'axone conduit le signal {{c1::du corps cellulaire::à partir de ?}}",
+                                ""
+                            ],
+                            "guid": "smZZC-a@OK",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Caractéristiques du corps cellulaire des neurones",
+                                "<ul><li>noyaux volumineux, sphérique, nucléolé</li><li>cytoplasme riche en organites (dont des amas de REG : les corps de Nissl)</li></ul>"
+                            ],
+                            "guid": "tZ!6.1(EA2",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Il y a environ {{c1::10^14}} synapses dans le cerveau humain",
+                                ""
+                            ],
+                            "guid": "kP*U:[$NX!",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Les synapses sont les zones de contact fonctionnel entre deux neurones, le plus souvent entre {{c1::l’axone}} et {{c1::la dendrite}}",
+                                ""
+                            ],
+                            "guid": "jT@.>:$aAf",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "On distingue deux types de synapses : <br><ul><li>{{c1::électriques}}</li><li>{{c1::chimiques}}</li></ul>",
+                                ""
+                            ],
+                            "guid": "GjZMnE1UNW",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Caractéristiques des synapses électriques",
+                                "<ul><li>bidirectionnelles</li><li>jonctions gap</li></ul>"
+                            ],
+                            "guid": "Ae8vF`@brW",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Caractéristiques des synapses chimiques",
+                                "<ul><li>unidirectionnelles</li><li>sécrétion de neurotransmetteurs<br></li></ul>"
+                            ],
+                            "guid": "J~4PJDhNNh",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Types de synapses chimiques",
+                                "<ul><li>petites vésicules synaptiques<br></li><li>grandes vésicules synaptiques<br></li></ul>"
+                            ],
+                            "guid": "cP#N~/M]X-",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Neurotransmetteures des petites vésicules synaptiques",
+                                "Acétylcholine, acides aminés excitateurs, purines, amines biogènes, GABA,&nbsp;glycine"
+                            ],
+                            "guid": "fZ<}];:Wmu",
+                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Neurotransmetteures des grandes vésicules synaptiques",
+                                "Endorphines, ocytocine, vasopressine, somatostatine, neuropeptide Y"
+                            ],
+                            "guid": "gc`PS*+4PQ",
+                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Les marqueurs immunohistochimiques utilisés en diagnostic pour détecter les neurones et les synapses sont : {{c1::le neurofilament, NeuN et la synaptophysine.}}",
+                                ""
+                            ],
+                            "guid": "O!zU27{.q>",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Les cellules gliales dérivent {{c1::du neuroectoderme:: de ?}} ({{c1::astrocytes, oligodendrocytes, épendymocytes}}) ou {{c1::de la moelle osseuse hématopoïétique::de ?}} ({{c1::microglie}})",
+                                ""
+                            ],
+                            "guid": "l&zsfYtJAY",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Localisation des astrocytes",
+                                "Dans la substance grise et la substance blanche"
+                            ],
+                            "guid": "g(t&-;XQx(",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rôles des astrocytes",
+                                "<ul><li>régulent les mouvements de fluides<br></li><li>forment la « glia limitans » à la base de la pie mère<br></li><li>interagissent avec les autres astrocytes (jonctions gap)</li><li>participent à la formation/fonction de la barrière hémato-encéphalique</li><li>supportent les axones</li><li>éliminent l’excès de neurotransmetteurs sécrétés</li><li>protègent et isolent les nœuds de Ranvier</li><li>participent à la barrière entre le liquide cérébro- spinal (LCS) et le cerveau</li><li>participent à l’établissement et à la cicatrisation des processus pathologiques<br></li></ul>⇒ Rôle de ?"
+                            ],
+                            "guid": "gV}+-IZ1/:",
+                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Marquages des astrocytes",
+                                "<ul><li>GFAP : Glial Fibrillary Acidic Protein<br></li><li>imprégnation argentique<br></li></ul><img src=\"paste-7a06e009d950c4f72c8dd1319512ac0830e7fadc.png\"><br><br>&nbsp;⇒ Marquage de ?"
+                            ],
+                            "guid": "kc!&I}l~nq",
+                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-7a06e009d950c4f72c8dd1319512ac0830e7fadc.png\">",
+                                "Marquage GFAP ⇒ Astrocytes"
+                            ],
+                            "guid": "`/s(enE,F",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Types d'astrocytes et localisation",
+                                "<ul><li>protoplasmique ⇒ SG</li><li>fibrilaires ⇒ SB</li></ul>"
+                            ],
+                            "guid": "MP>U,r2nAz",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Localisation des oligodendrocytes",
+                                "SB et SG"
+                            ],
+                            "guid": "Dfoh_A5uD@",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rôle des oligodendrocytes",
+                                "Formation et de la maintenance des gaines de myéline<br><br>⇒ Rôle de ?"
+                            ],
+                            "guid": "jEK~]q;-#j",
+                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aspect des&nbsp;oligodendrocytes",
+                                "Petit noyau rond (ressemblant à celui d’un lymphocyte)<br><br>⇒ Aspect de ?"
+                            ],
+                            "guid": "sS?o8|v;6Z",
+                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Les oligodendrocytes entourent l'axone de {{c1::multiples neurones::un seul/plusieurs neurones}}",
+                                ""
+                            ],
+                            "guid": "QtxyEvPakb",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rôles des épendymocytes",
+                                "<ul><li>régulation de l’homéostasie entre les cavités ventriculaires et le cerveau</li><li>la sécrétion et l’absorption du LCS</li><li>l’endocytose, phagocytose et métabolisme de substances comme le fer</li><li>détoxification d’une grande diversité de substances</li></ul>Rôle de ?"
+                            ],
+                            "guid": "m&D!VE/7Li",
+                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Localisation des épendymocytes",
+                                "Délimitent le système ventriculaire<br><br>⇒ Rôle de ?"
+                            ],
+                            "guid": "KqF_Z8^ylC",
+                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Aspect des épendymocytes",
+                                "Cellules épithéliales cubiques/cylindriques ciliées<br><br>⇒ Quelle cellule dans le cerveau ?"
+                            ],
+                            "guid": "P5AZ;:z7{/",
+                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rôles des microglies",
+                                "Macrophages résidents du SNC&nbsp;"
+                            ],
+                            "guid": "M~l<^})Kf]",
+                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Lors d'une lésion, que font les microglies ?",
+                                "<ul><li>Prolifération</li><li>Noyau allongé</li><li>Formation d'agrégats (nodules microgliaux)<br></li><li>Accumulent autour de neurones ⇒ neurophagie<br></li></ul>"
+                            ],
+                            "guid": "N7@P.q)mc|",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "La Matrice Extra-Cellulaire (MEC) représente {{c1::20 à 30}}% du volume tissulaire total ; elle contient {{c1::des protéines, glycoprotéines et protéoglycanes}} et a un rôle fondamental dans les échanges entre les neurones et le sang.",
+                                ""
+                            ],
+                            "guid": "QZ1=.%co].",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-977df42a7e93f1aacd5425e953fc762ea849358c.png\">",
+                                "OLIGODENDROCYTES"
+                            ],
+                            "guid": "f-z8Y*5Kh]",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-5e465b695a81f867763fc9f58638d5eae678e252.png\">",
+                                "Astrocytes"
+                            ],
+                            "guid": "C~wcp4nMqS",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-ceadf2574c42f5c9bfa70124b8c7632a55ebc20f.png\">",
+                                "Ependymocytes"
+                            ],
+                            "guid": "Bvn$YlC?f4",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-398045e6847d7819c6a2f1968c12342bcdbe4f35.png\">",
+                                "Microglies"
+                            ],
+                            "guid": "O$s2exylX-",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Caractéristiques des capillaires dans le SNC",
+                                "<ul><li>Continus, sans pore, avec péricytes</li><li>Membrane basale en contact avec pieds vasculaires des astrocytes</li><li>Jonctions serrées (zonula occludens)</li><li>Nombreuses mitochondries<br></li></ul>"
+                            ],
+                            "guid": "NH+m[y9=H!",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Feuillets des méninges",
+                                "<ul><li>pachyméninge ⇒ dure mère<br></li><li>leptoméninges ⇒&nbsp;arachnoïde et pie mère<br></li></ul>"
+                            ],
+                            "guid": "f%j&#0vcze",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Espaces délimités par les méninges",
+                                "<ul><li>extradural</li><li>sous dural</li><li>sous arachnoïdien<br></li></ul>"
+                            ],
+                            "guid": "EO$u,;6rKX",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Le LCS circule dans&nbsp;",
+                                "les espaces sous arachnoïdiens"
+                            ],
+                            "guid": "q;8/x@)QS,",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Consitution des méninges (histologiquement)",
+                                "<ul><li>tissu conjonctif<br></li><li>cellules épithéliales pavimenteuses<br></li></ul>"
+                            ],
+                            "guid": "G.O522/o,&",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Les principales pathologies du SNC sont",
+                                "<ul><li>l’hypoxie/ischémie</li><li>les traumatismes</li><li>les tumeurs</li><li>les maladies neurodégénératives</li><li>les pathologies inflammatoires.<br></li></ul>"
+                            ],
+                            "guid": "rTbt!C^FJN",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Les tumeurs du SNC les plus fréquentes sont les {{c1::méningiomes}}, puis les {{c1::glioblastomes}}.",
+                                ""
+                            ],
+                            "guid": "xF7^AGTy}D",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Les tumeurs sont l’une des {{c1::3}} premières causes de mortalité par cancer chez les patients {{c1::de moins de 30 ans}}",
+                                ""
+                            ],
+                            "guid": "H%50jXt?]L",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Les deux maladies neurodégénératives les plus fréquentes sont {{c1::la maladie d’Alzheimer et de Parkinson}}",
+                                ""
+                            ],
+                            "guid": "ev^>^o*u;J",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Caractérisation des maladies neurodégénératives - Cliniquement et histologiquement",
+                                "<ul><li>Cliniquement :&nbsp;altération des fonctions neurologiques<br></li><li>Histologiquement :&nbsp;accumulation de protéine de conformation anormale conduisant à une perte neuronale et synaptique</li></ul>"
+                            ],
+                            "guid": "oU+7~(h0M6",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Principales causes d’inflammation cérébrale",
+                                "<ul><li>Infections</li><li>Maladies démyélinisantes (comme SEP)<br></li></ul>"
+                            ],
+                            "guid": "B|y^~u+g;Y",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Le cervelet dérive du {{c1::métencéphale}}, issu du {{c1::rhombencéphale}}",
+                                ""
+                            ],
+                            "guid": "HU,X7y3%5_",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "127b2c56173b45b6ad2fa2e502758bbf-ao-1",
+                                "",
+                                "<img src=\"tmpxigh5q1l.png\" />",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-1-A.svg\" />",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-O.svg\" />"
+                            ],
+                            "guid": "mqD1gEZU8o",
+                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "127b2c56173b45b6ad2fa2e502758bbf-ao-2",
+                                "",
+                                "<img src=\"tmpxigh5q1l.png\" />",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-2-A.svg\" />",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-O.svg\" />"
+                            ],
+                            "guid": "L2IiH|Yn_3",
+                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "127b2c56173b45b6ad2fa2e502758bbf-ao-3",
+                                "",
+                                "<img src=\"tmpxigh5q1l.png\" />",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-3-A.svg\" />",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-O.svg\" />"
+                            ],
+                            "guid": "O6rnMP*xWs",
+                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "127b2c56173b45b6ad2fa2e502758bbf-ao-4",
+                                "",
+                                "<img src=\"tmpxigh5q1l.png\" />",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-4-A.svg\" />",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-O.svg\" />"
+                            ],
+                            "guid": "nOlxD,L]W&",
+                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "127b2c56173b45b6ad2fa2e502758bbf-ao-5",
+                                "",
+                                "<img src=\"tmpxigh5q1l.png\" />",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-5-A.svg\" />",
+                                "<img src=\"127b2c56173b45b6ad2fa2e502758bbf-ao-O.svg\" />"
+                            ],
+                            "guid": "EUK1^:/#mg",
+                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rôle du cervelet",
+                                "Coordonner les informations ⇒&nbsp;contrôle fin des mouvements, équilibration et maintien de la posture."
+                            ],
+                            "guid": "OB,RLLu1b+",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Les {{c1::cellules de Purkinje}} sont les seuls neurones de projection du cervelet",
+                                ""
+                            ],
+                            "guid": "Akxb|~:#8-",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Types de neurones du cervelet",
+                                "<ul><li>La cellule de Purkinje<br></li><li>Les interneurones inhibiteurs<br></li><li>Les interneurones activateurs<br></li></ul>"
+                            ],
+                            "guid": "v]xHw4$Zq_",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Caractéristiques de la cellule de Purkinje",
+                                "<ul><li>Inhibiteurs</li><li>Corps cellulaires disposés dans un même plan ⇒ monocouche des cellules de Purkinje<br></li><li>Dendrites se ramifient dans la couche moléculaire dans un plan perpendiculaire au grand axe de la lamelle</li><li>Axone traverse la couche granulaire ⇒ Gagne les noyaux gris</li></ul>"
+                            ],
+                            "guid": "Q%$mmFI_|W",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Neurones inhibiteurs du cervelet et localisation",
+                                "<ul><li>Couche moléculaire externe<br></li><ul><li>Cellules à corbeille (ou cellules étoilées profondes)</li><li>Cellules étoilées externes</li></ul><li>Partie superficielle de la couche des grains</li><ul><li>Cellules de Golgi de type II</li></ul></ul>"
+                            ],
+                            "guid": "k^VJ>U-rx2",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Les interneurones activateurs et localisation (cervelet)",
+                                "<ul><li>grains du cervelet<br></li><li>très abondants, situés dans la couche granulaire interne<br></li><li>Leur axone gagne la couche moléculaire externe où il bifurque en T<br></li></ul>"
+                            ],
+                            "guid": "c/B?Q4ip7q",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Afférences du cervelet",
+                                "<ul><li>afférences moussues<br></li><li>afférences grimpantes<br></li></ul>"
+                            ],
+                            "guid": "HUhr#2E#Yi",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Afférences {{c2::grimpantes}}<br><ul><li>Corps cellulaire situés&nbsp;dans {{c1::l’olive bulbaire controlatérale}}</li><li>Gagnent {{c1::la couche moléculaire}}<br></li><li>Donnent des collatérales qui font synapse avec {{c1::les cellules de Golgi de type II et les cellules de Purkinje.}}<br></li></ul>",
+                                ""
+                            ],
+                            "guid": "ih6!&^joqW",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Afférences {{c2::moussues}}<br><ul><li>Corps cellulaire situés&nbsp;dans {{c1::la moelle épinière, dans le pied de la protubérance et dans les noyaux vestibulaires}}</li><li>Gagnent {{c1::la couche des grains}}</li></ul>",
+                                ""
+                            ],
+                            "guid": "QIJaQjVRFb",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Efférence du cervelet",
+                                "Axone de la cellule de Purkinje ⇒ inhibitrice"
+                            ],
+                            "guid": "y($Ku`LEA)",
+                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "0205b1ae-4254-11ec-92c1-600308aa3fd6",
@@ -22410,7 +23067,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Origine du déclenchement volontaire de la miction",
+                                        "Origine cérébrale du déclenchement volontaire de la miction",
                                         "Centre mictionnel cortical situé à la face interne du lobe frontal"
                                     ],
                                     "guid": "sM&J078(G(",
@@ -23883,60 +24540,6 @@
             ],
             "type": 0,
             "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "73c7429e-4254-11ec-92c1-600308aa3fd6",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "name": "Recto",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Verso",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basique-3439c",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [
-                "Métabolisme"
-            ],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Verso}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Carte 1",
-                    "ord": 0,
-                    "qfmt": "{{Recto}}"
-                }
-            ],
-            "type": 0
         }
     ],
     "notes": [

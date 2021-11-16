@@ -26398,6 +26398,608 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "1e7d92e4-472b-11ec-a7b2-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "d8e2a7cb854e45beaef3abfec6710356-ao-1-A.svg",
+                                "d8e2a7cb854e45beaef3abfec6710356-ao-1-Q.svg",
+                                "d8e2a7cb854e45beaef3abfec6710356-ao-2-A.svg",
+                                "d8e2a7cb854e45beaef3abfec6710356-ao-2-Q.svg",
+                                "d8e2a7cb854e45beaef3abfec6710356-ao-3-A.svg",
+                                "d8e2a7cb854e45beaef3abfec6710356-ao-3-Q.svg",
+                                "d8e2a7cb854e45beaef3abfec6710356-ao-4-A.svg",
+                                "d8e2a7cb854e45beaef3abfec6710356-ao-4-Q.svg",
+                                "d8e2a7cb854e45beaef3abfec6710356-ao-5-A.svg",
+                                "d8e2a7cb854e45beaef3abfec6710356-ao-5-Q.svg",
+                                "d8e2a7cb854e45beaef3abfec6710356-ao-O.svg",
+                                "tmpim8otm2s.png"
+                            ],
+                            "name": "Bilan du Na+",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Acteurs de {{c2::l'homéostasie sodée}}<br><ul><li>Variable régulée :&nbsp; {{c1::Volémie}}</li><li>Sensor :&nbsp; {{c1::Baro et volorécepteurs carotidiens et intra-rénaux}}</li><li>Système hormonal ou neuro-hormonal : {{c1::Système sympathique / SRAA / FAN}}</li><li>Effecteur rénal : {{c1::transporteurs tubulaires rénaux du Na+}}<br></li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "F:>Yz9:W%L",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Un bilan positif de Na (sorties &lt; entrées) s'accompagne d'une {{c1::hyperhydratation extracellulaire}}<br>Un bilan&nbsp;négatif de Na (sorties &gt; entrées) s'accompagne d'une {{c1::déshydratation extracellulaire}}",
+                                        ""
+                                    ],
+                                    "guid": "g}.j-xmR~N",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le bilan du Na contrôle le {{c1::volume extracellulaire (VEC)}}",
+                                        ""
+                                    ],
+                                    "guid": "c]e$#{enYr",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Comment expliquer certains&nbsp;œdèmes (HEC) avec participation rénale par le fonctionnement de l'homéostasie Na+ ?",
+                                        "La variable régulée du Na est uniquement la volémie, alors que le bilan du Na impacte tout le volume extra-cellulaire ⇒ Conséquence ?"
+                                    ],
+                                    "guid": "qODceQw7rs",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "On a une perte d'eau dans une proportion de {{c1::1L}} d'eau pour {{c1::140 mmol}}&nbsp;de Na+",
+                                        ""
+                                    ],
+                                    "guid": "Jl!H/(-HAR",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'apport en sel provient en moyenne pour {{c1::50}}% par {{c1::le sel de cuisine ajouté}}, et pour {{c1::50}}% par {{c1::des aliments riches en sel}}",
+                                        ""
+                                    ],
+                                    "guid": "A$W&w}{Gv0",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Types de régimes (sans sel strict, hyposodé, normosodé, hypersodé)",
+                                        "<ul><li>&lt; 2 g/j (34 mmol)</li><li>2-6 g/j</li><li>6-8 g/j</li><li>&gt; 8g/j</li></ul>"
+                                    ],
+                                    "guid": "PS@{$s%_Nu",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'absorption digestive du Na se fait majoritairement dans {{c1::l'intestin grêle}}, {{c1::couplé au glucose (SGLT1)::comment ?}}",
+                                        ""
+                                    ],
+                                    "guid": "zzqhOYu;OW",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Absorbtion nette de Na par l'intestin grêle",
+                                        "Presque 100%"
+                                    ],
+                                    "guid": "qgCzfa{!%3",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Pertes&nbsp;sudorales de Na",
+                                        "Négligeable"
+                                    ],
+                                    "guid": "n2hse=VoSM",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Absorption du Na par les portions du tubule",
+                                        "<ul><li>66% ⇒ tubule contourné proximal</li><li>25% ⇒ Anse de Henlé</li><li>10% ⇒ tubule contourné distal et canal collecteur</li></ul>"
+                                    ],
+                                    "guid": "Qk&f|{n4.9",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La réabsorption du Na au niveau du tube contourné proximal est {{c1::iso-osmolaire}}, cad que&nbsp;{{c1::la réabsorption se fait dans les <br>proportions de la natrémie (140 mmol pour 1L) et de l'osmolarité normales (290 mosmol pour 1L)}} ou autrement dit&nbsp;{{c1::qu'on ne change pas la concentration mais on a juste une absorption globale d'eau et de sodium}}",
+                                        ""
+                                    ],
+                                    "guid": "B2uG.PeH28",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les mouvements de Na dans le TCP ne sont pas {{c1::régulés}} mais sont {{c1::modulés}}, par {{c1::la balance glomérulotubulaire et par l'angiotensine 2}}",
+                                        ""
+                                    ],
+                                    "guid": "m;6>Iu(Z)y",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Dans la partie proximale du TCP, la réabsorption de Na se fait sous forme de {{c1::HCO3Na}}<br>Dans la partie distale du TCP, la réabsorption de Na se fait sous forme de {{c1::NaCl}}",
+                                        ""
+                                    ],
+                                    "guid": "EO5;-L`2[9",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Transport de Na sur la pôle apical dans la partie proximale du TCP",
+                                        "Cotransports couplés à <br><ul><li>des substances organiques (AA, Glucose)</li><li>des substances minérales (symport NaPI, échangeur NHE)<br></li></ul>⇒ Quel transport ?"
+                                    ],
+                                    "guid": "s{ho)2/Dy)",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Transport de Na sur la pôle basolatéral dans la partie proximale du TCP",
+                                        "<ul><li>Na/K ATPase</li><li>cotransport HCO3Na<br></li></ul>⇒ Quel transport ?"
+                                    ],
+                                    "guid": "vESW_aEuTj",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Transport de Na sur la pôle apical dans la partie distale du TCP",
+                                        "<ul><li>Transport transcellulaire : NHE3 et échangeur Cl/HCO3 (60%)<br></li><li>Transport paracellulaire (apical et basocellulaire) : Gradient chimique pour le Cl et électrique pour le Na (40%)<br></li></ul>⇒ Quel transport ?"
+                                    ],
+                                    "guid": "q&Ue#[<&Eh",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Où et comment se fait la réabsorption de Na dans l'anse de Henlé ?",
+                                        "Dans la Branche Ascendante Large (BAL), sans réabsorption d'eau"
+                                    ],
+                                    "guid": "bdC#gO@r]>",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Transport de Na sur le pôle basocellulaire dans la partie distale du TCP",
+                                        "Transport paracellulaire (apical et basocellulaire) : gradient chimique pour le Cl et électrique pour le Na"
+                                    ],
+                                    "guid": "z7c^WDK{W9",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Transport de Na sur le pôle apical dans le TCD",
+                                        "Cotransport NaCI (NCC)"
+                                    ],
+                                    "guid": "bmfk.2Q$8~",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A quoi est sensible le cotransport NaCI (NCC) du TCD ?",
+                                        "Diurétiques thiazidiques"
+                                    ],
+                                    "guid": "tK~s0><+CR",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Comment se fait la réabsorption du Na par le&nbsp;TCD ?",
+                                        "Sans H2O et par voie transcellulaire"
+                                    ],
+                                    "guid": "Ox]Gs7/c80",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Comment se fait la réabsoption du Na par le canal collecteur ?",
+                                        "Active et indépendante de celle de l'H2O"
+                                    ],
+                                    "guid": "iQN^POFk)N",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Transport de Na du canal collecteur",
+                                        "<ul><li>Pompe Na/K-ATPase en apical crée un gradient<br></li><li>⇒ ENaC en basocellulaire</li></ul>"
+                                    ],
+                                    "guid": "N~>)IQ+lA)",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'absorption de Na au niveau {{c1::du canal collecteur}} est la cible de la régulation hormonale par les systèmes natriurétiques et anti­&nbsp; natriurétiques mis en jeu dans la boucle de régulation asservie",
+                                        ""
+                                    ],
+                                    "guid": "D4bg7Zp*df",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La pompe NaK2CI apicale de l'anse de Henlé est sensible au",
+                                        "Furosemide"
+                                    ],
+                                    "guid": "pIMcKj2d4;",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Absorption de Na dans l'anse de Henlé",
+                                        "<ul><li>Transport&nbsp;transcellulaire</li><ul><li>NaK2CI ⇒ apicale</li><li>Na/K ATPase + Canal Cl- ⇒ basolatéraux</li></ul><li>En plus, différence de potentiel créée par&nbsp;ROMK et NaK2CI ⇒&nbsp;transport paracellulaire</li></ul>"
+                                    ],
+                                    "guid": "k04;g;KTM8",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Modulations de&nbsp;l'excrétion rénale de Na",
+                                        "<ul><li>La balance glomérulotubulaire, phénomène physique directement lié au DFG</li><li>Le rétrocontrôle tubuloglomérulaire</li><li>L'effet cellulaire d'hormones sur le tubule, de façon indépendante de la filtration</li></ul>"
+                                    ],
+                                    "guid": "h#U<dfD<T$",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Objectif de la balance glomérulo-tubulaire",
+                                        "Débit de Na réabsorbé par le TCP = toujours 2/3 du débit de Na Filtré par le glomérule, quelle que soit la valeur du DFG"
+                                    ],
+                                    "guid": "uk=/A6!-G%",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Fonctionnement de la balance glomérulo-tubulaire",
+                                        "Protéines ne passent pas la barrière de filtration glomérulaire ⇒ augmentation de la pression oncotique dans le capillaire péritubulaire, <br>⇒ augmente la réabsorption d'eau et de NaCI dans des proportions identiques"
+                                    ],
+                                    "guid": "rUG*X:Q1TS",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Malgré les effets de la balance glomérulo-tubulaire, une augmentation du DFG conduit à {{c1::augmenter}} la quantité de NaCI en fin de TCP ({{c1::33}}%)",
+                                        ""
+                                    ],
+                                    "guid": "u@jZHhp;/j",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rétrocontrôle tubulo-glomérulaire - Principe",
+                                        "Si DFG diminue : la qqté NaCI filtrée dans le TCD également (malgré&nbsp;la balance glomérulo-tubulaire) ⇒ Détecté par l'appareil juxta-glomérulaire<ul><li>⇒ Diminution des résistances des artérioles afférentes</li><li>⇒&nbsp;augmentation de la synthèse de rénine</li></ul>Au total ⇒ augmentation de la DFG"
+                                    ],
+                                    "guid": "D]lPva-V,w",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Contrôle hormonal de l'excrétion de Na indépendant de la filtration - Principe",
+                                        "Balance entre l'effet de <br><ul><li>substances antinatriurétiques (Système Rénine Angiotensine Aldostérone ou SRAA)</li><li>peptides natriurétiques.</li></ul>"
+                                    ],
+                                    "guid": "iaG@Sbv?|H",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Etapes de sécrétion de l'angiotensine 2",
+                                        "<ul><li>Angiotensinogène hépatique<br>⇒ Action de la Rénine</li><li>Angiotensine 1 <br>⇒ Action de l'Enzyme de Conversion de l'Angiotensine (ECA)</li><li>Angiotensine 2</li></ul>"
+                                    ],
+                                    "guid": "vGCi0#jb!N",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sécrétion de la rénine",
+                                        "Cellules myo-épithéliales granulaires de l'artériole afférente"
+                                    ],
+                                    "guid": "x0?{o%nfC|",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effets&nbsp;antinatriurétiques de l'angiotensine 2",
+                                        "<ul><li>Effet antinatriurétique direct, tubulaire proximal, lié à l'activation de l'échangeur NHE3 (effet minoritaire)<br></li><li>Effet indirect, par activation de la synthèse d'aldostérone via les récepteur de type 2<br></li></ul>"
+                                    ],
+                                    "guid": "C(eA{}Y6])",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effets autres qu'antinatriurétiques de l'angiotensine 2",
+                                        "<ul><li>vasconconstricteur périphérique</li><li>stimulation de&nbsp; la&nbsp; synthèse&nbsp; d'ADH</li></ul>"
+                                    ],
+                                    "guid": "qdBqo6Psh*",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Aldostérone - Type d'hormone, sécrétion",
+                                        "<ul><li>Hormone stéroïde (donc dérivée du cholestérol)<br></li><li>Synthétisée par la zone glomérulée de la corticosurrénale<br></li></ul>"
+                                    ],
+                                    "guid": "MGE<kXDvr}",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'aldostérone est sécrétée sous l'effet de {{c1::l'angiotensine 2}} ou de {{c2::l'hyperkaliémie}}",
+                                        ""
+                                    ],
+                                    "guid": "rX<%!g2?>_",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effet de l'aldostérone sur les transporteurs",
+                                        "Augmente<br><ul><li>le nombre et la conductance des canaux ENac</li><li>le nombre de Na/K ATPase</li><li>le nombre et la conductance des canaux K+ apicaux ROMK&nbsp;</li><li>le nombre de H+ATPase apicale</li></ul>"
+                                    ],
+                                    "guid": "iY[P,Xq~Ke",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effet global de l'aldostérone sur les électrolytes",
+                                        "<ul><li>Augmentation de Na<sup>+</sup></li><li>Baisse de K<sup>+</sup></li><li>Augmentation de HCO3<sup>-</sup></li></ul>"
+                                    ],
+                                    "guid": "Q0Bu&K}:WV",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Principal peptide natriurétique",
+                                        "Facteur Atrial Natriurétique (FAN)"
+                                    ],
+                                    "guid": "D]}OlvY]Bk",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Synthèse du Facteur Atrial Natriurétique (FAN) - Par qui et quand ?",
+                                        "<ul><li>Par les myocytes auriculaire</li><li>Étirement des oreillettes cardiaques en situation d'hypervolémie<br></li></ul>"
+                                    ],
+                                    "guid": "E/b3eqUS-U",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effets pro-natriurétiques du FAN",
+                                        "<ul><li>direct dans le canal collecteur via la fixation à un récepteur membranaire qui entraine l'inhibition d'ENaC&nbsp;</li><li>indirect par inhibition de la synthèse de rénine<br></li></ul>"
+                                    ],
+                                    "guid": "v$/Pu=7.aG",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Mécanismes liant les variations de volémie à la synthèse de rénine",
+                                        "<ul><li>Barorécepteurs périphériques à haute pression<br></li><li>Barorécepteurs intra rénaux<br></li><li>Quantité de NaCI délivré au TCD<br></li><li>Effet des peptides natriurétiques sur la synthèse de&nbsp; rénine<br></li></ul>"
+                                    ],
+                                    "guid": "lDPL:0*rm#",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Barorécepteurs périphériques à haute pression - Localisation",
+                                        "Couche de tissu élastique des artères carotidiennes et de la crosse aortique"
+                                    ],
+                                    "guid": "tCC/BeValL",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Barorécepteurs périphériques à haute pression - Activation et effet",
+                                        "<ul><li>Étirement de la paroi (PA)<br></li><li>Inhibition du système sympathique via des afférences cérébrales par les nerfs IX et X et le noyau du tractus solitaire bulbaire<br></li><li>Diminution de la synthèse de rénine par l'appareil juxtaglomérulaire et diminution les résistances périphériques<br></li></ul>"
+                                    ],
+                                    "guid": "jv^%_bcyTS",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Barorécepteurs intra rénaux - Localisation",
+                                        "Paroi de l'artériole afférente"
+                                    ],
+                                    "guid": "QR!FYH4ooV",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "d8e2a7cb854e45beaef3abfec6710356-ao-1",
+                                        "",
+                                        "<img src=\"tmpim8otm2s.png\" />",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-1-A.svg\" />",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-O.svg\" />"
+                                    ],
+                                    "guid": "g9q9jc4*?7",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "d8e2a7cb854e45beaef3abfec6710356-ao-2",
+                                        "",
+                                        "<img src=\"tmpim8otm2s.png\" />",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-2-A.svg\" />",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-O.svg\" />"
+                                    ],
+                                    "guid": "nM+I|0X1Fo",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "d8e2a7cb854e45beaef3abfec6710356-ao-3",
+                                        "",
+                                        "<img src=\"tmpim8otm2s.png\" />",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-3-A.svg\" />",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-O.svg\" />"
+                                    ],
+                                    "guid": "vhM6`%%q&?",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "d8e2a7cb854e45beaef3abfec6710356-ao-4",
+                                        "",
+                                        "<img src=\"tmpim8otm2s.png\" />",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-4-A.svg\" />",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-O.svg\" />"
+                                    ],
+                                    "guid": "IP[+z{2F2S",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "d8e2a7cb854e45beaef3abfec6710356-ao-5",
+                                        "",
+                                        "<img src=\"tmpim8otm2s.png\" />",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-5-A.svg\" />",
+                                        "<img src=\"d8e2a7cb854e45beaef3abfec6710356-ao-O.svg\" />"
+                                    ],
+                                    "guid": "O[S$9Y`:?9",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "ce1124e8-470b-11ec-b53d-600308aa3fd6",
                             "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
                             "desc": "",
@@ -27576,6 +28178,182 @@
                                     "tags": [
                                         "todo"
                                     ]
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "1e7fd90a-472b-11ec-a7b2-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Introduction à la fonction tubulaire",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'homéostasie du Na est la condition du maintien constant du volume {{c1::extracellulaire}}.",
+                                        ""
+                                    ],
+                                    "guid": "tha6[C|(n6",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'homéostasie du H2O est la condition du maintien constant du volume {{c1::intracellulaire}}.",
+                                        ""
+                                    ],
+                                    "guid": "N#V:]78S%y",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le pôle {{c1::apical}} des cellules épithéliales du tubule est au contact {{c2::du fluide tubulaire (urine primitive)}}",
+                                        ""
+                                    ],
+                                    "guid": "n?oC{Wad6,",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le pôle {{c1::basolatéral}} des cellules épithéliales du tubule est au contact de&nbsp;{{c2::l'interstitium et du réseau capillaire}}",
+                                        ""
+                                    ],
+                                    "guid": "qWv*n0&g`C",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Tube contourné proximal - Position",
+                                        "Position corticale<br>⇒ Quelle portion du&nbsp;tubule ?"
+                                    ],
+                                    "guid": "mnWZepJ^%W",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Tube contourné proximal - Rôles (préciser)",
+                                        "Réabsorption d'eau et d'électrolytes (120L/180L)<br>⇒ Quelle portion du&nbsp;tubule ?"
+                                    ],
+                                    "guid": "xv0bYI_%.m",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Tube contourné proximal - Caractéristiques",
+                                        "<ul><li>Bordure en brosse ⇒ grande surface&nbsp;d'échange apicale<br></li><li>Appareil mitonchondrial très développé<br></li></ul>⇒ Quelle portion du&nbsp;tubule ?"
+                                    ],
+                                    "guid": "j~<B[N**sj",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Anse de Henlé - Position",
+                                        "S'étend en profondeurjusque dans la médullaire interne <br>⇒ Quelle portion du tubule ?"
+                                    ],
+                                    "guid": "MzX?[da&%d",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Anse de Henlé - Rôle",
+                                        "Concentration des urines"
+                                    ],
+                                    "guid": "tgWv4cQoP<",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Anse de Henlé - Morphologie",
+                                        "<ul><li>Branche fine descendante</li><li>Branche large ascendante</li></ul>"
+                                    ],
+                                    "guid": "C.7(>G(>s@",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le tubule contourné distal - Position",
+                                        "En contact avec le glomérule (appareil juxta-glomérulaire) dans sa partie initiale<br>⇒ Quelle portion du tubule ?"
+                                    ],
+                                    "guid": "r/+|&8(r>[",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Canal collecteur - Y s'y passe quoi ?",
+                                        "<ul><li>Échanges faibles</li><li>Ajustement fin des mouvements électrolytiques et hydriques ⇒ Homéostasie<br></li></ul>"
+                                    ],
+                                    "guid": "gGFC07X|>|",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Il n'y a pas de valeur normale d'excrétion urinaire d'eau et d'électrolytes car la fonction tubulaire est normale si {{c1::l'excrétion urinaire est égale aux entrées.}}",
+                                        ""
+                                    ],
+                                    "guid": "b`;VezUM9?",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "2 types d'homéostasie, principe rapide et exemples",
+                                        "<ul><li>Homéostasie par autolimitation : le tubule n'intervient pas&nbsp;⇒ Créatinine, Urée<br></li><li>Homéostasie par boucle de régulation asservie : le tubule est central ⇒ Na+, etc.<br></li></ul>"
+                                    ],
+                                    "guid": "DN&_-Ql4&P",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Etapes de l'homéostasie par boucle de régulation asservie",
+                                        "<ul><li>Variation de la variable plasmatique régulée (modulation des apports digestifs)</li><li>Variation induite perçue par des capteurs ou sensor</li><li>Activation ou inhibition de systèmes hormonaux ou neuro-hormonaux</li><li>Action en retour sur les transports tubulaires rénaux<br>⇒ Normalisation de la variable</li></ul>"
+                                    ],
+                                    "guid": "s&NU6oSaSe",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "ri"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Acteurs de l'homéostasie par boucle de régulation asservie",
+                                        "<ul><li>Variable régulée</li><li>Sensor</li><li>Système hormonal ou neuro-hormonal</li><li>Effecteur rénal</li></ul>"
+                                    ],
+                                    "guid": "CL3aW4{z7#",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
                                 }
                             ]
                         }

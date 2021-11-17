@@ -12021,6 +12021,1765 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "da3327be-47d1-11ec-96f5-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "0205b1cac6c64c68ad0cfc75a095c6f7-ao-1-A.svg",
+                                "0205b1cac6c64c68ad0cfc75a095c6f7-ao-1-Q.svg",
+                                "0205b1cac6c64c68ad0cfc75a095c6f7-ao-O.svg",
+                                "71538a7832194092a25c270c136b12a6-ao-1-A.svg",
+                                "71538a7832194092a25c270c136b12a6-ao-1-Q.svg",
+                                "71538a7832194092a25c270c136b12a6-ao-O.svg",
+                                "90c326665a1c42ed91003a62428aa50d-ao-1-A.svg",
+                                "90c326665a1c42ed91003a62428aa50d-ao-1-Q.svg",
+                                "90c326665a1c42ed91003a62428aa50d-ao-O.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-1-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-1-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-2-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-2-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-3-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-3-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-4-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-4-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-5-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-5-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-6-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-6-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-7-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-7-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-ao-O.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-1-A.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-1-Q.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-2-A.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-2-Q.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-3-A.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-3-Q.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-4-A.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-4-Q.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-5-A.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-5-Q.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-6-A.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-6-Q.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-7-A.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-7-Q.svg",
+                                "bea3544fd04c4421a33d27b48d7ff631-oa-O.svg",
+                                "c6a85e6d0f4342359c87217faa72a763-ao-1-A.svg",
+                                "c6a85e6d0f4342359c87217faa72a763-ao-1-Q.svg",
+                                "c6a85e6d0f4342359c87217faa72a763-ao-2-A.svg",
+                                "c6a85e6d0f4342359c87217faa72a763-ao-2-Q.svg",
+                                "c6a85e6d0f4342359c87217faa72a763-ao-3-A.svg",
+                                "c6a85e6d0f4342359c87217faa72a763-ao-3-Q.svg",
+                                "c6a85e6d0f4342359c87217faa72a763-ao-O.svg",
+                                "f495c2b56be5440b89d298540344864a-ao-1-A.svg",
+                                "f495c2b56be5440b89d298540344864a-ao-1-Q.svg",
+                                "f495c2b56be5440b89d298540344864a-ao-O.svg",
+                                "paste-4a84f7b5649086df601771f69031a2fde81fa793.png",
+                                "paste-52eb2a16e1f124a8bdd1851785b2d32789c51ca4.png",
+                                "paste-6eab44773e4d4d43e18aa47a0638110f13840f88.png",
+                                "paste-c8c2f4ea2c9de8d813a0d67f3ba8751f45c13d39.png",
+                                "tmp2uaz9z_d.png",
+                                "tmp4njz1ek9.png",
+                                "tmp_7fa_s97.png",
+                                "tmpcrwrl9yb.png",
+                                "tmpd0djz90q.png",
+                                "tmphwj6s2df.png",
+                                "tmpxv5hye6d.png"
+                            ],
+                            "name": "Malaises et Syncopes",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Syncope",
+                                        "<div>Perte de connaissance (PC) brève due à une hypo perfusion cérébrale, caractérisée par un début rapide, une durée brève, et une récupération spontanée complète.</div>"
+                                    ],
+                                    "guid": "NR@~A62SJ!",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Lipothymie</div>",
+                                        "Sensation de malaise par hypo perfusion cérébrale sans PC ou précédent une syncope."
+                                    ],
+                                    "guid": "mnEecC9;n~",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Malaise",
+                                        "Pade définition précise<br><ul><li><div>&nbsp;Sensation pénible, mal localisée, d'un trouble physiologique&nbsp;</div></li><li><div>Brusque défaillance des forces physiques pouvant aller jusqu'à l'évanouissement</div></li><li><div>État, sentiment de trouble, de gêne, d'inquiétude, de tension&nbsp;</div></li></ul>"
+                                    ],
+                                    "guid": "p~<q(a]d?2",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le temps de réserve d’ischémie cérébrale est d’environ {{c1::7}} secondes.",
+                                        ""
+                                    ],
+                                    "guid": "k=#iqL0A4a",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>En cas de diminution du débit sanguin cérébral, la perte de connaissance survient dans un délai de {{c1::4-8}}s en orthostatisme et de {{c1::12-15}} en décubitus.</div>",
+                                        ""
+                                    ],
+                                    "guid": "k?-i63Kf}d",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Un arrêt du débit sanguin cérébral de {{c1::6-8}} secondes peut entrainer une PC complète.",
+                                        ""
+                                    ],
+                                    "guid": "x7o7HmO0Ww",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Une PAS de {{c1::50-60}} mmHg au niveau cardiaque ({{c1::30-45}} mmHg au niveau cérébral) entraine une PC en position debout.</div>",
+                                        ""
+                                    ],
+                                    "guid": "Q#B)(b7FbV",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bea3544fd04c4421a33d27b48d7ff631-oa-1",
+                                        "",
+                                        "<img src=\"tmphwj6s2df.png\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-1-A.svg\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
+                                    ],
+                                    "guid": "KR.uGJoJ5U",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bea3544fd04c4421a33d27b48d7ff631-oa-2",
+                                        "",
+                                        "<img src=\"tmphwj6s2df.png\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-2-A.svg\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
+                                    ],
+                                    "guid": "u_:nPfLYuT",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bea3544fd04c4421a33d27b48d7ff631-oa-3",
+                                        "",
+                                        "<img src=\"tmphwj6s2df.png\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-3-A.svg\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
+                                    ],
+                                    "guid": "irG),Nc7N$",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bea3544fd04c4421a33d27b48d7ff631-oa-4",
+                                        "",
+                                        "<img src=\"tmphwj6s2df.png\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-4-A.svg\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
+                                    ],
+                                    "guid": "e9}4nM[4+7",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bea3544fd04c4421a33d27b48d7ff631-oa-5",
+                                        "",
+                                        "<img src=\"tmphwj6s2df.png\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-5-A.svg\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
+                                    ],
+                                    "guid": "EGy6RZgMwz",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bea3544fd04c4421a33d27b48d7ff631-oa-6",
+                                        "",
+                                        "<img src=\"tmphwj6s2df.png\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-6-A.svg\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
+                                    ],
+                                    "guid": "f<eWWCYzOP",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bea3544fd04c4421a33d27b48d7ff631-oa-7",
+                                        "",
+                                        "<img src=\"tmphwj6s2df.png\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-7-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-7-A.svg\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
+                                    ],
+                                    "guid": "m^g[?Qb+{m",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Incidence des syncopes",
+                                        "18 - 40 pour 1000 sujets chaque année"
+                                    ],
+                                    "guid": "Gy.aj^Y{7b",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les syncopes représentent près de {{c1::1}}% des motifs de consulation par an",
+                                        ""
+                                    ],
+                                    "guid": "MRBDSw$0{1",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>La probabilité d’avoir au moins 1 syncope est proche de {{c1::50}}% sur une vie de 80 ans</div>",
+                                        ""
+                                    ],
+                                    "guid": "CI<1Hf38qi",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Diagnostic des syncopes (étapes et résultat)",
+                                        "Uniquement à l'interrogatoire<br><ul><li>S’assurer de la survenue d’une perte de connaissance<br></li><li><div>PC brève avec récupération rapide d’une conscience normale</div></li><li>Cause non traumatique</li><li>Résultat ⇒ syncope épilepsie, psychogènes, ou causes rares</li></ul>"
+                                    ],
+                                    "guid": "ra!nHj??Bx",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b8577de318b24582a87cc4b298ff1d6a-ao-1",
+                                        "",
+                                        "<img src=\"tmp2uaz9z_d.png\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-1-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "r|!M9h7tqc",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b8577de318b24582a87cc4b298ff1d6a-ao-2",
+                                        "",
+                                        "<img src=\"tmp2uaz9z_d.png\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-2-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "l(x(j2grQ1",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b8577de318b24582a87cc4b298ff1d6a-ao-3",
+                                        "",
+                                        "<img src=\"tmp2uaz9z_d.png\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-3-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "JXh3kPUc+Z",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b8577de318b24582a87cc4b298ff1d6a-ao-4",
+                                        "",
+                                        "<img src=\"tmp2uaz9z_d.png\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-4-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "dN1I2,`4R<",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b8577de318b24582a87cc4b298ff1d6a-ao-5",
+                                        "",
+                                        "<img src=\"tmp2uaz9z_d.png\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-5-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "MGCKOXL?7n",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b8577de318b24582a87cc4b298ff1d6a-ao-6",
+                                        "",
+                                        "<img src=\"tmp2uaz9z_d.png\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-6-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "eI~:eAS8g%",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "b8577de318b24582a87cc4b298ff1d6a-ao-7",
+                                        "",
+                                        "<img src=\"tmp2uaz9z_d.png\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-7-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-7-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "sGLp&`2X/m",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Groupes physiopathologique de cause de syncope et&nbsp;lipothymie",
+                                        "<ul><li><div>Réflexes</div></li><li><div>Par hypotension orthostatiques</div></li><li><div>Cardiaques.&nbsp;</div></li></ul>"
+                                    ],
+                                    "guid": "h=>@0%]evk",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Types de syncopes réflexes",
+                                        "<ul><li>Vaso-vagales</li><li>Situationnelles (toux, miction, douleur viscérale…)</li><li>Hypersensibilité du sinus carotidien<br></li></ul>⇒ Quel type de syncopes ?"
+                                    ],
+                                    "guid": "LP`gkhBpJs",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Types de syncopes par hypotension orthostatique",
+                                        "<ul><li>Iatrogène</li><li>Hypovolémie</li><li>Dysautonomie secondaire diabète, amylose, insuffisance rénale, ...</li><li>Dysautonomie primaire<br></li></ul>⇒ Quel type de syncopes ?"
+                                    ],
+                                    "guid": "g;hGVaj5;D",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Types de syncopes cardiaques",
+                                        "<ul><li>Arythmiques</li><ul><li>Bradycardies : BSA, BAV, dysfct PM</li><li>Tachycardies : supraV, ventriculaires</li></ul><li>Structurelles</li><ul><li>Syndrome coronaire aigu</li><li>Cardiopathies (hypertrophiques, dilatées, restrictives, RAC)</li><li>Myxome / tumeurs</li><li>Tamponnade / embolie pulmonaire / dissection aortique / hypertension pulmonaire / dysfonction valve mécanique</li></ul></ul>⇒ Quel type de syncopes ?"
+                                    ],
+                                    "guid": "i;c!o]1qM`",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Physiopathologie des syncopes réflexes",
+                                        "Stimulations entraînent une réponse vagale inhibitrice ⇒<br><ul><li>Bradycardie (réponse cardio-inhibitrice)<br></li><li>Diminution des résistances artérielles systémiques (réponse vasoplégique)<br></li><li>Ou les 2</li></ul>"
+                                    ],
+                                    "guid": "K&|vA5TrSr",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effet du&nbsp;massage sinocarotidien",
+                                        "<ul><li>Pause sinusale</li><li>Chute pression artérielle<br></li></ul>"
+                                    ],
+                                    "guid": "N4Cbd2/_du",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Si l'atropine empêche la chute tensionnelle et la syncope lors d'un&nbsp;massage sinocarotidien, alors on a une forme&nbsp;{{c1::vasoplégique}} prédominante",
+                                        ""
+                                    ],
+                                    "guid": "pYMwp?0)e|",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Si l'atropine n'empêche pas la chute tensionnelle et la syncope lors d'un&nbsp;massage sinocarotidien, alors on a une forme&nbsp;{{c1::cardio-inhibitrice}} prédominante",
+                                        ""
+                                    ],
+                                    "guid": "yi&EwU/rxc",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0205b1cac6c64c68ad0cfc75a095c6f7-ao-1",
+                                        "",
+                                        "<img src=\"tmp4njz1ek9.png\" />",
+                                        "<img src=\"0205b1cac6c64c68ad0cfc75a095c6f7-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0205b1cac6c64c68ad0cfc75a095c6f7-ao-1-A.svg\" />",
+                                        "<img src=\"0205b1cac6c64c68ad0cfc75a095c6f7-ao-O.svg\" />"
+                                    ],
+                                    "guid": "xr<{oj$EUJ",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "90c326665a1c42ed91003a62428aa50d-ao-1",
+                                        "",
+                                        "<img src=\"tmp_7fa_s97.png\" />",
+                                        "<img src=\"90c326665a1c42ed91003a62428aa50d-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"90c326665a1c42ed91003a62428aa50d-ao-1-A.svg\" />",
+                                        "<img src=\"90c326665a1c42ed91003a62428aa50d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "x#KU]S$@=l",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Réflexe de Bezold-Jarisch",
+                                        "Survenue d'une&nbsp;bradycardie&nbsp;et d'une&nbsp;hypotension&nbsp;par une voie impliquant des récepteurs cardiaques, les&nbsp;centres médullaires&nbsp;et les nerfs afférents vagals"
+                                    ],
+                                    "guid": "!jwT[J<Xa",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hypotension orthostatique (HO) ⇒ Caractérisé par ?",
+                                        "Pression artérielle&nbsp;<br><ul><li>systolique diminue ≥20 mmHg<br></li><li>diastolique diminue ≥10 mmHg<br></li><li>systolique atteint &lt;90 mmHg<br></li></ul>"
+                                    ],
+                                    "guid": "FI8/+Q,[[b",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "HO immédiate",
+                                        "Lipothymie ou syncope &lt;3 minutes après le lever"
+                                    ],
+                                    "guid": "e?DYf`ODeK",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "HO retardée",
+                                        "Lipothymie ou syncope &gt;3 minutes après le lever"
+                                    ],
+                                    "guid": "bnR1{Z.?Zv",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "71538a7832194092a25c270c136b12a6-ao-1",
+                                        "",
+                                        "<img src=\"tmpcrwrl9yb.png\" />",
+                                        "<img src=\"71538a7832194092a25c270c136b12a6-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"71538a7832194092a25c270c136b12a6-ao-1-A.svg\" />",
+                                        "<img src=\"71538a7832194092a25c270c136b12a6-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Q@F&>HVr5o",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "f495c2b56be5440b89d298540344864a-ao-1",
+                                        "",
+                                        "<img src=\"tmpxv5hye6d.png\" />",
+                                        "<img src=\"f495c2b56be5440b89d298540344864a-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"f495c2b56be5440b89d298540344864a-ao-1-A.svg\" />",
+                                        "<img src=\"f495c2b56be5440b89d298540344864a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "wwX{FCFp}_",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'hypotension orthostatique est favorisée par",
+                                        "<ul><li>Médicaments hypotenseurs (HO iatrogène)<br></li><li>Hypovolémie et dysautonomies (primaires ou secondaires (diabète, amylose, insuffisance rénale…))<br></li></ul>"
+                                    ],
+                                    "guid": "ofzT.;R&i+",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>La syncope ou la lipothymie est de cause cardiaque lorsque {{c1::l’hypoperfusion cérébrale est la conséquence d’une diminution intrinsèque (c’est-à-dire qui n’est pas liée à une stimulation vagale ou à une diminution de la volémie) du débit cardiaque.}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "vRn^q!ZYUM",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Types de causes cardiaques de syncopes ou lipothymies</div>",
+                                        "<ul><li>Rythmiques</li><li>Structurelles</li></ul>"
+                                    ],
+                                    "guid": "LLdST]{`9e",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Causes rythmiques de syncope",
+                                        "<ul><li>Pause sinusale</li><li>Bloc atrio-ventriculaire complet</li><li>TV (Tachycardie ventriculaire) polymorphe ou FV (Fibrilation Ventriculaire)</li><li>Torsades de Pointes<br></li></ul>"
+                                    ],
+                                    "guid": "P:~8,H|9%e",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-6eab44773e4d4d43e18aa47a0638110f13840f88.png\">",
+                                        "Torsades de Pointes"
+                                    ],
+                                    "guid": "h/4v3;S>LS",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-52eb2a16e1f124a8bdd1851785b2d32789c51ca4.png\">",
+                                        "TV polymorphe ou FV"
+                                    ],
+                                    "guid": "kZ%kell`1C",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-4a84f7b5649086df601771f69031a2fde81fa793.png\">",
+                                        "&nbsp;Bloc atrio-ventriculaire complet"
+                                    ],
+                                    "guid": "Mga~_VNg;8",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-c8c2f4ea2c9de8d813a0d67f3ba8751f45c13d39.png\">",
+                                        "Pause sinusale"
+                                    ],
+                                    "guid": "i5%%wY)+TU",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Causes structurelles de&nbsp;diminution brutale du débit cardiaque",
+                                        "<ul><li><div>d’une diminution de l’inotropisme (syndrome coronaire aigu, cardiomyopathie dilatée ou restrictive)&nbsp;</div></li><li>obstacle à l’éjection (rétrécissement aortique, cardiomyopathie hypertrophique obstructive, embolie pulmonaire, hypertension pulmonaire, dysfonction valve mécanique, myxome ou autre tumeur intracardiaque)<br></li><li><div>compression des cavités cardiaques (tamponnade, dissection aortique)</div></li></ul>"
+                                    ],
+                                    "guid": "s-B:M_zP3:",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Dans les syncopes {{c1::reflexes ou par hypotension orthostatique}}, la perte de connaissance en fait disparaitre la cause immédiate.</div>",
+                                        ""
+                                    ],
+                                    "guid": "DMrhX]njh,",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les causes cardiaques de syncope sont&nbsp;",
+                                        "Des causes de mort subite !"
+                                    ],
+                                    "guid": "D#5+Q>,dv,",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "c6a85e6d0f4342359c87217faa72a763-ao-1",
+                                        "",
+                                        "<img src=\"tmpd0djz90q.png\" />",
+                                        "<img src=\"c6a85e6d0f4342359c87217faa72a763-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"c6a85e6d0f4342359c87217faa72a763-ao-1-A.svg\" />",
+                                        "<img src=\"c6a85e6d0f4342359c87217faa72a763-ao-O.svg\" />"
+                                    ],
+                                    "guid": "L0)Alp5,/4",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "c6a85e6d0f4342359c87217faa72a763-ao-2",
+                                        "",
+                                        "<img src=\"tmpd0djz90q.png\" />",
+                                        "<img src=\"c6a85e6d0f4342359c87217faa72a763-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"c6a85e6d0f4342359c87217faa72a763-ao-2-A.svg\" />",
+                                        "<img src=\"c6a85e6d0f4342359c87217faa72a763-ao-O.svg\" />"
+                                    ],
+                                    "guid": "EZ,8ESi@=J",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "c6a85e6d0f4342359c87217faa72a763-ao-3",
+                                        "",
+                                        "<img src=\"tmpd0djz90q.png\" />",
+                                        "<img src=\"c6a85e6d0f4342359c87217faa72a763-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"c6a85e6d0f4342359c87217faa72a763-ao-3-A.svg\" />",
+                                        "<img src=\"c6a85e6d0f4342359c87217faa72a763-ao-O.svg\" />"
+                                    ],
+                                    "guid": "M@r<q+Yqng",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Evaluation initiale des syncopes et lipothymies</div>",
+                                        "<ul><li>Interrogatoire rigoureux<br></li><li>Examen clinique<br></li><li>Prise de pression artérielle couché puis debout<br></li><li>Massage sinocarotidien<br></li><li>ECG</li></ul>"
+                                    ],
+                                    "guid": "D@9l)`S~,$",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Avant de faire un&nbsp;massage sinocarotidien...",
+                                        "Éliminer la présence d'un athérome carotidien sténosant"
+                                    ],
+                                    "guid": "kV.X7#b+HI",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::50}}% des diagnostics de&nbsp;syncope se font lors de l'évaluation initiale",
+                                        ""
+                                    ],
+                                    "guid": "k=lrI2.z@#",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Signes de gravité d'une syncope",
+                                        "<ul><li>À l'interrogatoire</li><ul><li><div>+++ Douleur thoracique, dyspnée, douleur abdominale, céphalée</div></li><li>+++ Syncope précédée de palpitation<br></li><li>+++ Syncope à l’effort ou en position allongée<br></li><li><div>+ Antécédent familial de mort subite</div></li><li><div>+ Syncope en position assise</div></li><li><div>+ A l’emporte pièce</div></li></ul><li><div>Antécédents personnels</div></li><ul><li>+++ Cardiopathie<br></li></ul><li><div>Examen clinique</div></li><ul><li><div>+++ PAS&lt;90 mmHg, Hémorragie, Souffle systolique, Bradycardie &lt;40/mn</div></li></ul><li>ECG</li><ul><li><div>+++ Toute anomalie ECG</div></li></ul></ul>"
+                                    ],
+                                    "guid": "eQl]dA]YCx",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La présence {{c1::d’un seul::de combien de ?}} signe.s de gravité justifie l’hospitalisation du patient et sa surveillance cardiaque continue",
+                                        ""
+                                    ],
+                                    "guid": "yvr^<7tzY[",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Examens complémentaires en absence de cause évidente",
+                                        "<ul><li>examens non invasifs (épreuve d’effort, enregistrement ECG de longue durée, test d’inclinaison, IRM, scintigraphie de phase, TEP…)<br></li><li>examens invasifs (exploration électrophysiologique endocavitaire avec mesure des temps de conduction et protocoles de déclenchement d’arythmies supraventriculaires ou ventriculaires)<br></li><li>&nbsp;moniteur cardiaque implantable<br></li></ul>"
+                                    ],
+                                    "guid": "B$]q_3hv)(",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Indication.s de l'épreuve d'effort et recherche de ?",
+                                        "<ul><li>Syncope d'effort</li><li>Recherche</li><ul><li>Blocs auriculo-ventriculaires (BAV)</li><li>Ischémie coronaire</li></ul></ul>⇒ Quel examen complémentaire ?"
+                                    ],
+                                    "guid": "tJ^=IAn$=L",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Indication.s du Tilt Test ?",
+                                        "Syncopes réflexes ou HypoTA retardée<br>⇒ Quel examen complémentaire ?"
+                                    ],
+                                    "guid": "JCo#304r|n",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Indication.s de l'exploration électrophysiologique",
+                                        "<ul><li>Suspicion de BAV+++ ou BSA<br></li><li>Recherche de TV/FV si antécédent d'infarctus</li></ul>"
+                                    ],
+                                    "guid": "i3:U8U2TC#",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "da344f40-47d1-11ec-96f5-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "0b7476ea94f44ef7a0fa3202032bc6cc-ao-1-A.svg",
+                                "0b7476ea94f44ef7a0fa3202032bc6cc-ao-1-Q.svg",
+                                "0b7476ea94f44ef7a0fa3202032bc6cc-ao-O.svg",
+                                "38fb9934ff524281959565fe6df52726-ao-1-A.svg",
+                                "38fb9934ff524281959565fe6df52726-ao-1-Q.svg",
+                                "38fb9934ff524281959565fe6df52726-ao-O.svg",
+                                "4bafb016a82a44d5919ac2713dd02c59-ao-1-A.svg",
+                                "4bafb016a82a44d5919ac2713dd02c59-ao-1-Q.svg",
+                                "4bafb016a82a44d5919ac2713dd02c59-ao-O.svg",
+                                "62b835f0a431422ba25f3067e8819c09-ao-1-A.svg",
+                                "62b835f0a431422ba25f3067e8819c09-ao-1-Q.svg",
+                                "62b835f0a431422ba25f3067e8819c09-ao-O.svg",
+                                "6a47cff6c80c4d1fb53ac777e701b42b-ao-1-A.svg",
+                                "6a47cff6c80c4d1fb53ac777e701b42b-ao-1-Q.svg",
+                                "6a47cff6c80c4d1fb53ac777e701b42b-ao-O.svg",
+                                "6ecb2b77794642619d8885981fca38b3-ao-1-A.svg",
+                                "6ecb2b77794642619d8885981fca38b3-ao-1-Q.svg",
+                                "6ecb2b77794642619d8885981fca38b3-ao-2-A.svg",
+                                "6ecb2b77794642619d8885981fca38b3-ao-2-Q.svg",
+                                "6ecb2b77794642619d8885981fca38b3-ao-3-A.svg",
+                                "6ecb2b77794642619d8885981fca38b3-ao-3-Q.svg",
+                                "6ecb2b77794642619d8885981fca38b3-ao-4-A.svg",
+                                "6ecb2b77794642619d8885981fca38b3-ao-4-Q.svg",
+                                "6ecb2b77794642619d8885981fca38b3-ao-5-A.svg",
+                                "6ecb2b77794642619d8885981fca38b3-ao-5-Q.svg",
+                                "6ecb2b77794642619d8885981fca38b3-ao-O.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-ao-1-A.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-ao-1-Q.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-ao-2-A.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-ao-2-Q.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-ao-3-A.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-ao-3-Q.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-ao-O.svg",
+                                "ca8cdf00902e4a7c85869018636b867b-ao-1-A.svg",
+                                "ca8cdf00902e4a7c85869018636b867b-ao-1-Q.svg",
+                                "ca8cdf00902e4a7c85869018636b867b-ao-O.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-ao-1-A.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-ao-1-Q.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-ao-2-A.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-ao-2-Q.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-ao-3-A.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-ao-3-Q.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-ao-4-A.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-ao-4-Q.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-ao-5-A.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-ao-5-Q.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-ao-O.svg",
+                                "eb242f39c2d040dbb50555e003553276-ao-1-A.svg",
+                                "eb242f39c2d040dbb50555e003553276-ao-1-Q.svg",
+                                "eb242f39c2d040dbb50555e003553276-ao-O.svg",
+                                "tmp0j0wqai5.png",
+                                "tmp36glu_ia.png",
+                                "tmp4_gm6qlb.png",
+                                "tmp9g0_pour.png",
+                                "tmphvqrx8p6.png",
+                                "tmpj20geojb.png",
+                                "tmpjha5x8cv.png",
+                                "tmpk4g9o_k7.png",
+                                "tmplg3aqlgh.png",
+                                "tmpyj2mea2z.png"
+                            ],
+                            "name": "Palpitations",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Palpitations</div>",
+                                        "Perceptions anormales des battements cardiaques qui, physiologiquement, ne sont pas perçus."
+                                    ],
+                                    "guid": "uKUI?hJ^o7",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Premiers types de palpitations (à l'interrogatoire)",
+                                        "<ul><li>Hyperkinétiques (à battement plus fort) ou arythmiques (battements surajoutés ou trop rapides)</li><li>Tachycardie (fréquence des battements ressentis rapide)<br></li><li>Durée (qq secondes à plusieurs jours)</li></ul>"
+                                    ],
+                                    "guid": "gg%rtkmP#r",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Types de palpitations",
+                                        "<ul><li><div>Palpitations des extrasystoles</div></li><li><div>Palpitations de la tachycardie sinusale</div></li><li><div>Palpitations des TV&nbsp;</div></li><li><div>Palpitations du flutter ou de la TA</div></li><li><div>Palpitations de la FA</div></li><li><div>Palpitations de Bouveret</div></li><li>Palpitations sans arythmie<br></li></ul>"
+                                    ],
+                                    "guid": "n,&WR@{5-y",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Palpitations des extrasystoles - Touche qui ? Facteurs ?</div>",
+                                        "<ul><li>Très fréquent, même chez le sujet jeune</li><li>Facteurs : stress, fatigue ou repos</li></ul>"
+                                    ],
+                                    "guid": "c{+eK3N~3r",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Palpitations des extrasystoles - Origine</div>",
+                                        "<ul><li>atriale</li><li>jonctionnelle</li><li>ventriculaire</li></ul>"
+                                    ],
+                                    "guid": "KE>Sl}#Ge=",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ca8cdf00902e4a7c85869018636b867b-ao-1",
+                                        "",
+                                        "<img src=\"tmp0j0wqai5.png\" />",
+                                        "<img src=\"ca8cdf00902e4a7c85869018636b867b-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"ca8cdf00902e4a7c85869018636b867b-ao-1-A.svg\" />",
+                                        "<img src=\"ca8cdf00902e4a7c85869018636b867b-ao-O.svg\" />"
+                                    ],
+                                    "guid": "y+F8IC?DA,",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "eb242f39c2d040dbb50555e003553276-ao-1",
+                                        "",
+                                        "<img src=\"tmpj20geojb.png\" />",
+                                        "<img src=\"eb242f39c2d040dbb50555e003553276-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"eb242f39c2d040dbb50555e003553276-ao-1-A.svg\" />",
+                                        "<img src=\"eb242f39c2d040dbb50555e003553276-ao-O.svg\" />"
+                                    ],
+                                    "guid": "G^Y]lW.qlK",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Perception des palpitations des extrasystoles",
+                                        "<ul><li>battement surajouté</li><li>manque de battement</li><li>battement plus fort (en coup de canon)<br></li></ul>"
+                                    ],
+                                    "guid": "v=StCoD~q:",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "6ecb2b77794642619d8885981fca38b3-ao-1",
+                                        "",
+                                        "<img src=\"tmp9g0_pour.png\" />",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-1-A.svg\" />",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Qiugs{y/bT",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "6ecb2b77794642619d8885981fca38b3-ao-2",
+                                        "",
+                                        "<img src=\"tmp9g0_pour.png\" />",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-2-A.svg\" />",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Nhoqs&29]N",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "6ecb2b77794642619d8885981fca38b3-ao-3",
+                                        "",
+                                        "<img src=\"tmp9g0_pour.png\" />",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-3-A.svg\" />",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-O.svg\" />"
+                                    ],
+                                    "guid": "fVtIrxJxIw",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "6ecb2b77794642619d8885981fca38b3-ao-4",
+                                        "",
+                                        "<img src=\"tmp9g0_pour.png\" />",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-4-A.svg\" />",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-O.svg\" />"
+                                    ],
+                                    "guid": "u{4oo$+bvo",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "6ecb2b77794642619d8885981fca38b3-ao-5",
+                                        "",
+                                        "<img src=\"tmp9g0_pour.png\" />",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-5-A.svg\" />",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-O.svg\" />"
+                                    ],
+                                    "guid": "l2P3FT(wx9",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Signes d'accompagnement des palpitations des extrasystoles",
+                                        "Le plus souvent rien"
+                                    ],
+                                    "guid": "lp*[@h@U3D",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations de Bouveret",
+                                        "Palpitations à type de tachycardie régulière à début et fin brusque"
+                                    ],
+                                    "guid": "gA]QqU>?:L",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "62b835f0a431422ba25f3067e8819c09-ao-1",
+                                        "",
+                                        "<img src=\"tmp4_gm6qlb.png\" />",
+                                        "<img src=\"62b835f0a431422ba25f3067e8819c09-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"62b835f0a431422ba25f3067e8819c09-ao-1-A.svg\" />",
+                                        "<img src=\"62b835f0a431422ba25f3067e8819c09-ao-O.svg\" />"
+                                    ],
+                                    "guid": "p@3!z&Xu$U",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Méthodes d'arrêt des palpitation de Bouveret</div>",
+                                        "Manœuvres vagales (massage sinocarotidien, compression des globes oculaires, Valsalva…)"
+                                    ],
+                                    "guid": "BE.@{OR!AT",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les palpitation de Bouveret sont souvent suivies {{c1::d'une polyurie postcritique::de ?}}",
+                                        ""
+                                    ],
+                                    "guid": "Ll2$Mact]v",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Signes possiblement associés à des palpitations de Bouveret",
+                                        "<ul><li>Lipothymie et asthénie</li><li>Rarement syncope, angor ou dyspnée.&nbsp;</li></ul>"
+                                    ],
+                                    "guid": "i1=HJ7Ikl5",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations de Bouveret - Origines",
+                                        "Rythme réciproque, soit par réentrée atrio-nodo-ventriculaire, soit empruntant une voie accessoire"
+                                    ],
+                                    "guid": "Indq#j&O^q",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Palpitations de la Fibrillation Atriale (FA) - Facteurs favorisant</div>",
+                                        "<div><ul><li>Stimulation adrénergique</li><li>Stimulation vagale</li><li>Alcool</li></ul></div>"
+                                    ],
+                                    "guid": "N:U*7_{hjP",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations de la Fibrillation Atriale (FA) - À l'ECG",
+                                        "Le plus souvent une tachycardie irrégulière"
+                                    ],
+                                    "guid": "p9)sSOkDJ@",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations de la Fibrillation Atriale (FA) - Terrain",
+                                        "Sur une cardiopathie ou sur cœur sain"
+                                    ],
+                                    "guid": "lkppB]HH;=",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations de la Fibrillation Atriale (FA) - Ressenti",
+                                        "<ul><li>Pas toujours</li><li>Tachycardie irrégulière, de démarrage assez brusque, de durée souvent prolongée et d’arrêt parfois non ressenti</li></ul>"
+                                    ],
+                                    "guid": "G*ZkV`7:4C",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations de la Fibrillation Atriale (FA) - Signes possiblement associés",
+                                        "<ul><li>lipothymie, plus rarement une syncope<br></li><li><div>Dyspnée et angor associés possibles surtout en cas de cardiopathie sous-jacente</div></li></ul>"
+                                    ],
+                                    "guid": "kD5I&{3@ug",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "6a47cff6c80c4d1fb53ac777e701b42b-ao-1",
+                                        "",
+                                        "<img src=\"tmplg3aqlgh.png\" />",
+                                        "<img src=\"6a47cff6c80c4d1fb53ac777e701b42b-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"6a47cff6c80c4d1fb53ac777e701b42b-ao-1-A.svg\" />",
+                                        "<img src=\"6a47cff6c80c4d1fb53ac777e701b42b-ao-O.svg\" />"
+                                    ],
+                                    "guid": "zh_V3:E_B]",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations du flutter atrial ou de la Tachycardie Atriale (TA) - à l'ECG",
+                                        "Tachycardies le plus souvent régulières, prolongées"
+                                    ],
+                                    "guid": "jr#k/Zv:pB",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations du flutter atrial ou de la Tachycardie Atriale (TA) - Terrain",
+                                        "Sur une cardiopathie (rarement sur cœur sain)"
+                                    ],
+                                    "guid": "tP@L)0-@Sq",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "38fb9934ff524281959565fe6df52726-ao-1",
+                                        "",
+                                        "<img src=\"tmphvqrx8p6.png\" />",
+                                        "<img src=\"38fb9934ff524281959565fe6df52726-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"38fb9934ff524281959565fe6df52726-ao-1-A.svg\" />",
+                                        "<img src=\"38fb9934ff524281959565fe6df52726-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Nj|%rJAWlz",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "4bafb016a82a44d5919ac2713dd02c59-ao-1",
+                                        "",
+                                        "<img src=\"tmp36glu_ia.png\" />",
+                                        "<img src=\"4bafb016a82a44d5919ac2713dd02c59-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"4bafb016a82a44d5919ac2713dd02c59-ao-1-A.svg\" />",
+                                        "<img src=\"4bafb016a82a44d5919ac2713dd02c59-ao-O.svg\" />"
+                                    ],
+                                    "guid": "vng)(kkR?w",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations du flutter atrial ou de la Tachycardie Atriale (TA) - Signes potentiellement associés",
+                                        "<ul><li>Asthénie, une dyspnée ou un angor<br></li><li>Plus rarement, elles peuvent être associée à une lipothymie ou à une syncope (surtout flutter 1/1)<br></li></ul>"
+                                    ],
+                                    "guid": "z@$)Y7>e]s",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Une fréquence ventriculaire à 150 bpm et des palpitations du flutter atrial ou de la Tachycardie Atriale, fixe évoquent {{c1::</div><div>un flutter commun 2/1}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "u+g~m6pKVi",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Palpitations des Tachycardies Ventriculaires (TV) - à l'ECG</div>",
+                                        "Tachycardie régulière à QRS large"
+                                    ],
+                                    "guid": "icCrQXy,Do",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0b7476ea94f44ef7a0fa3202032bc6cc-ao-1",
+                                        "",
+                                        "<img src=\"tmpyj2mea2z.png\" />",
+                                        "<img src=\"0b7476ea94f44ef7a0fa3202032bc6cc-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0b7476ea94f44ef7a0fa3202032bc6cc-ao-1-A.svg\" />",
+                                        "<img src=\"0b7476ea94f44ef7a0fa3202032bc6cc-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Nz:tqc6qm}",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations des Tachycardies Ventriculaires (TV) - Terrain",
+                                        "Le plus souvent sur une cardiopathie"
+                                    ],
+                                    "guid": "tU*8Gp_(Z1",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations des Tachycardies Ventriculaires (TV) - Signes associés",
+                                        "<div>Très souvent mal tolérée :<br><ul><li>lipothymie</li><li>syncope si TV rapide sur cardiopathie</li><li>asthénie</li><li>angor</li><li>dyspnée voire œdème aigu du poumon</li><li>parfois choc cardiogénique</li></ul></div><br>"
+                                    ],
+                                    "guid": "u[w*|4_K3L",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Palpitations de la tachycardie sinusale - à l'ECG</div>",
+                                        "Tachycardie régulière, à début parfois brusque mais fin progressive."
+                                    ],
+                                    "guid": "lZw|U3&w^*",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations de la tachycardie sinusale - Terrain",
+                                        "Le plus souvent sur cœur sain"
+                                    ],
+                                    "guid": "b+/~F{k4Qw",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations de la tachycardie sinusale - Facteurs",
+                                        "Le stress, l’émotion, l’effort"
+                                    ],
+                                    "guid": "LB?G_Me_Mm",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Palpitations sans arythmie - à l'ECG</div>",
+                                        "Normal"
+                                    ],
+                                    "guid": "i>dg8P]fXT",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations sans arythmie - Terrain",
+                                        "Cœur sain, dans un contexte d’anxiété"
+                                    ],
+                                    "guid": "h3G2=g`q3z",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations sans arythmie - Ressenti",
+                                        "Palpitations à début et fin progressives à type de tachycardie avec des battements «&nbsp;forts&nbsp;»"
+                                    ],
+                                    "guid": "O~5ISl#0Gw",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Orientation diagnostique des palpitations - Examens obligatoires",
+                                        "<ul><li>Interrogatoire ⇒ Consommation (café, drogues), ATCD perso et fam</li><li><div>Examen clinique ⇒ cardiopathie, hyperthyroïdie, pathologie pulmonaire…</div></li><li>ECG 12 dérivations</li></ul>"
+                                    ],
+                                    "guid": "q!0Lezv~?d",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Types de surveillances ECG prolongées",
+                                        "<ul><li>Palpitations pluriquotidiennes ou au moins pluri hebdomadaires ⇒&nbsp;enregistrement Holter continu sur 24, 48 ou 72 heures<br></li><li>Palpitations plus rares ⇒&nbsp;enregistreurs d’évènements (soit déclenché par le patient, soit lors de détection automatique d’arythmies par le dispositif)<br></li></ul>"
+                                    ],
+                                    "guid": "Gq+!^tpfT1",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Examens optionnels lors de palpitations",
+                                        "<ul><li>Surveillances ECG prolongées</li><li><div>Epreuve d’effort</div></li><li><div>Exploration électrophysiologique endocavitaire</div></li><li><div>Bilan biologique</div></li></ul>"
+                                    ],
+                                    "guid": "mFOs1tHl0N",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Exploration électrophysiologique endocavitaire - Indication</div>",
+                                        "<ul><li>Suspicion de trouble de rythme soutenu&nbsp;potentiellement dangereux (surtout en cas de cardiopathie)</li><li>Quand on envisage un traitement par ablation</li></ul>"
+                                    ],
+                                    "guid": "Jyhe~12}$c",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Bilan biologique lors de palpitations</div>",
+                                        "<ul><li><div>ionogramme sanguin</div></li><li><div>numération sanguine</div></li><li><div>bilan thyroïdien (TSHus).</div></li></ul>"
+                                    ],
+                                    "guid": "A6%Le`0rk+",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "de0adafb4ba44643bcd152fb5a4366d2-ao-1",
+                                        "",
+                                        "<img src=\"tmpk4g9o_k7.png\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-1-A.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-O.svg\" />"
+                                    ],
+                                    "guid": "dRP<Mox08Z",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "de0adafb4ba44643bcd152fb5a4366d2-ao-2",
+                                        "",
+                                        "<img src=\"tmpk4g9o_k7.png\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-2-A.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-O.svg\" />"
+                                    ],
+                                    "guid": "t{8p5xl}zt",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "de0adafb4ba44643bcd152fb5a4366d2-ao-3",
+                                        "",
+                                        "<img src=\"tmpk4g9o_k7.png\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-3-A.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-O.svg\" />"
+                                    ],
+                                    "guid": "p;ipGpY*y[",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "de0adafb4ba44643bcd152fb5a4366d2-ao-4",
+                                        "",
+                                        "<img src=\"tmpk4g9o_k7.png\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-4-A.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-O.svg\" />"
+                                    ],
+                                    "guid": "i&9DYFJ`<B",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "de0adafb4ba44643bcd152fb5a4366d2-ao-5",
+                                        "",
+                                        "<img src=\"tmpk4g9o_k7.png\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-5-A.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-O.svg\" />"
+                                    ],
+                                    "guid": "CH14Wx0I@m",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "81e716c237e543c7a08f24be187dbb9d-ao-1",
+                                        "",
+                                        "<img src=\"tmpjha5x8cv.png\" />",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-1-A.svg\" />",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "tq8;T93L*Z",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "81e716c237e543c7a08f24be187dbb9d-ao-2",
+                                        "",
+                                        "<img src=\"tmpjha5x8cv.png\" />",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-2-A.svg\" />",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "ALKYCs;i={",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "81e716c237e543c7a08f24be187dbb9d-ao-3",
+                                        "",
+                                        "<img src=\"tmpjha5x8cv.png\" />",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-3-A.svg\" />",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-O.svg\" />"
+                                    ],
+                                    "guid": "u@t7}hFN5>",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Conséquences des arythmies responsables de palpitations - Dépend de ?",
+                                        "<ul><li>Présence d’une atteinte cardiaque structurelle</li><li>Présence d'une atteinte cardiaque électrique pure (canalopathie)</li></ul>"
+                                    ],
+                                    "guid": "e8Drq$z`$c",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Quand suspecter une canalopathie ?",
+                                        "Anomalies de l’ECG inter critique et/ou histoire familiale de mort subite"
+                                    ],
+                                    "guid": "LJVbK!&nBy",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Comment on recherche d’une cardiopathie structurelle ?",
+                                        "<ul><li>D'abord, <b>échocardiographie transthoracique</b></li><li>En fonction</li><ul><li>recherche d’ischémie myocardique ⇒&nbsp;scintigraphie myocardique d’effort, échographie d’effort ou de stress, IRM de stress)<br></li><li>recherche de cicatrices myocardiques fibreuses ⇒&nbsp;IRM</li></ul><li>Si&nbsp;ischémie myocardique ⇒&nbsp;angiocoronarographie<br></li></ul>"
+                                    ],
+                                    "guid": "PwgN*7=-=s",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Palpitations à type de Fibrillation Atriale - il faut faire quoi ?",
+                                        "Si le patient a un risque thromboembolique (sujets âgés et/ou Score de CHADSVASc&gt;1) ⇒ Documenter rapidement (potentiellement&nbsp;traitement anticoagulant préventif)"
+                                    ],
+                                    "guid": "r3pf%fnZBI",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "En cas de palpitation avec atteinte cardiaque ⇒",
+                                        "Le bilan diagnostique devra être réalisé rapidement et de manière complète"
+                                    ],
+                                    "guid": "pyCju}kbM<",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                }
+                            ]
                         }
                     ],
                     "crowdanki_uuid": "e7f78c74-4573-11ec-a829-600308aa3fd6",

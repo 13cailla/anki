@@ -12041,21 +12041,21 @@
                                 "90c326665a1c42ed91003a62428aa50d-ao-1-A.svg",
                                 "90c326665a1c42ed91003a62428aa50d-ao-1-Q.svg",
                                 "90c326665a1c42ed91003a62428aa50d-ao-O.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-1-A.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-1-Q.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-2-A.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-2-Q.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-3-A.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-3-Q.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-4-A.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-4-Q.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-5-A.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-5-Q.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-6-A.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-6-Q.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-7-A.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-7-Q.svg",
-                                "b8577de318b24582a87cc4b298ff1d6a-ao-O.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-1-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-1-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-2-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-2-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-3-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-3-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-4-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-4-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-5-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-5-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-6-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-6-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-7-A.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-7-Q.svg",
+                                "b8577de318b24582a87cc4b298ff1d6a-oa-O.svg",
                                 "bea3544fd04c4421a33d27b48d7ff631-oa-1-A.svg",
                                 "bea3544fd04c4421a33d27b48d7ff631-oa-1-Q.svg",
                                 "bea3544fd04c4421a33d27b48d7ff631-oa-2-A.svg",
@@ -12085,6 +12085,7 @@
                                 "paste-52eb2a16e1f124a8bdd1851785b2d32789c51ca4.png",
                                 "paste-6eab44773e4d4d43e18aa47a0638110f13840f88.png",
                                 "paste-c8c2f4ea2c9de8d813a0d67f3ba8751f45c13d39.png",
+                                "paste-f8638168f38b40c072136bd3ba4769d50ca79ac6.jpg",
                                 "tmp2uaz9z_d.png",
                                 "tmp4njz1ek9.png",
                                 "tmp_7fa_s97.png",
@@ -12182,27 +12183,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "bea3544fd04c4421a33d27b48d7ff631-oa-1",
-                                        "",
-                                        "<img src=\"tmphwj6s2df.png\" />",
-                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-1-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-1-A.svg\" />",
-                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
-                                    ],
-                                    "guid": "KR.uGJoJ5U",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "bea3544fd04c4421a33d27b48d7ff631-oa-2",
                                         "",
                                         "<img src=\"tmphwj6s2df.png\" />",
@@ -12245,27 +12225,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "bea3544fd04c4421a33d27b48d7ff631-oa-4",
-                                        "",
-                                        "<img src=\"tmphwj6s2df.png\" />",
-                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-4-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-4-A.svg\" />",
-                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
-                                    ],
-                                    "guid": "e9}4nM[4+7",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "bea3544fd04c4421a33d27b48d7ff631-oa-5",
                                         "",
                                         "<img src=\"tmphwj6s2df.png\" />",
@@ -12279,27 +12238,6 @@
                                         "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
                                     ],
                                     "guid": "EGy6RZgMwz",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "bea3544fd04c4421a33d27b48d7ff631-oa-6",
-                                        "",
-                                        "<img src=\"tmphwj6s2df.png\" />",
-                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-6-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-6-A.svg\" />",
-                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
-                                    ],
-                                    "guid": "f<eWWCYzOP",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
@@ -12366,7 +12304,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Diagnostic des syncopes (étapes et résultat)",
-                                        "Uniquement à l'interrogatoire<br><ul><li>S’assurer de la survenue d’une perte de connaissance<br></li><li><div>PC brève avec récupération rapide d’une conscience normale</div></li><li>Cause non traumatique</li><li>Résultat ⇒ syncope épilepsie, psychogènes, ou causes rares</li></ul>"
+                                        "Uniquement à l'interrogatoire<br><ul><li>S’assurer de la survenue d’une perte de connaissance<br></li><li><div>PC brève avec récupération rapide d’une conscience normale</div></li><li>Cause non traumatique</li><li>Résultat ⇒ syncope, épilepsie, causes psychogènes, ou causes rares</li></ul>"
                                     ],
                                     "guid": "ra!nHj??Bx",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -12377,17 +12315,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "b8577de318b24582a87cc4b298ff1d6a-ao-1",
+                                        "b8577de318b24582a87cc4b298ff1d6a-oa-1",
                                         "",
                                         "<img src=\"tmp2uaz9z_d.png\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-1-Q.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-1-Q.svg\" />",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-1-A.svg\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-1-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-O.svg\" />"
                                     ],
                                     "guid": "r|!M9h7tqc",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
@@ -12398,17 +12336,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "b8577de318b24582a87cc4b298ff1d6a-ao-2",
+                                        "b8577de318b24582a87cc4b298ff1d6a-oa-2",
                                         "",
                                         "<img src=\"tmp2uaz9z_d.png\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-2-Q.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-2-Q.svg\" />",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-2-A.svg\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-2-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-O.svg\" />"
                                     ],
                                     "guid": "l(x(j2grQ1",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
@@ -12419,17 +12357,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "b8577de318b24582a87cc4b298ff1d6a-ao-3",
+                                        "b8577de318b24582a87cc4b298ff1d6a-oa-3",
                                         "",
                                         "<img src=\"tmp2uaz9z_d.png\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-3-Q.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-3-Q.svg\" />",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-3-A.svg\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-3-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-O.svg\" />"
                                     ],
                                     "guid": "JXh3kPUc+Z",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
@@ -12440,17 +12378,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "b8577de318b24582a87cc4b298ff1d6a-ao-4",
+                                        "b8577de318b24582a87cc4b298ff1d6a-oa-4",
                                         "",
                                         "<img src=\"tmp2uaz9z_d.png\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-4-Q.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-4-Q.svg\" />",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-4-A.svg\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-4-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-O.svg\" />"
                                     ],
                                     "guid": "dN1I2,`4R<",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
@@ -12461,17 +12399,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "b8577de318b24582a87cc4b298ff1d6a-ao-5",
+                                        "b8577de318b24582a87cc4b298ff1d6a-oa-5",
                                         "",
                                         "<img src=\"tmp2uaz9z_d.png\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-5-Q.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-5-Q.svg\" />",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-5-A.svg\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-5-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-O.svg\" />"
                                     ],
                                     "guid": "MGCKOXL?7n",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
@@ -12482,17 +12420,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "b8577de318b24582a87cc4b298ff1d6a-ao-6",
+                                        "b8577de318b24582a87cc4b298ff1d6a-oa-6",
                                         "",
                                         "<img src=\"tmp2uaz9z_d.png\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-6-Q.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-6-Q.svg\" />",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-6-A.svg\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-6-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-O.svg\" />"
                                     ],
                                     "guid": "eI~:eAS8g%",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
@@ -12503,17 +12441,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "b8577de318b24582a87cc4b298ff1d6a-ao-7",
+                                        "b8577de318b24582a87cc4b298ff1d6a-oa-7",
                                         "",
                                         "<img src=\"tmp2uaz9z_d.png\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-7-Q.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-7-Q.svg\" />",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-7-A.svg\" />",
-                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-ao-O.svg\" />"
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-7-A.svg\" />",
+                                        "<img src=\"b8577de318b24582a87cc4b298ff1d6a-oa-O.svg\" />"
                                     ],
                                     "guid": "sGLp&`2X/m",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
@@ -12536,7 +12474,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Types de syncopes réflexes",
+                                        "Origines des syncopes réflexes",
                                         "<ul><li>Vaso-vagales</li><li>Situationnelles (toux, miction, douleur viscérale…)</li><li>Hypersensibilité du sinus carotidien<br></li></ul>⇒ Quel type de syncopes ?"
                                     ],
                                     "guid": "LP`gkhBpJs",
@@ -12561,7 +12499,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Types de syncopes cardiaques",
-                                        "<ul><li>Arythmiques</li><ul><li>Bradycardies : BSA, BAV, dysfct PM</li><li>Tachycardies : supraV, ventriculaires</li></ul><li>Structurelles</li><ul><li>Syndrome coronaire aigu</li><li>Cardiopathies (hypertrophiques, dilatées, restrictives, RAC)</li><li>Myxome / tumeurs</li><li>Tamponnade / embolie pulmonaire / dissection aortique / hypertension pulmonaire / dysfonction valve mécanique</li></ul></ul>⇒ Quel type de syncopes ?"
+                                        "<ul><li>Arythmiques</li><li>Structurelles</li></ul>⇒ Quel type de syncopes ?"
                                     ],
                                     "guid": "i;c!o]1qM`",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -12585,7 +12523,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Effet du&nbsp;massage sinocarotidien",
-                                        "<ul><li>Pause sinusale</li><li>Chute pression artérielle<br></li></ul>"
+                                        "<ul><li>Bradycardie (voire pause sinusale)</li><li>Chute PA<br></li></ul>"
                                     ],
                                     "guid": "N4Cbd2/_du",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -12596,7 +12534,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Si l'atropine empêche la chute tensionnelle et la syncope lors d'un&nbsp;massage sinocarotidien, alors on a une forme&nbsp;{{c1::vasoplégique}} prédominante",
+                                        "Si l'atropine empêche la chute tensionnelle et la syncope lors d'un&nbsp;massage sinocarotidien, alors on a une forme&nbsp;{{c1::cardio-inhibitrice}} prédominante",
                                         ""
                                     ],
                                     "guid": "pYMwp?0)e|",
@@ -12608,7 +12546,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Si l'atropine n'empêche pas la chute tensionnelle et la syncope lors d'un&nbsp;massage sinocarotidien, alors on a une forme&nbsp;{{c1::cardio-inhibitrice}} prédominante",
+                                        "Si l'atropine n'empêche pas la chute tensionnelle et la syncope lors d'un&nbsp;massage sinocarotidien, alors on a une forme&nbsp;{{c1::vasoplégique}} prédominante",
                                         ""
                                     ],
                                     "guid": "yi&EwU/rxc",
@@ -12674,8 +12612,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Hypotension orthostatique (HO) ⇒ Caractérisé par ?",
-                                        "Pression artérielle&nbsp;<br><ul><li>systolique diminue ≥20 mmHg<br></li><li>diastolique diminue ≥10 mmHg<br></li><li>systolique atteint &lt;90 mmHg<br></li></ul>"
+                                        "Hypotension orthostatique (HO) ⇒ Comment le caracétriser ?",
+                                        "Pression artérielle diminue lors du passage à la position debout<br><ul><li>systolique diminue ≥20 mmHg<br></li><li>diastolique diminue ≥10 mmHg<br></li><li>systolique atteint &lt;90 mmHg<br></li></ul>"
                                     ],
                                     "guid": "FI8/+Q,[[b",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -12764,7 +12702,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>La syncope ou la lipothymie est de cause cardiaque lorsque {{c1::l’hypoperfusion cérébrale est la conséquence d’une diminution intrinsèque (c’est-à-dire qui n’est pas liée à une stimulation vagale ou à une diminution de la volémie) du débit cardiaque.}}</div>",
+                                        "<div>La syncope ou la lipothymie est de cause cardiaque lorsque : <br>{{c1::conséquence d’une diminution intrinsèque du débit cardiaque ⇒ Pas une stimulation vagale et pas une diminution de la volémie}}</div>",
                                         ""
                                     ],
                                     "guid": "vRn^q!ZYUM",
@@ -12789,7 +12727,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Causes rythmiques de syncope",
-                                        "<ul><li>Pause sinusale</li><li>Bloc atrio-ventriculaire complet</li><li>TV (Tachycardie ventriculaire) polymorphe ou FV (Fibrilation Ventriculaire)</li><li>Torsades de Pointes<br></li></ul>"
+                                        "<ul><li>Pause sinusale (BAS, dysfonctionnement PM)</li><li>Bloc atrio-ventriculaire complet (BAV)</li><li>TV (Tachycardie ventriculaire) polymorphe ou FV (Fibrilation Ventriculaire)</li><li>Torsades de Pointes (QT long ⇒ pb de repolarisation)<br></li></ul>"
                                     ],
                                     "guid": "P:~8,H|9%e",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -12872,7 +12810,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Les causes cardiaques de syncope sont&nbsp;",
+                                        "Causes cardiaques de syncope ⇒ PENSER A QUOI ? ;) ;) ;)",
                                         "Des causes de mort subite !"
                                     ],
                                     "guid": "D#5+Q>,dv,",
@@ -13051,6 +12989,105 @@
                                     "tags": [
                                         "todo"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bea3544fd04c4421a33d27b48d7ff631-oa-4",
+                                        "",
+                                        "<img src=\"tmphwj6s2df.png\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-4-A.svg\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
+                                    ],
+                                    "guid": "rub4/CM^kI",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bea3544fd04c4421a33d27b48d7ff631-oa-1",
+                                        "",
+                                        "<img src=\"tmphwj6s2df.png\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-1-A.svg\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
+                                    ],
+                                    "guid": "Rju{Q8JeG]",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "bea3544fd04c4421a33d27b48d7ff631-oa-6",
+                                        "",
+                                        "<img src=\"tmphwj6s2df.png\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-6-A.svg\" />",
+                                        "<img src=\"bea3544fd04c4421a33d27b48d7ff631-oa-O.svg\" />"
+                                    ],
+                                    "guid": "gOZN&~1~%K",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Types de syncopes cardiaques par aryhtmie",
+                                        "<ul><li>Bradycardies</li><li>Tachycardies</li></ul>"
+                                    ],
+                                    "guid": "w0oCuG`QJ]",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Inotropisme",
+                                        "Contractilité myocardique"
+                                    ],
+                                    "guid": "jR(=wy;7n~",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-f8638168f38b40c072136bd3ba4769d50ca79ac6.jpg\">",
+                                        "Dissection aortique"
+                                    ],
+                                    "guid": "Pyj{6WS9;C",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 }
                             ]
                         },
@@ -13081,36 +13118,28 @@
                                 "6a47cff6c80c4d1fb53ac777e701b42b-ao-O.svg",
                                 "6ecb2b77794642619d8885981fca38b3-ao-1-A.svg",
                                 "6ecb2b77794642619d8885981fca38b3-ao-1-Q.svg",
-                                "6ecb2b77794642619d8885981fca38b3-ao-2-A.svg",
-                                "6ecb2b77794642619d8885981fca38b3-ao-2-Q.svg",
-                                "6ecb2b77794642619d8885981fca38b3-ao-3-A.svg",
-                                "6ecb2b77794642619d8885981fca38b3-ao-3-Q.svg",
-                                "6ecb2b77794642619d8885981fca38b3-ao-4-A.svg",
-                                "6ecb2b77794642619d8885981fca38b3-ao-4-Q.svg",
-                                "6ecb2b77794642619d8885981fca38b3-ao-5-A.svg",
-                                "6ecb2b77794642619d8885981fca38b3-ao-5-Q.svg",
                                 "6ecb2b77794642619d8885981fca38b3-ao-O.svg",
-                                "81e716c237e543c7a08f24be187dbb9d-ao-1-A.svg",
-                                "81e716c237e543c7a08f24be187dbb9d-ao-1-Q.svg",
-                                "81e716c237e543c7a08f24be187dbb9d-ao-2-A.svg",
-                                "81e716c237e543c7a08f24be187dbb9d-ao-2-Q.svg",
-                                "81e716c237e543c7a08f24be187dbb9d-ao-3-A.svg",
-                                "81e716c237e543c7a08f24be187dbb9d-ao-3-Q.svg",
-                                "81e716c237e543c7a08f24be187dbb9d-ao-O.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-oa-1-A.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-oa-1-Q.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-oa-2-A.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-oa-2-Q.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-oa-3-A.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-oa-3-Q.svg",
+                                "81e716c237e543c7a08f24be187dbb9d-oa-O.svg",
                                 "ca8cdf00902e4a7c85869018636b867b-ao-1-A.svg",
                                 "ca8cdf00902e4a7c85869018636b867b-ao-1-Q.svg",
                                 "ca8cdf00902e4a7c85869018636b867b-ao-O.svg",
-                                "de0adafb4ba44643bcd152fb5a4366d2-ao-1-A.svg",
-                                "de0adafb4ba44643bcd152fb5a4366d2-ao-1-Q.svg",
-                                "de0adafb4ba44643bcd152fb5a4366d2-ao-2-A.svg",
-                                "de0adafb4ba44643bcd152fb5a4366d2-ao-2-Q.svg",
-                                "de0adafb4ba44643bcd152fb5a4366d2-ao-3-A.svg",
-                                "de0adafb4ba44643bcd152fb5a4366d2-ao-3-Q.svg",
-                                "de0adafb4ba44643bcd152fb5a4366d2-ao-4-A.svg",
-                                "de0adafb4ba44643bcd152fb5a4366d2-ao-4-Q.svg",
-                                "de0adafb4ba44643bcd152fb5a4366d2-ao-5-A.svg",
-                                "de0adafb4ba44643bcd152fb5a4366d2-ao-5-Q.svg",
-                                "de0adafb4ba44643bcd152fb5a4366d2-ao-O.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-oa-1-A.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-oa-1-Q.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-oa-2-A.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-oa-2-Q.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-oa-3-A.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-oa-3-Q.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-oa-4-A.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-oa-4-Q.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-oa-5-A.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-oa-5-Q.svg",
+                                "de0adafb4ba44643bcd152fb5a4366d2-oa-O.svg",
                                 "eb242f39c2d040dbb50555e003553276-ao-1-A.svg",
                                 "eb242f39c2d040dbb50555e003553276-ao-1-Q.svg",
                                 "eb242f39c2d040dbb50555e003553276-ao-O.svg",
@@ -13143,7 +13172,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Premiers types de palpitations (à l'interrogatoire)",
-                                        "<ul><li>Hyperkinétiques (à battement plus fort) ou arythmiques (battements surajoutés ou trop rapides)</li><li>Tachycardie (fréquence des battements ressentis rapide)<br></li><li>Durée (qq secondes à plusieurs jours)</li></ul>"
+                                        "<ul><li>Hyperkinétiques (à battement plus fort) ou arythmiques (battements surajoutés ou trop rapides)</li><li>Durée (qq secondes à plusieurs jours)</li></ul>"
                                     ],
                                     "guid": "gg%rtkmP#r",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -13216,7 +13245,7 @@
                                         "<img src=\"tmpj20geojb.png\" />",
                                         "<img src=\"eb242f39c2d040dbb50555e003553276-ao-1-Q.svg\" />",
                                         "",
-                                        "",
+                                        "Pas d'onde P avant les extrasystoles",
                                         "",
                                         "",
                                         "",
@@ -13237,111 +13266,6 @@
                                     ],
                                     "guid": "v=StCoD~q:",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "6ecb2b77794642619d8885981fca38b3-ao-1",
-                                        "",
-                                        "<img src=\"tmp9g0_pour.png\" />",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-1-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-1-A.svg\" />",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-O.svg\" />"
-                                    ],
-                                    "guid": "Qiugs{y/bT",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "6ecb2b77794642619d8885981fca38b3-ao-2",
-                                        "",
-                                        "<img src=\"tmp9g0_pour.png\" />",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-2-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-2-A.svg\" />",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-O.svg\" />"
-                                    ],
-                                    "guid": "Nhoqs&29]N",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "6ecb2b77794642619d8885981fca38b3-ao-3",
-                                        "",
-                                        "<img src=\"tmp9g0_pour.png\" />",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-3-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-3-A.svg\" />",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-O.svg\" />"
-                                    ],
-                                    "guid": "fVtIrxJxIw",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "6ecb2b77794642619d8885981fca38b3-ao-4",
-                                        "",
-                                        "<img src=\"tmp9g0_pour.png\" />",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-4-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-4-A.svg\" />",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-O.svg\" />"
-                                    ],
-                                    "guid": "u{4oo$+bvo",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "6ecb2b77794642619d8885981fca38b3-ao-5",
-                                        "",
-                                        "<img src=\"tmp9g0_pour.png\" />",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-5-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-5-A.svg\" />",
-                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-O.svg\" />"
-                                    ],
-                                    "guid": "l2P3FT(wx9",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
                                     ]
@@ -13419,7 +13343,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Signes possiblement associés à des palpitations de Bouveret",
-                                        "<ul><li>Lipothymie et asthénie</li><li>Rarement syncope, angor ou dyspnée.&nbsp;</li></ul>"
+                                        "<ul><li>Lipothymie et asthénie (fatigue)</li><li>Rarement syncope, angor ou dyspnée.&nbsp;</li></ul>"
                                     ],
                                     "guid": "i1=HJ7Ikl5",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -13431,7 +13355,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Palpitations de Bouveret - Origines",
-                                        "Rythme réciproque, soit par réentrée atrio-nodo-ventriculaire, soit empruntant une voie accessoire"
+                                        "Rythme réciproque, par réentrée soit par voie<br><ul><li>atrio-nodo-ventriculaire</li><li>accessoire</li></ul>"
                                     ],
                                     "guid": "Indq#j&O^q",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -13601,7 +13525,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<div>Une fréquence ventriculaire à 150 bpm et des palpitations du flutter atrial ou de la Tachycardie Atriale, fixe évoquent {{c1::</div><div>un flutter commun 2/1}}</div>",
+                                        "<div>{{c2::Une fréquence ventriculaire à 150 bpm et des palpitations du flutter atrial ou de la Tachycardie Atriale, fixe}} évoquent {{c1::un flutter commun 2/1 (deux contractions atriales entraînant une contraction ventriculaire)}}</div>",
                                         ""
                                     ],
                                     "guid": "u+g~m6pKVi",
@@ -13802,38 +13726,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "de0adafb4ba44643bcd152fb5a4366d2-ao-1",
+                                        "de0adafb4ba44643bcd152fb5a4366d2-oa-2",
                                         "",
                                         "<img src=\"tmpk4g9o_k7.png\" />",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-1-Q.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-2-Q.svg\" />",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-1-A.svg\" />",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-O.svg\" />"
-                                    ],
-                                    "guid": "dRP<Mox08Z",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "de0adafb4ba44643bcd152fb5a4366d2-ao-2",
-                                        "",
-                                        "<img src=\"tmpk4g9o_k7.png\" />",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-2-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-2-A.svg\" />",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-O.svg\" />"
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-2-A.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-O.svg\" />"
                                     ],
                                     "guid": "t{8p5xl}zt",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
@@ -13844,38 +13747,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "de0adafb4ba44643bcd152fb5a4366d2-ao-3",
+                                        "de0adafb4ba44643bcd152fb5a4366d2-oa-4",
                                         "",
                                         "<img src=\"tmpk4g9o_k7.png\" />",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-3-Q.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-4-Q.svg\" />",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-3-A.svg\" />",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-O.svg\" />"
-                                    ],
-                                    "guid": "p;ipGpY*y[",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "de0adafb4ba44643bcd152fb5a4366d2-ao-4",
-                                        "",
-                                        "<img src=\"tmpk4g9o_k7.png\" />",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-4-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-4-A.svg\" />",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-O.svg\" />"
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-4-A.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-O.svg\" />"
                                     ],
                                     "guid": "i&9DYFJ`<B",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
@@ -13886,17 +13768,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "de0adafb4ba44643bcd152fb5a4366d2-ao-5",
+                                        "de0adafb4ba44643bcd152fb5a4366d2-oa-5",
                                         "",
                                         "<img src=\"tmpk4g9o_k7.png\" />",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-5-Q.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-5-Q.svg\" />",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-5-A.svg\" />",
-                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-ao-O.svg\" />"
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-5-A.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-O.svg\" />"
                                     ],
                                     "guid": "CH14Wx0I@m",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
@@ -13907,38 +13789,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "81e716c237e543c7a08f24be187dbb9d-ao-1",
+                                        "81e716c237e543c7a08f24be187dbb9d-oa-2",
                                         "",
                                         "<img src=\"tmpjha5x8cv.png\" />",
-                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-1-Q.svg\" />",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-oa-2-Q.svg\" />",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-1-A.svg\" />",
-                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-O.svg\" />"
-                                    ],
-                                    "guid": "tq8;T93L*Z",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "81e716c237e543c7a08f24be187dbb9d-ao-2",
-                                        "",
-                                        "<img src=\"tmpjha5x8cv.png\" />",
-                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-2-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-2-A.svg\" />",
-                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-O.svg\" />"
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-oa-2-A.svg\" />",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-oa-O.svg\" />"
                                     ],
                                     "guid": "ALKYCs;i={",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
@@ -13949,17 +13810,17 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "81e716c237e543c7a08f24be187dbb9d-ao-3",
+                                        "81e716c237e543c7a08f24be187dbb9d-oa-3",
                                         "",
                                         "<img src=\"tmpjha5x8cv.png\" />",
-                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-3-Q.svg\" />",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-oa-3-Q.svg\" />",
                                         "",
                                         "",
                                         "",
                                         "",
                                         "",
-                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-3-A.svg\" />",
-                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-ao-O.svg\" />"
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-oa-3-A.svg\" />",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-oa-O.svg\" />"
                                     ],
                                     "guid": "u@t7}hFN5>",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
@@ -13994,8 +13855,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Comment on recherche d’une cardiopathie structurelle ?",
-                                        "<ul><li>D'abord, <b>échocardiographie transthoracique</b></li><li>En fonction</li><ul><li>recherche d’ischémie myocardique ⇒&nbsp;scintigraphie myocardique d’effort, échographie d’effort ou de stress, IRM de stress)<br></li><li>recherche de cicatrices myocardiques fibreuses ⇒&nbsp;IRM</li></ul><li>Si&nbsp;ischémie myocardique ⇒&nbsp;angiocoronarographie<br></li></ul>"
+                                        "Comment on recherche une cardiopathie structurelle ?",
+                                        "<ul><li>D'abord, <b>échocardiographie transthoracique</b></li><li>En fonction</li><ul><li>recherche d’ischémie myocardique ⇒&nbsp;scintigraphie myocardique d’effort, échographie d’effort ou de stress, IRM de stress)<br>⇒ Si oui, angiocoronarographie</li><li>recherche de cicatrices myocardiques fibreuses ⇒&nbsp;IRM</li></ul></ul>"
                                     ],
                                     "guid": "PwgN*7=-=s",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -14023,6 +13884,90 @@
                                     ],
                                     "guid": "pyCju}kbM<",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "6ecb2b77794642619d8885981fca38b3-ao-1",
+                                        "",
+                                        "<img src=\"tmp9g0_pour.png\" />",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-1-A.svg\" />",
+                                        "<img src=\"6ecb2b77794642619d8885981fca38b3-ao-O.svg\" />"
+                                    ],
+                                    "guid": "s&}r3RBOmI",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "de0adafb4ba44643bcd152fb5a4366d2-oa-1",
+                                        "",
+                                        "<img src=\"tmpk4g9o_k7.png\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-1-A.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-O.svg\" />"
+                                    ],
+                                    "guid": "MAP(@_tELp",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "de0adafb4ba44643bcd152fb5a4366d2-oa-3",
+                                        "",
+                                        "<img src=\"tmpk4g9o_k7.png\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-3-A.svg\" />",
+                                        "<img src=\"de0adafb4ba44643bcd152fb5a4366d2-oa-O.svg\" />"
+                                    ],
+                                    "guid": "b_s>?O{fHg",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "81e716c237e543c7a08f24be187dbb9d-oa-1",
+                                        "",
+                                        "<img src=\"tmpjha5x8cv.png\" />",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-oa-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-oa-1-A.svg\" />",
+                                        "<img src=\"81e716c237e543c7a08f24be187dbb9d-oa-O.svg\" />"
+                                    ],
+                                    "guid": "p/G&)o/-+I",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
                                     ]
@@ -28423,6 +28368,10 @@
                                 "d8e2a7cb854e45beaef3abfec6710356-ao-5-A.svg",
                                 "d8e2a7cb854e45beaef3abfec6710356-ao-5-Q.svg",
                                 "d8e2a7cb854e45beaef3abfec6710356-ao-O.svg",
+                                "paste-27fc15ad1dc8eddd90b72c53098d5166c3377deb.png",
+                                "paste-46358087c763b8c61358ff6e2eed26905fadd107.png",
+                                "paste-47ed299dd954cbf3bab1423d39d9171cd7b59175.png",
+                                "paste-49e6d86b39b596495943443eb3bbc0981c17de7b.png",
                                 "tmpim8otm2s.png"
                             ],
                             "name": "Bilan du Na+",
@@ -28598,11 +28547,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Transport de Na sur la pôle apical dans la partie proximale du TCP",
-                                        "Cotransports couplés à <br><ul><li>des substances organiques (AA, Glucose)</li><li>des substances minérales (symport NaPI, échangeur NHE)<br></li></ul>⇒ Quel transport ?"
+                                        "Transport de Na dans la partie proximale du TCP",
+                                        "<ul><li>En pôle apical : Cotransports couplés à </li><ul><li>des substances organiques (AA, Glucose)</li><li>des substances minérales (symport NaCI, échangeur NHE)</li></ul><li>En pôle basocellulaire :</li><ul><li>Na/K ATPase</li><li>Cotransport HCO3Na</li></ul></ul>⇒ Quel transport ?<br><br><img src=\"paste-49e6d86b39b596495943443eb3bbc0981c17de7b.png\"><br>"
                                     ],
                                     "guid": "s{ho)2/Dy)",
-                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
                                     ]
@@ -28610,23 +28559,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Transport de Na sur la pôle basolatéral dans la partie proximale du TCP",
-                                        "<ul><li>Na/K ATPase</li><li>cotransport HCO3Na<br></li></ul>⇒ Quel transport ?"
-                                    ],
-                                    "guid": "vESW_aEuTj",
-                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Transport de Na sur la pôle apical dans la partie distale du TCP",
-                                        "<ul><li>Transport transcellulaire : NHE3 et échangeur Cl/HCO3 (60%)<br></li><li>Transport paracellulaire (apical et basocellulaire) : Gradient chimique pour le Cl et électrique pour le Na (40%)<br></li></ul>⇒ Quel transport ?"
+                                        "Transport de Na dans la partie distale du TCP",
+                                        "<ul><li>En apical (40%) : Transport transcellulaire : NHE3 et échangeur Cl/HCO3 (60%)</li><li>En basocellulaire : Pompe NaK-ATPase</li><li>En apical&nbsp;(60%) et basocellulaire : Transport paracellulaire&nbsp;</li><ul><li>Gradient chimique pour le Cl</li><li>Gradient électrique pour le Na&nbsp;</li></ul></ul>⇒ Quel transport ?<br><br><img src=\"paste-46358087c763b8c61358ff6e2eed26905fadd107.png\"><br>"
                                     ],
                                     "guid": "q&Ue#[<&Eh",
-                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
                                     ]
@@ -28646,23 +28583,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Transport de Na sur le pôle basocellulaire dans la partie distale du TCP",
-                                        "Transport paracellulaire (apical et basocellulaire) : gradient chimique pour le Cl et électrique pour le Na"
-                                    ],
-                                    "guid": "z7c^WDK{W9",
-                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Transport de Na sur le pôle apical dans le TCD",
-                                        "Cotransport NaCI (NCC)"
+                                        "Transport de Na dans le TCD",
+                                        "<ul><li>En apical : Cotransport NaCI (NCC)</li><li>En basocellulaire : Pompe NaK-ATPase</li></ul>⇒ Quel transport ?<br>"
                                     ],
                                     "guid": "bmfk.2Q$8~",
-                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
                                     ]
@@ -28707,10 +28632,10 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Transport de Na du canal collecteur",
-                                        "<ul><li>Pompe Na/K-ATPase en apical crée un gradient<br></li><li>⇒ ENaC en basocellulaire</li></ul>"
+                                        "<ul><li>En basocellulaire&nbsp;: pompe Na/K-ATPase crée un gradient<br></li><li>En apical : ENaC utilisant le gradient</li></ul>⇒ Quel transport ?<br><br><img src=\"paste-47ed299dd954cbf3bab1423d39d9171cd7b59175.png\"><br>"
                                     ],
                                     "guid": "N~>)IQ+lA)",
-                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
                                     ]
@@ -28743,7 +28668,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Absorption de Na dans l'anse de Henlé",
-                                        "<ul><li>Transport&nbsp;transcellulaire</li><ul><li>NaK2CI ⇒ apicale</li><li>Na/K ATPase + Canal Cl- ⇒ basolatéraux</li></ul><li>En plus, différence de potentiel créée par&nbsp;ROMK et NaK2CI ⇒&nbsp;transport paracellulaire</li></ul>"
+                                        "<ul><li>En apical : Transcellulaire NaK2CI</li><li>En basocellulaire :&nbsp;Na/K ATPase + Canal Cl-</li><li>En plus, différence de potentiel créée par&nbsp;ROMK et NaK2CI ⇒&nbsp;transport paracellulaire en basocellulaire et en apical</li></ul>⇒ Quel transport ?<br><br><img src=\"paste-27fc15ad1dc8eddd90b72c53098d5166c3377deb.png\"><br>"
                                     ],
                                     "guid": "k04;g;KTM8",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",

@@ -2,19 +2,28 @@
  <!-- Created with Image Occlusion Enhanced -->
  <g>
   <title>Labels</title>
+  <text transform="matrix(0.42969053983688354,0,0,0.7500390410423279,259.51753763016313,136.70911634992808) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_21" y="555.92712" x="701.24233" stroke-width="0" fill="#000000">(insuffisance veineuse)</text>
+  <text transform="matrix(0.4242402882792256,0,0,0.4983446051752054,69.07642229251053,247.40678600120523) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_24" y="591.53811" x="506.16249" stroke-width="0" fill="#000000">Système Autonome</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_30" y="41.51344" x="608.81086" stroke-width="0" fill="#000000">Types de syncopes</text>
  </g>
- <g>
+ <g display="inline">
   <title>Masks</title>
   
   
   
   
   
-  <g id="bea3544fd04c4421a33d27b48d7ff631-oa-6" class="qshape">
-   <rect height="186.48649" width="56.75676" y="250.97291" x="91.24327" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="105.40541" width="150.00001" y="436.10805" x="177.72976" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="91.8919" width="128.37838" y="459.08103" x="350.70274" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-  </g>
   
+  <g id="bea3544fd04c4421a33d27b48d7ff631-oa-6" class="qshape">
+   <g class="qshape">
+    <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="91.24327" y="250.97291" width="56.75676" height="186.48649" class="qshape"/>
+    <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="177.72976" y="436.10805" width="150.00001" height="105.40541" class="qshape"/>
+    <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="350.70274" y="459.08103" width="128.37838" height="91.8919" class="qshape"/>
+   </g>
+   <rect height="116.21622" width="293.24325" y="541.51346" x="339.89193" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect stroke="#2D2D2D" height="77.02703" width="177.02704" y="472.59454" x="487.18922" fill="#FF7E7E" class="qshape"/>
+   <rect height="101.35135" width="128.37838" y="544.21616" x="191.24328" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="129.72973" width="116.21622" y="475.29724" x="73.6757" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  </g>
  </g>
 </svg>

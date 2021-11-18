@@ -2,16 +2,19 @@
  <!-- Created with Image Occlusion Enhanced -->
  <g>
   <title>Labels</title>
+  <text transform="matrix(0.42969053983688354,0,0,0.7500390410423279,259.51753763016313,136.70911634992808) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_21" y="555.92712" x="701.24233" stroke-width="0" fill="#000000">(insuffisance veineuse)</text>
+  <text transform="matrix(0.4242402882792256,0,0,0.4983446051752054,69.07642229251053,247.40678600120523) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_24" y="591.53811" x="506.16249" stroke-width="0" fill="#000000">Système Autonome</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_30" y="41.51344" x="608.81086" stroke-width="0" fill="#000000">Types de syncopes</text>
  </g>
- <g>
+ <g display="inline">
   <title>Masks</title>
-  
   <g id="bea3544fd04c4421a33d27b48d7ff631-oa-2" class="qshape">
-   <rect height="36.48649" width="202.70271" y="157.72966" x="233.13517" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="81.08108" width="95.94595" y="105.02696" x="430.43247" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="39.18919" width="93.24325" y="76.64858" x="291.24328" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="81.08108" width="121.62163" y="125.29723" x="100.70273" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="233.13517" y="157.72966" width="202.70271" height="36.48649" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="430.43247" y="105.02696" width="95.94595" height="81.08108" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="291.24328" y="76.64858" width="93.24325" height="39.18919" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="100.70273" y="125.29723" width="121.62163" height="81.08108" class="qshape"/>
   </g>
+  
   
   
   

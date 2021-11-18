@@ -2,18 +2,21 @@
  <!-- Created with Image Occlusion Enhanced -->
  <g>
   <title>Labels</title>
+  <text transform="matrix(0.42969053983688354,0,0,0.7500390410423279,259.51753763016313,136.70911634992808) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_21" y="555.92712" x="701.24233" stroke-width="0" fill="#000000">(insuffisance veineuse)</text>
+  <text transform="matrix(0.4242402882792256,0,0,0.4983446051752054,69.07642229251053,247.40678600120523) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_24" y="591.53811" x="506.16249" stroke-width="0" fill="#000000">Système Autonome</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_30" y="41.51344" x="608.81086" stroke-width="0" fill="#000000">Types de syncopes</text>
  </g>
- <g>
+ <g display="inline">
   <title>Masks</title>
   
   
   
-  
-  
-  
   <g id="bea3544fd04c4421a33d27b48d7ff631-oa-7" class="qshape">
-   <rect height="147.2973" width="114.86487" y="277.99994" x="179.08111" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="187.83784" width="85.13514" y="248.27021" x="387.18923" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="195.29733" y="277.99994" width="114.86487" height="147.2973" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="403.40545" y="248.27021" width="85.13514" height="187.83784" class="qshape"/>
   </g>
+  
+  
+  
  </g>
 </svg>

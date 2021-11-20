@@ -16323,6 +16323,7 @@
                                 "paste-7a54a5c25dc7b6882fe95b52681b5b3c3d88602c.png",
                                 "paste-86c1a84694e8515126eab58aabf33191c92df781.png",
                                 "paste-9b742a64b73a9c65cd7f4e8ec003f21cb0e24a0f.png",
+                                "paste-dc32c51d0b803cc8d111a6631b14c6d52fd5e0ed.jpg",
                                 "paste-ff5ec699bea899cd22f18cbfd17bc9071bea3d98.png",
                                 "tmp1c86g0qt.png",
                                 "tmp21k0cwt8.png",
@@ -16355,7 +16356,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Les hémisphères cérébraux sont séparés par la {{c1::fissure longitudinale du cerveau}} contenant {{c1::la faux du cerveau (dure-mère).}}",
-                                        ""
+                                        "<img src=\"paste-dc32c51d0b803cc8d111a6631b14c6d52fd5e0ed.jpg\">"
                                     ],
                                     "guid": "io><t],N~}",
                                     "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
@@ -16371,18 +16372,6 @@
                                     ],
                                     "guid": "h2(2m*trT9",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Le cerveau est composé de",
-                                        "<ul><li>Télencéphale (2 hémisphères)</li><li>Mésencéphale (1 cerveau intermédiaire)</li></ul>"
-                                    ],
-                                    "guid": "t&I!|j>6+v",
-                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
                                     ]
@@ -20652,6 +20641,18 @@
                                     "tags": [
                                         "todo"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Tailles des valves",
+                                        "<ul><li>Tricupside : 35-38 mm</li><li>Mitrale : 30 - 35 mm</li><li>Aortique : 20-25 mm</li><li>Pulmonaire : 20 - 22 mm</li></ul>"
+                                    ],
+                                    "guid": "P&??I5r^D`",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 }
                             ]
                         },
@@ -23701,7 +23702,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "<img src=\"paste-7a06e009d950c4f72c8dd1319512ac0830e7fadc.png\">",
-                                "Marquage GFAP ⇒ Astrocytes"
+                                "Marquage GFAP (Glial fibrillary acidic protein) ⇒ Astrocytes"
                             ],
                             "guid": "`/s(enE,F",
                             "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -34540,8 +34541,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Autorégulation du DFG",
-                                        "Si la pression de perfusion moyenne (PAM) baisse, les résistances artériolaires afférentes (RAA) baissent, ΔP baisse ⇒ DFG baisse"
+                                        "Autorégulation (intrinsèque) du DFG quelle que soit la PAM",
+                                        "Si PAM augmente ⇒&nbsp;étirement de la paroi ⇒&nbsp;vasoconstriction réflexe (augmentation RAA) ⇒ contrebalance l'augmentation de ΔP ⇒ DFG reste constant"
                                     ],
                                     "guid": "HMDva?3X&S",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -35061,7 +35062,7 @@
                                         "En faisant l’hypothèse que A et B ont la même sécrétion tubulaire de créatinine, la formule de Cockcroft va donner la même estimation du DFG chez A et B",
                                         "La masse musculaire de B est supérieure à celle de A",
                                         "L’une des deux créatininuries, de A ou de B, est forcément mal mesurée",
-                                        "0 0 1 1 0",
+                                        "0 0 1 1 1",
                                         "",
                                         "1 :&nbsp;car même DFG et créatininurie différente<br>2 :&nbsp;créatininurie différente<br>3 : ? ⇒ A compléter<br>4 :&nbsp;Probablement pas<br>5 :&nbsp;Probablement pas"
                                     ],
@@ -35243,7 +35244,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Tube contourné proximal - Caractéristiques",
+                                        "Tube contourné proximal - Caractéristiques des cellules",
                                         "<ul><li>Bordure en brosse ⇒ grande surface&nbsp;d'échange apicale<br></li><li>Appareil mitonchondrial très développé<br></li></ul>⇒ Quelle portion du&nbsp;tubule ?"
                                     ],
                                     "guid": "j~<B[N**sj",
@@ -35256,7 +35257,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Anse de Henlé - Position",
-                                        "S'étend en profondeurjusque dans la médullaire interne <br>⇒ Quelle portion du tubule ?"
+                                        "S'étend en profondeur jusque dans la médullaire interne <br>⇒ Quelle portion du tubule ?"
                                     ],
                                     "guid": "MzX?[da&%d",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",

@@ -1,7 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1498" height="1106">
  <!-- Created with Image Occlusion Enhanced -->
- <g>
+ <g display="inline">
   <title>Labels</title>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="583.25006" y="204.41664" width="37.5" height="16.66667" id="svg_2"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="672.8334" y="58.5833" width="66.66667" height="35.41667" id="svg_3"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="852.00007" y="129.41664" width="58.33334" height="27.08333" id="svg_4"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="895.75007" y="271.08331" width="43.75" height="27.08333" id="svg_5"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="960.33341" y="421.08331" width="39.58333" height="27.08333" id="svg_6"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="993.66674" y="564.83332" width="31.25" height="35.41667" id="svg_7"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="812.41674" y="354.41665" width="43.75" height="29.16667" id="svg_8"/>
+  <text fill="#000000" stroke-width="0" x="593.66673" y="204.41664" id="svg_9" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">21</text>
+  <text fill="#000000" stroke-width="0" x="702.00007" y="71.0833" id="svg_10" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">22</text>
+  <text fill="#000000" stroke-width="0" x="885.33341" y="137.74997" id="svg_11" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">23</text>
+  <text fill="#000000" stroke-width="0" x="912.41674" y="281.49998" id="svg_12" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">24</text>
+  <text fill="#000000" stroke-width="0" x="977.00008" y="435.66665" id="svg_13" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">25</text>
+  <text fill="#000000" stroke-width="0" x="995.75008" y="577.33332" id="svg_14" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">26</text>
+  <text fill="#000000" stroke-width="0" x="839.50007" y="373.16665" id="svg_15" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">27</text>
+  <rect stroke="#2D2D2D" id="svg_1" height="93.75" width="422.91668" y="460.66665" x="-20.91662" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
  </g>
  <g>
   <title>Masks</title>
@@ -20,9 +35,6 @@
   <rect id="688bd07067714edf8a13298940c0bf02-ao-13" stroke="#2D2D2D" height="29.16667" width="206.25001" y="371.08332" x="-13.62501" fill="#FFEBA2"/>
   <rect id="688bd07067714edf8a13298940c0bf02-ao-14" stroke="#2D2D2D" height="29.16667" width="206.25001" y="406.49999" x="-84.45835" fill="#FF7E7E" class="qshape"/>
   <rect id="688bd07067714edf8a13298940c0bf02-ao-15" stroke="#2D2D2D" height="29.16667" width="206.25001" y="435.66666" x="-3.20833" fill="#FFEBA2"/>
-  <rect stroke="#2D2D2D" id="688bd07067714edf8a13298940c0bf02-ao-16" height="29.16667" width="256.25002" y="493.99999" x="5.12499" fill="#FFEBA2"/>
-  <rect stroke="#2D2D2D" id="688bd07067714edf8a13298940c0bf02-ao-17" height="29.16667" width="268.75001" y="466.91666" x="5.12499" fill="#FFEBA2"/>
-  <rect stroke="#2D2D2D" id="688bd07067714edf8a13298940c0bf02-ao-18" height="29.16667" width="275.00003" y="525.24999" x="-3.20833" fill="#FFEBA2"/>
   <rect stroke="#2D2D2D" id="688bd07067714edf8a13298940c0bf02-ao-19" height="27.08334" width="331.25003" y="585.66666" x="11.37499" fill="#FFEBA2"/>
   <rect id="688bd07067714edf8a13298940c0bf02-ao-20" stroke="#2D2D2D" height="29.16667" width="206.25001" y="558.58333" x="-15.70833" fill="#FFEBA2"/>
   <rect stroke="#2D2D2D" id="688bd07067714edf8a13298940c0bf02-ao-21" height="29.16667" width="316.66667" y="41.91665" x="1005.12503" fill="#FFEBA2"/>

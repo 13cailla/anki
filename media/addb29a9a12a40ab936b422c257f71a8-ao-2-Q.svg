@@ -5,12 +5,16 @@
  </g>
  <g>
   <title>Masks</title>
-  <rect id="addb29a9a12a40ab936b422c257f71a8-ao-1" height="255.55556" width="1015.55556" y="18.4444" x="843.33333" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="addb29a9a12a40ab936b422c257f71a8-ao-2" height="315.55556" width="264.44444" y="649.55551" x="-27.77778" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-  <rect id="addb29a9a12a40ab936b422c257f71a8-ao-3" height="64.44444" width="126.66667" y="653.99996" x="547.77778" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="addb29a9a12a40ab936b422c257f71a8-ao-4" height="157.77778" width="755.55556" y="1045.11107" x="-5.55556" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="addb29a9a12a40ab936b422c257f71a8-ao-5" height="77.77778" width="115.55556" y="582.88885" x="696.66667" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="addb29a9a12a40ab936b422c257f71a8-ao-6" height="337.77778" width="666.66667" y="698.4444" x="1290" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="addb29a9a12a40ab936b422c257f71a8-ao-7" height="262.22222" width="968.88889" y="371.77774" x="972.22222" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect fill="#FF7E7E" stroke="#2D2D2D" x="-27.77778" y="649.55551" width="264.44444" height="315.55556" id="addb29a9a12a40ab936b422c257f71a8-ao-2" class="qshape"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="-5.55556" y="1045.11107" width="755.55556" height="157.77778" id="addb29a9a12a40ab936b422c257f71a8-ao-4"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="1290" y="698.4444" width="666.66667" height="337.77778" id="addb29a9a12a40ab936b422c257f71a8-ao-6"/>
+  <g id="addb29a9a12a40ab936b422c257f71a8-ao-1">
+   <rect fill="#FFEBA2" stroke="#2D2D2D" x="843.33333" y="20.66662" width="1015.55556" height="255.55556"/>
+   <rect fill="#FFEBA2" stroke="#2D2D2D" x="547.77778" y="656.22218" width="126.66667" height="64.44444"/>
+  </g>
+  <g id="addb29a9a12a40ab936b422c257f71a8-ao-3">
+   <rect fill="#FFEBA2" stroke="#2D2D2D" x="683.33334" y="591.77774" width="115.55556" height="77.77778"/>
+   <rect fill="#FFEBA2" stroke="#2D2D2D" x="958.88889" y="378.44441" width="968.88889" height="262.22222"/>
+  </g>
  </g>
 </svg>

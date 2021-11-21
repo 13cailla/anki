@@ -12258,7 +12258,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Malaise",
-                                        "Pade définition précise<br><ul><li><div>&nbsp;Sensation pénible, mal localisée, d'un trouble physiologique&nbsp;</div></li><li><div>Brusque défaillance des forces physiques pouvant aller jusqu'à l'évanouissement</div></li><li><div>État, sentiment de trouble, de gêne, d'inquiétude, de tension&nbsp;</div></li></ul>"
+                                        "Pas de définition précise<br><ul><li><div>&nbsp;Sensation pénible, mal localisée, d'un trouble physiologique&nbsp;</div></li><li><div>Brusque défaillance des forces physiques pouvant aller jusqu'à l'évanouissement</div></li><li><div>État, sentiment de trouble, de gêne, d'inquiétude, de tension&nbsp;</div></li></ul>"
                                     ],
                                     "guid": "p~<q(a]d?2",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -16175,6 +16175,7 @@
                                 "999f06ecbe324f46ac10165f6e982269-ao-2-Q.svg",
                                 "999f06ecbe324f46ac10165f6e982269-ao-O.svg",
                                 "Gray727_Cuneus.png",
+                                "Telencephalon-Horiconatal.jpg",
                                 "a8224861e0f24f81be4fd08f0d16525d-ao-1-A.svg",
                                 "a8224861e0f24f81be4fd08f0d16525d-ao-1-Q.svg",
                                 "a8224861e0f24f81be4fd08f0d16525d-ao-2-A.svg",
@@ -16381,6 +16382,7 @@
                                 "paste-4726d691841ebda09df11982d5f324415c39223a.jpg",
                                 "paste-561acfc55c21f8c6b72cc6ff25ab5237831969f8.png",
                                 "paste-58e8875e5ed594fe163cb1c3793dda3d8b44b79a.png",
+                                "paste-64d9616f76a92fc8d7f41014034dfcb868fd11ba.png",
                                 "paste-7a54a5c25dc7b6882fe95b52681b5b3c3d88602c.png",
                                 "paste-86c1a84694e8515126eab58aabf33191c92df781.png",
                                 "paste-9b742a64b73a9c65cd7f4e8ec003f21cb0e24a0f.png",
@@ -17730,7 +17732,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Au niveau, du&nbsp;gyrus moteur primaire, aire 4 de Brodmann, on a une somatotopie :",
-                                        "Représentation de :<br><ul><li>membre inférieur ⇒ lobule paracentral<br></li><li>reste du corps ⇒ vue latérale du gyrus pré-central<br></li></ul>⇒ Quelle partie du cevreau, et représente quelle organisation ?"
+                                        "Représentation de :<br><ul><li>membre inférieur ⇒ lobule paracentral<br></li><li>reste du corps ⇒ vue latérale du gyrus pré-central<br></li></ul>⇒ Quelle partie du cerveau, et représente quelle organisation ?"
                                     ],
                                     "guid": "y%Q8gLQnEa",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -18191,7 +18193,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Gyrus parahippocampal - Il s'agit de ?",
+                                        "Gyrus parahippocampal - Quel type de cortex ?",
                                         "Paléocortex, cortex de transition entre l’archicortex et néocortex"
                                     ],
                                     "guid": "Jj6M-D`)p$",
@@ -19707,7 +19709,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "La capsule {{c2::externe}} passe entre {{c1::putamen}} et {{c1::claustrum}} tandis que la capsule {{c2::extrême}} entre {{c1::claustrum}} et {{c1::insula}}.",
-                                        ""
+                                        "<img src=\"paste-64d9616f76a92fc8d7f41014034dfcb868fd11ba.png\">"
                                     ],
                                     "guid": "l#o>Ss*1<g",
                                     "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
@@ -20118,7 +20120,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "La capsule interne présente deux bras, un bras {{c1::antérieur}} et un bras {{c1::postérieur}}",
-                                        ""
+                                        "<img src=\"Telencephalon-Horiconatal.jpg\">"
                                     ],
                                     "guid": "iw5wcH=z>l",
                                     "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
@@ -20129,7 +20131,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Dans le bras postérieur de la capsule interne&nbsp;{{c1::le faisceau corticospinal}} présente une somatotopie avec <br><ul><li>{{c1::Le membre supérieur et le thorax}} en arrière</li><li>{{c1::le membre inférieur}} plus postérieur</li></ul>",
+                                        "Dans le bras postérieur de la capsule interne&nbsp;{{c1::le faisceau corticospinal}} présente une somatotopie avec <br><ul><li>{{c1::Le membre supérieur}} en avant</li><li>{{c1::Le thorax}} au milieu</li><li>{{c1::le membre inférieur}} plus postérieur</li></ul>",
                                         ""
                                     ],
                                     "guid": "F1k2xt0/4A",
@@ -24062,6 +24064,19 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "bc3edd7e-4aed-11ec-b5de-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Voies de la sensibilité",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "0206a2da-4254-11ec-92c1-600308aa3fd6",
@@ -33817,6 +33832,624 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "bc49728e-4aed-11ec-b5de-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "0b5b105e1f1e4c32b3286fffeee502c2-ao-1-A.svg",
+                                "0b5b105e1f1e4c32b3286fffeee502c2-ao-1-Q.svg",
+                                "0b5b105e1f1e4c32b3286fffeee502c2-ao-O.svg",
+                                "3149bd22e47946b49789d347d310de0b-ao-1-A.svg",
+                                "3149bd22e47946b49789d347d310de0b-ao-1-Q.svg",
+                                "3149bd22e47946b49789d347d310de0b-ao-O.svg",
+                                "f94690853319473f9bd36d9baafc8a8f-ao-1-A.svg",
+                                "f94690853319473f9bd36d9baafc8a8f-ao-1-Q.svg",
+                                "f94690853319473f9bd36d9baafc8a8f-ao-2-A.svg",
+                                "f94690853319473f9bd36d9baafc8a8f-ao-2-Q.svg",
+                                "f94690853319473f9bd36d9baafc8a8f-ao-O.svg",
+                                "ff9ece8cbdf14c6587fd352129537df7-ao-1-A.svg",
+                                "ff9ece8cbdf14c6587fd352129537df7-ao-1-Q.svg",
+                                "ff9ece8cbdf14c6587fd352129537df7-ao-2-A.svg",
+                                "ff9ece8cbdf14c6587fd352129537df7-ao-2-Q.svg",
+                                "ff9ece8cbdf14c6587fd352129537df7-ao-O.svg",
+                                "paste-c7148ceba03a27f69be7c30fcb4545a456aa6a8c.png",
+                                "tmp2fosa9hh.png",
+                                "tmp57cdux9e.png",
+                                "tmpf1_8_p5v.png",
+                                "tmpiio0b0cx.png"
+                            ],
+                            "name": "Bilan de l'eau",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Acteurs de {{c2::l'homéostasie hydrique}}<br><ul><li>Variable régulée :&nbsp; {{c1::Osmolalité plasmatique}}</li><li>Sensor :&nbsp; {{c1::Osmorécepteurs centraux et périphériques}}</li><li>Système hormonal ou neuro-hormonal : {{c1::ADH}}</li><li>Effecteur rénal : {{c1::Aquaporines}}</li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "q{_Tih/!JM",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Osmalalité moyenne extra et intracellulaire",
+                                        "290 mOsmol/Kg"
+                                    ],
+                                    "guid": "BB,~YUwwe*",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "En cas de bilan hydrique positif&nbsp;{{c1::la natrémie et l'osmolarité baissent, et le VIC augmente (HIC)}}",
+                                        ""
+                                    ],
+                                    "guid": "rrf&]RSBqr",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Explication du lien entre bilan de l'eau et VIC",
+                                        "Si l'eau augmente ⇒&nbsp;<br><ul><li>Osmolalité baisse (1/3 dans le SEC et 2/3 dans le SIC)</li><li>Activation du SRAA ⇒ SEC diminue</li></ul>⇒ Au total, seul le VIC change<br>"
+                                    ],
+                                    "guid": "pcw_bMb.Xs",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "f94690853319473f9bd36d9baafc8a8f-ao-1",
+                                        "",
+                                        "<img src=\"tmp2fosa9hh.png\" />",
+                                        "<img src=\"f94690853319473f9bd36d9baafc8a8f-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"f94690853319473f9bd36d9baafc8a8f-ao-1-A.svg\" />",
+                                        "<img src=\"f94690853319473f9bd36d9baafc8a8f-ao-O.svg\" />"
+                                    ],
+                                    "guid": "MB1D`z]=T9",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "f94690853319473f9bd36d9baafc8a8f-ao-2",
+                                        "",
+                                        "<img src=\"tmp2fosa9hh.png\" />",
+                                        "<img src=\"f94690853319473f9bd36d9baafc8a8f-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"f94690853319473f9bd36d9baafc8a8f-ao-2-A.svg\" />",
+                                        "<img src=\"f94690853319473f9bd36d9baafc8a8f-ao-O.svg\" />"
+                                    ],
+                                    "guid": "shheZ8)rE,",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Canaux à H2O",
+                                        "Aquaporines"
+                                    ],
+                                    "guid": "wXt$Q%LDVY",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Structure et composition des aquaporines",
+                                        "Assemblage tétramérique de protéines à 6 hélices comprenant 2 motifs NPA qui, par repliement, délimitent le pore<br><br><img src=\"paste-c7148ceba03a27f69be7c30fcb4545a456aa6a8c.png\">"
+                                    ],
+                                    "guid": "u6U`Ta7F/m",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Il existe {{c1::13}} isoformes différentes d'AQP. Parmi elles, le rein exprime les AQP&nbsp;{{c1::1, 2, 3, 4 et 7.}}",
+                                        ""
+                                    ],
+                                    "guid": "mHu&+]k*~4",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Expression des AQP selon la portion du tubule, et fixe ou moduable ?",
+                                        "<ul><li>TCP : AQP 1 et 7</li><li>Branche descendante de Henlé : AQP 1</li><li>Canal collecteur :&nbsp;</li><ul><li>Basolatéral : AQP 3 et 4 (fixe)</li><li>Apical : AQP 2 (modulable)</li></ul></ul>"
+                                    ],
+                                    "guid": "G7A-uilc7[",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Objectifs des événements tubulaires initiaux",
+                                        "<ul><li>Réabsorber la quasi-totalité de l'eau et du sel filtré (95%) (1)</li><li>Créer un gradient de concentration cortico-papillaire (2)&nbsp;</li><li>Délivrer une urine hypotonique au canal collecteur (3)</li></ul>⇒ Ne joue pas sur l'homéostasie hydrique mais donne les conditions de la modulation dans le canal collecteur<br>"
+                                    ],
+                                    "guid": "Pyq-|cv~.;",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Réabsorption hydrique dans le TCP",
+                                        "<ul><li>iso-osmotique</li><li>2/3 de l'eau et du sel</li></ul>"
+                                    ],
+                                    "guid": "xdlLeQxK[i",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Réabsorption hydrique dans l'anse de Henlé",
+                                        "<ul><li>Dans la branche descendante fine (Na<sup>+</sup>&nbsp;dans la BAL)</li><li>⇒ Création d'un Gradient de concentration CorticoPapillaire (GCP)</li></ul>"
+                                    ],
+                                    "guid": "O{{7fjdUk[",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Phénomènes permettant l'établissement d'un GCP (Gradient de concentration CorticoPapillaire) dans l'anse de Henlé",
+                                        "Absorption d'eau dans la BDF et de Na<sup>+</sup>&nbsp;dans la BAL + 3 phénomènes<br><ul><li>Phénomène de multiplication à contre-courant grâce à la configuration en épingle à cheveux&nbsp;&nbsp;(1/3)<br></li><li>Réabsorption d'urée par le canal collecteur médullaire&nbsp;avec recirculation (2/3)<br></li><li>- Shunt H2O et Na vasculaire vasa recta (nécessaire)<br></li></ul>"
+                                    ],
+                                    "guid": "H;.y}BBREs",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Concentration maximale dans la médullaire",
+                                        "1200 mOsmol/L"
+                                    ],
+                                    "guid": "oM}eh&TXSJ",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effet du&nbsp;furosemide sur le GCP",
+                                        "Molécule permettant la dissipation du GCP"
+                                    ],
+                                    "guid": "r>R&s~x0aD",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "À la fin de la BAL, l'osmolarité est&nbsp;",
+                                        "Approximativement revenue à la valeur plasmatique"
+                                    ],
+                                    "guid": "vbC8+QbTkm",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Réabsorption hydrique dans le TCD",
+                                        "Aucune ⇒&nbsp;osmolarité urinaire devient inférieure à&nbsp;osmolarité plasmatique"
+                                    ],
+                                    "guid": "nM0HOUX&)x",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Osmolalité de l'urine délivrée au canal collecteur",
+                                        "60 mOsmol/L"
+                                    ],
+                                    "guid": "J,p9D*[o>b",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effet des&nbsp;diurétiques thiazidiques sur l'osmolarité et où",
+                                        "Molécule augmentant l'osmolarité des urines arrivant au tube collecteur"
+                                    ],
+                                    "guid": "jRT-;EHZx.",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ff9ece8cbdf14c6587fd352129537df7-ao-1",
+                                        "",
+                                        "<img src=\"tmpiio0b0cx.png\" />",
+                                        "<img src=\"ff9ece8cbdf14c6587fd352129537df7-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"ff9ece8cbdf14c6587fd352129537df7-ao-1-A.svg\" />",
+                                        "<img src=\"ff9ece8cbdf14c6587fd352129537df7-ao-O.svg\" />"
+                                    ],
+                                    "guid": "AM+HSV&E;i",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ff9ece8cbdf14c6587fd352129537df7-ao-2",
+                                        "",
+                                        "<img src=\"tmpiio0b0cx.png\" />",
+                                        "<img src=\"ff9ece8cbdf14c6587fd352129537df7-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"ff9ece8cbdf14c6587fd352129537df7-ao-2-A.svg\" />",
+                                        "<img src=\"ff9ece8cbdf14c6587fd352129537df7-ao-O.svg\" />"
+                                    ],
+                                    "guid": "}pPJX|6]R",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Deux conditions sont nécessaires et suffisantes pour qu'il y ait réabsorption d'eau dans le canal collecteur",
+                                        "<ul><li>Différence de pression osmotique entre la lumière tubulaire et l'interstitium (force motrice). Ce gradient osmotique augmente avec le GCP</li><li>Épithélium perméable<br></li></ul>"
+                                    ],
+                                    "guid": "Q#pXB#%&r{",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La&nbsp; régulation hormonale de l'absorption d'eau par le canal collecteur par l'ADH passe par {{c1::des modifications de perméabilité épithéliale.}}",
+                                        ""
+                                    ],
+                                    "guid": "b0HI=xZj+:",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ADH :&nbsp;<br><ul><li>Longueur : {{c1::9 aa}}</li><li>Synthétisée par {{c1::les neurones magnocellulaires des noyaux supra optique et paraventriculaire (hypothalamus)}}<br></li><li>Transporté {{c1::le long des axones}} et stockés dans {{c1::la post hypophyse (granules de sécrétion)}}<br></li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "m`tQ]E+&=E",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Action de l'ADH",
+                                        "<ul><li>Récepteurs membranaires (V2) basolatéraux du canal collecteur</li><li>Augmente la production d'AQP 2 (membrane apicale)</li><li>Pas d'action sur les AQP 3 et 4</li></ul>"
+                                    ],
+                                    "guid": "mm/`h#.(Ww",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Différentes sécrétions d'ADH et conséquences",
+                                        "<ul><li>Nulle ⇒&nbsp;osmolarité urinaire = 60 mOsmol/L min</li><li>Maximale ⇒&nbsp;osmolarité urinaire =&nbsp;1200 mosmol/L max</li><li>Intermédiaire ⇒ Entre les deux</li></ul>"
+                                    ],
+                                    "guid": "l&W,RJs#iL",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le pouvoir maximal de dilution est obtenu grâce à ? et à combien ?",
+                                        "TCD ⇒ 60 mOsmol/L"
+                                    ],
+                                    "guid": "j6H.;N5D1?",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le pouvoir maximal de concentration est obtenu grâce à ? et à combien ? Et si pas de GCP ?",
+                                        "Anse de Henlé ⇒&nbsp;1200 mosmol/L<br>Si pas de GCP ⇒&nbsp;300 mOsmol/L"
+                                    ],
+                                    "guid": "g0sC5duS^W",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sensors modulant la production d'ADH",
+                                        "<ul><li>osmorécepteurs centraux</li><li>osmorécepteurs périphériques<br></li></ul>"
+                                    ],
+                                    "guid": "LK~R!drk>/",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Types d'osmorécepteurs centraux",
+                                        "<ul><li>OVLT +++ (Organe vasculaire de&nbsp; la&nbsp; lame Terminale)<br></li><li>SFO (Organe Sub Fornical)<br></li></ul>"
+                                    ],
+                                    "guid": "x<jDc:=v7.",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Physiologie de la sécrétion d'ADH par les&nbsp;osmorécepteurs centraux (c'est long)",
+                                        "<ul><li>Neurones spécialisés au contact du plasma (absence de barrière hémato-encéphalique) ⇒ toute modification d'osmolarité change leur volume</li><li>Variations de VIC ⇒ Modification de l'activité de canaux ioniques&nbsp;TRPV1&nbsp;</li><ul><li>hyperosomolarité ⇒ Augmente la fréquence de PA<br></li><li>hypo-osomolarité ⇒ Diminue la fréquence de PA<br></li></ul><li>Activation ou inhibition de la sécrétion d'ADH par les neurones magnocellulaires des noyaux Paraventriculaire (PV) et Supra Optique (SO)</li></ul>"
+                                    ],
+                                    "guid": "Q%:1`3D2qM",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Localisation des&nbsp;osmorécepteurs périphériques",
+                                        "Paroi pharyngée et veine porte"
+                                    ],
+                                    "guid": "yb4Jml[b+&",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Fonction des&nbsp;osmorécepteurs périphériques",
+                                        "Permettent&nbsp;l'anticipation de la correction de l'hyperosmolarité :<br><ul><li>Situés&nbsp;sur le trajet de l'entrée d'eau</li><li>Freinent la sécrétion d'ADH avant la correction de l'osmolarité</li></ul>"
+                                    ],
+                                    "guid": "i8+7mMFm)S",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Trajet de la réponss des osmorécepteurs périphériques",
+                                        "Via le noyau du tractus solitaire qui contrôle l'activité des noyaux SO et PV"
+                                    ],
+                                    "guid": "ESSEi&9b.7",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Modulateurs de l'ADH extérieurs à la régulation hydrique",
+                                        "<ul><li>Barorécepteurs à basse pression (oreillette droite) ⇒ Nerf vague X ⇒ Noyau du tractus solitaire ⇒ SO et PV<br></li><li>Angiotensine 2 ⇒ Active l'organe subfornical (SFO) et secondairement la synthèse d'ADH<br></li></ul>"
+                                    ],
+                                    "guid": "v8viS%iX?a",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le lien entre osmolarité et synthèse d'ADH est {{c1::linéaire}}",
+                                        ""
+                                    ],
+                                    "guid": "Oxpfpt.:CE",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le lien entre hypovolémie et synthèse d'ADH est&nbsp;{{c1::exponentielle}}",
+                                        ""
+                                    ],
+                                    "guid": "CWBXVCA9q_",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "En dessous de {{c1::290}} mosmolL, la sécrétion d'ADH est presque nulle",
+                                        ""
+                                    ],
+                                    "guid": "z,Lh5bw)Qr",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Au-delà de {{c1::10}}% de baisse du VEC, le stimulus {{c1::volémique}} dépasse le stimulus {{c1::osmotique}}",
+                                        ""
+                                    ],
+                                    "guid": "G}(.U}bKpk",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Exemple de conséquence physiopathologique de l'interférence de la volémie sur la boucle de régulation homéostatique de l'eau",
+                                        "L'hypovolémie (DEC entre autres) peut être une cause de bilan hydrique positif (HIC)"
+                                    ],
+                                    "guid": "E3xRkdKViw",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La modulation de l'homéostasie hydrique par la soif est plus efficace en situation d'{{c1::hyperosmolarité}} qu'en situation d'{{c1::hypo-osmolarité}}",
+                                        ""
+                                    ],
+                                    "guid": "s<js0.3*3Q",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "0b5b105e1f1e4c32b3286fffeee502c2-ao-1",
+                                        "",
+                                        "<img src=\"tmp57cdux9e.png\" />",
+                                        "<img src=\"0b5b105e1f1e4c32b3286fffeee502c2-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"0b5b105e1f1e4c32b3286fffeee502c2-ao-1-A.svg\" />",
+                                        "<img src=\"0b5b105e1f1e4c32b3286fffeee502c2-ao-O.svg\" />"
+                                    ],
+                                    "guid": "xN`zY[:wm^",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "3149bd22e47946b49789d347d310de0b-ao-1",
+                                        "",
+                                        "<img src=\"tmpf1_8_p5v.png\" />",
+                                        "<img src=\"3149bd22e47946b49789d347d310de0b-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"3149bd22e47946b49789d347d310de0b-ao-1-A.svg\" />",
+                                        "<img src=\"3149bd22e47946b49789d347d310de0b-ao-O.svg\" />"
+                                    ],
+                                    "guid": "J|B:zP.ht`",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "1e7d92e4-472b-11ec-a7b2-600308aa3fd6",
                             "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
                             "desc": "",
@@ -35471,7 +36104,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "L'excrétion urinaire de créatinine (UV) dépend@",
+                                        "L'excrétion urinaire de créatinine (UV) dépend",
                                         "Uniquement de la masse musculaire de l'individu et pas de la fonction rénale"
                                     ],
                                     "guid": "lzZ[V9jBl1",
@@ -35718,7 +36351,7 @@
                                         "La concentration urinaire de créatinine va être environ multipliée par deux",
                                         "1 0 1 0 0",
                                         "",
-                                        "2 :&nbsp;masse musculaire inchangée<br>3 :&nbsp;Adaptation par augmentation<br>4 :&nbsp;Na+ plutôt<br>5 : La diurèse plutôt"
+                                        ""
                                     ],
                                     "guid": "E[|R&D$`5,",
                                     "note_model_uuid": "c6aee922-49f1-11ec-b5de-600308aa3fd6",
@@ -35990,6 +36623,380 @@
                                         "<ul><li>Variable régulée</li><li>Sensor</li><li>Système hormonal ou neuro-hormonal</li><li>Effecteur rénal</li></ul>"
                                     ],
                                     "guid": "CL3aW4{z7#",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "bc4cc2fe-4aed-11ec-b5de-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Troubles hydro-électriques",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Répartition de l'eau dans le corps",
+                                        "<ul><li>⅔ intra-Ȼ</li><li>⅓ extra-Ȼ</li><ul><li>¼ plasma</li><li>¾ interstitielle</li></ul></ul>"
+                                    ],
+                                    "guid": "KnNj|Z$FUX",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Origines du trouble&nbsp;hydro-électrolytique",
+                                        "<ul><li>Origine extra-rénale : fonctions homéostatiques conservées mais l'importance du trouble dépasse les capacités rénales<br></li><li>Origine rénale :&nbsp;fonctions homéostatiques altérées</li></ul>"
+                                    ],
+                                    "guid": "uJdD-{%k:m",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Exemples de troubles d'origine extra-rénale",
+                                        "<ul><li>Surcharge exogène en NaCl ou en H<sub>2</sub>0 dépassant les capacités d'élimination rénale ⇒ Hyperhydratation</li><li>Pertes extra-rénales (digestives, respiratoires, cutanées) ⇒ Déshydratation</li></ul>"
+                                    ],
+                                    "guid": "G>iMGf81[j",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Première évaluation de l'origine de troubles de l'hydratation",
+                                        "On cherche à savoir si c'est rénal ou extra-rénal :<br><ul><li>Trouble extra ou Intra-cellulaire ?</li><ul><li>Extracellulaires = on regarde la qtté urinaire de Na/24heures<br></li><li>Intracellulaires = on regarde l'osmolarité urinaire<br></li></ul><li>Paramètre urinaire adapté au trouble ?</li><ul><li>Non ⇒ Rénal<br></li><li>Oui ⇒ Extra-Rénal<br></li></ul></ul>"
+                                    ],
+                                    "guid": "l^}^lWNs-",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Déshydratation extracellulaire (DEC) - Conséquence de ?&nbsp;",
+                                        "Diminution de la quantité totale de Na dans l'organisme - Conséquence ?"
+                                    ],
+                                    "guid": "OwL7k[fCW~",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Une diminution de la quantité&nbsp;totale de Na dans l'organisme s'accompagne",
+                                        "D'une perte d'eau dans des proportions iso-osmotiques (1L pour 140mmmol) ⇒ Trouble uniquement extra-cellulaire"
+                                    ],
+                                    "guid": "Jk`5GNZ~Qu",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Signes cliniques de DEC",
+                                        "<ul><li>Perte de poids (Sur qq heures = obligatoirement hydrique)<br></li><li>Pli cutané (↓ volume interstitiel), sauf personnes âgées (perte d'élasticité)<br></li><li>PAS &lt; 100mmHg, tachycardie</li><li>Hypotension orthostatique +++ (↓&nbsp;PAS &gt;20mmHg, malaise au lever, vertiges)<br></li><li>Crampes (nocturnes) ++</li><li>Soif + natrémie normale ++</li><li>Oligurie (diurèse &lt; 500cc/24H)</li></ul>⇒ Signe de ?<br>"
+                                    ],
+                                    "guid": "y1Z8bzt>[p",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Signes biologiques de DEC",
+                                        "<ul><li>Syndrome d'hémoconcentration<br></li><li>Hyperaldostéronisme secondaire<br></li><li>Insuffisance rénale fonctionnelle</li></ul>⇒ Signe de ?<br>"
+                                    ],
+                                    "guid": "I)&xD6H7@w",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Syndrome d'hémoconcentration en cas de DEC",
+                                        "<ul><li>Hyperprotidémie<br></li><li>Hyperuricémie +++ (car réabsorption d'acide urique)<br></li><li>Élévation de l'hématocrite (&gt;50%)<br></li><li>Élévation de l'Hb (&gt;16g/dL)<br></li></ul>"
+                                    ],
+                                    "guid": "q0@zh{+WyN",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyperaldostéronisme secondaire en cas de DES ⇒ Signes",
+                                        "Pas dosé en pratique en clinique ⇒<br><ul><li>Alcalose métabolique ([HCO<sub>3</sub><sup>-</sup>] &gt; 28mM) car ↑ sécrétion H<sup>+</sup> et réabsorption HCO<sub>3</sub><sup>-</sup><br></li><li>Rapport Na/K urinaire &lt; 1 (antinatriurèse) car réabsorption Na+/K+ conjointe (ENaC et ROMK)<br></li></ul>"
+                                    ],
+                                    "guid": "jUjx`-nid:",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Cause de DES sans Hyperaldostéronisme secondaire",
+                                        "Insuffisance surrénalienne où la cause de DES est l'hypo-aldostéronisme"
+                                    ],
+                                    "guid": "JSi%{x4#qB",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Insuffisance rénale fonctionnelle en cas de DES - Pourquoi ?",
+                                        "Conséquence de la baisse de perfusion rénale sur le Débit de Filtration Glomérulaire, non totalement compensée par l'autorégulation"
+                                    ],
+                                    "guid": "C:Rygm}wNp",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Insuffisance rénale fonctionnelle en cas de DES - Signes",
+                                        "<ul><li>Augmentation de la créatinine plasmatique (&gt;100μM)</li><li>Augmentation de l'Urée plasmatique (&gt;8.5 mM)<br></li></ul>"
+                                    ],
+                                    "guid": "lV/xcPxrOf",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Insuffisance rénale fonctionnelle en cas de DES - Caractéristiques",
+                                        "<ul><li>Urée plasmatique est particulièrement élevée ⇒&nbsp;Urée<sub>P</sub> / Créat<sub>P</sub> &gt;100</li><li>Réversible</li><li>Pas d'anomalie du sédiment urinaire ni protéinurie<br></li></ul>"
+                                    ],
+                                    "guid": "Fc0a#$A//B",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Etiologie des DES - Etapes",
+                                        "D'abord, réponse rénale au trouble ⇒&nbsp;évaluation de la natriurèse des 24H<br><ul><li>Na<sub>U</sub> &lt; 10-15mmol/j ⇒ Réponse rénale adaptée ⇒ origine extra-rénale<br></li><ul><li>Pertes digestives (diarrhées, vomissements) ou cutanées (brûlures, fièvre, sudation,...) ⇒ En fonction du contexte clinique et signes associés<br></li></ul><li>Na<sub>U</sub>&nbsp;&lt; 10-15mmol/j ⇒ Réponse rénale inadaptée ⇒ origine rénale<br></li><ul><li>Anomalie tubulaire rénale<br></li><li>Déficit hormonal dans les systèmes antinatiurétiques<br></li></ul></ul>"
+                                    ],
+                                    "guid": "fQaegu^1kj",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Causes de DES liées à une anomalie tubulaire rénale",
+                                        "<ul><li>Tubulopathie par perte de NaCI d'origine génétique</li><li>prise de diurétique (ex: prise de furosemide ou d'hydrochlorothiazide)</li><li>Diurèse osmotique au cours du diabète<br></li></ul>"
+                                    ],
+                                    "guid": "rDp#exf$HK",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Causes de DES liées à un déficit hormonal dans les systèmes antinatiurétique - Signes",
+                                        "<ul><li>Aldostéronémie basse et non d'hyperaldostéronisme secondaire</li><li>Acidose hyperkaliémique&nbsp;et non&nbsp;alcalose hypokaliémique<br></li></ul>"
+                                    ],
+                                    "guid": "fzf>1z-q>j",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Causes de DES liées à un déficit hormonal dans les&nbsp;systèmes antinatiurétique",
+                                        "Insuffisance minéralocorticoïde au cours de l'insuffisance surrénalienne"
+                                    ],
+                                    "guid": "ffF!uOL]:[",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyperhydratation extracellulaire (HEC) - Conséquence de ?&nbsp;",
+                                        "Augmentation de la quantité totale de Na dans l'organisme ⇒ Conséquence ?"
+                                    ],
+                                    "guid": "c(ez)93eHy",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Signes cliniques d'HEC",
+                                        "<ul><li>Prise de poids (Sur qq heures = obligatoirement hydrique)<br></li><li>Œdèmes (augmentation du volume interstitiel du plus de 10%) avec les caractéristiques :<br></li><ul><li>Déclives&nbsp;</li><li>Blancs&nbsp;</li><li>Mous</li><li>Prenant le godet<br></li></ul><li>Hypertension artérielle (mais inconstant)<br></li></ul>⇒ Signe de ?"
+                                    ],
+                                    "guid": "ex&.GW3SHE",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Signes biologiques d'HEC",
+                                        "Peu, même indirects"
+                                    ],
+                                    "guid": "e59>j%IM0Y",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "HEC - Démarche diagnostique",
+                                        "En fonction de l'état du SRAA<br><ul><li>Rénine -- et aldostérone ++ ⇒&nbsp;Hyperaldostérnonisme primaire<br></li><li>Rénine ++ et&nbsp;aldostérone ++ ⇒&nbsp;Hyperaldostérnonisme secondaire<br></li><li>Rénine -- et&nbsp;aldostérone -- ⇒&nbsp;&nbsp; Pseudo hyperaldostéronisme<br></li></ul>"
+                                    ],
+                                    "guid": "h}{?%[ixpr",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La majorité des&nbsp;causes d'HEC sont en rapport avec {{c1::un hyperaldostéronisme ⇒ participation rénale}}",
+                                        ""
+                                    ],
+                                    "guid": "qM8|9E{8@z",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Pseudo hyperaldostéronisme en cas de HEC - Origine",
+                                        "Présence d'une substance mimant l'effet de l'aldostérone<br><ul><li>le plus souvent de type glucocorticoïde (syndrome de Cushing ou prise de stéroïdes)</li><li>plus rarement de cause génétique.</li></ul>"
+                                    ],
+                                    "guid": "cWd2RwVBVa",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyperaldostéronisme primaire",
+                                        "Trouble en rapport avec une production autonomisée d'aldostérone par la surrénale"
+                                    ],
+                                    "guid": "m2%T_Fg6>_",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyperaldostéronisme primaire dans une HEC - Origines",
+                                        "<ul><li>Tumeur adénomateuse de la corticosurrénale (adénome de Conn) +++<br></li><li>Hyperplasie (+ rare)<br></li><li>Forme génétique (+ rare)<br></li></ul>"
+                                    ],
+                                    "guid": "cs5+<ER`%(",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyperaldostéronisme primaire dans une HEC - Signes spécifiques",
+                                        "<ul><li>Alcalose hypokahémique (effet de l'aldostérone)</li><li>Pas d'oedèmes</li></ul>"
+                                    ],
+                                    "guid": "n5bH-l?5|}",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyperaldostéronisme secondaire",
+                                        "Synthèse de rénine activée du fait d'une hypovolémie dite efficace"
+                                    ],
+                                    "guid": "lF-<lWWq1>",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyperaldostéronisme secondaire encas d'HEC - Causes",
+                                        "<ul><li>Insuffisance cardiaque congestive : PA basse et PV élevée ⇒ dfaut de perfusion rénale<br></li><li>Cirrhose hépatique :&nbsp;hypoalbuminémie ⇒ ↑ le transfert d'eau entre le plasma et l'interstitium + vasoconstriction rénale<br></li><li>Syndrome néphrotique :&nbsp;hypoalbuminémie par perte rénale ⇒ ↑ le&nbsp;transfert d'eau entre le plasma et l'interstitium<br></li></ul>"
+                                    ],
+                                    "guid": "c1As:$|?xe",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Tableau clinico-pathologique des HEC par insuffisance cardiaque ou cirrhose",
+                                        "Particulier (partage des signes de HEC et de DEC)<br><ul><li>œdèmes +++&nbsp;<br></li></ul>MAIS à cause de l'hypoperfusion rénale et de la baisse de la PA<br><ul><li>PA nromale ou basse</li><li>Oligurie</li><li>Antinatriurèse<br></li><li>Insuffisance rénale fonctionnelle.<br></li></ul>"
+                                    ],
+                                    "guid": "mC((1f1{jL",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"

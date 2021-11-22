@@ -2,10 +2,12 @@
  <!-- Created with Image Occlusion Enhanced -->
  <g>
   <title>Labels</title>
+  <text id="svg_1" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="34.94532" x="223.42969" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">d'eau</text>
+  <text id="svg_3" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="219.76675" x="215.39398" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">d'eau</text>
  </g>
- <g>
+ <g display="inline">
   <title>Masks</title>
-  <rect id="f94690853319473f9bd36d9baafc8a8f-ao-1" height="147.32143" width="268.75001" y="45.2143" x="15.96428" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="f94690853319473f9bd36d9baafc8a8f-ao-2" height="233.92858" width="270.53572" y="228.25002" x="15.96428" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="15.96428" y="45.2143" width="268.75001" height="147.32143" id="f94690853319473f9bd36d9baafc8a8f-ao-1"/>
+  <rect fill="#FF7E7E" stroke="#2D2D2D" x="15.96428" y="228.25002" width="270.53572" height="233.92858" id="f94690853319473f9bd36d9baafc8a8f-ao-2" class="qshape"/>
  </g>
 </svg>

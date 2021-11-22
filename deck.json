@@ -2460,7 +2460,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Stade de développement alvéolaire&nbsp;- Formations macroscopiques",
-                                "Développement des alvéoles ⇒ 30% à la naissance, 70% après ⇒ Quel stade ?"
+                                "Développement des alvéoles ⇒ Quel stade ?"
                             ],
                             "guid": "u5,`.P06zA",
                             "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -2710,6 +2710,18 @@
                             "guid": "z,[`f$.<k&",
                             "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Développement des alvéoles : {{c1::30}}% à la naissance, {{c1::70}}% après",
+                                ""
+                            ],
+                            "guid": "bNTSPC}]gA",
+                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                            "tags": [
+                                "todo"
+                            ]
                         }
                     ]
                 },
@@ -9169,6 +9181,611 @@
                                     "tags": []
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c3e9be40-4bc4-11ec-b5de-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "019d3b308f3349b8a7acdda6eaa7f2c3-ao-1-A.svg",
+                                "019d3b308f3349b8a7acdda6eaa7f2c3-ao-1-Q.svg",
+                                "019d3b308f3349b8a7acdda6eaa7f2c3-ao-O.svg",
+                                "04860eec13c54f8996346c2cf626088a-ao-1-A.svg",
+                                "04860eec13c54f8996346c2cf626088a-ao-1-Q.svg",
+                                "04860eec13c54f8996346c2cf626088a-ao-O.svg",
+                                "5657ba3e88334afb949cc5dfbcee7509-oa-1-A.svg",
+                                "5657ba3e88334afb949cc5dfbcee7509-oa-1-Q.svg",
+                                "5657ba3e88334afb949cc5dfbcee7509-oa-O.svg",
+                                "6c3cf829fcde4ea6b31ceedc2bff4115-ao-1-A.svg",
+                                "6c3cf829fcde4ea6b31ceedc2bff4115-ao-1-Q.svg",
+                                "6c3cf829fcde4ea6b31ceedc2bff4115-ao-O.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-1-A.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-1-Q.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-2-A.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-2-Q.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-3-A.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-3-Q.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-4-A.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-4-Q.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-5-A.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-5-Q.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-6-A.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-6-Q.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-7-A.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-7-Q.svg",
+                                "812b00246a224b5a92b9dce9abead2c6-ao-O.svg",
+                                "865fc5d5b7ae43f8bf995bdbc94a1b66-ao-1-A.svg",
+                                "865fc5d5b7ae43f8bf995bdbc94a1b66-ao-1-Q.svg",
+                                "865fc5d5b7ae43f8bf995bdbc94a1b66-ao-O.svg",
+                                "paste-58b369f50a255b624a920cd9acec947d3e47aae1.png",
+                                "paste-6581b9059b50ff373b00c41e2edc15e89353bee1.png",
+                                "tmp6yesaa3p.png",
+                                "tmp8dayuwln.png",
+                                "tmpdp56vaqy.png",
+                                "tmped3r4x5l.png",
+                                "tmpjy7vb5t0.png",
+                                "tmplrmdxwtn.png"
+                            ],
+                            "name": "Régulation de la PA",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Différence entre Pression artérielle et Tension artérielle",
+                                        "<ul><li>Tension en mmHg/cm<sup>2</sup>, pression en&nbsp;mmHg</li><li>Tension en tangentiel, pression en orthogonal</li></ul><img src=\"paste-6581b9059b50ff373b00c41e2edc15e89353bee1.png\"><br>"
+                                    ],
+                                    "guid": "EzO]%GFp8x",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Formule reliant la tension et la pression artérielle",
+                                        "Loi de Laplace, faisant intervenir le rayon vasculaire"
+                                    ],
+                                    "guid": "fu}AZ^)UrY",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Variations physiologiques de la PA - Préciser l'amplitude, la fréquence et l'origine",
+                                        "<ul><li>Variations de premier ordre :&nbsp;</li><ul><li>pression systolique / pression diastolique</li><li>durée du cycle cardiaque<br></li><li>cycle cardiaque</li></ul><li>Variations de second ordre :<br></li><ul><li>+/-4 à 6 mmHg</li><li>fréquence respiratoire (4/5 secondes)<br></li><li>Inspiration et expiration</li></ul><li>Variations de troisième ordre<br></li><ul><li>+/- 10 mmHg<br></li><li>10 à 20 sec<br></li><li>Variations de tonus sympathique lié au baroréflexe<br></li></ul></ul>"
+                                    ],
+                                    "guid": "L~]I^INz58",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Autre nom des variations de PA de troisième ordre",
+                                        "Autre nom des oscillations de Mayer"
+                                    ],
+                                    "guid": "tZ(4-h*;E;",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les pressions artérielles nocturnes {{c1::s’abaissent::s’abaissent/s'élèvent}} de {{c1::10}} à {{c1::20}}% par rapport aux pressions diurnes",
+                                        ""
+                                    ],
+                                    "guid": "ft3`h*=WCC",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Facteurs faisant varier la PA de manière physiologique<br><ul><li>Saison/T° : PA {{c1::↑}} l’hiver ⇒&nbsp;{{c1::5/10}} mmHg</li><li>Âge : {{c1::PAS ↑}} avec l'âge par {{c1::diminution de la compliance artérielle}}</li><li>Grossesse : PA {{c1::↓}} à cause {{c1::du placenta (organe à faible résistance hémodynamique)}}<br></li><li>Cycle nycthéméral : {{c1::succession entre états de veille et sommeil}} ({{c1::20/40}} mmHg)</li><li>État de repos ou d’exercice physique car {{c1::QC ↑}}<br></li><li>Orthostatisme : {{c1::Après une baisse initiale, PA et Qc rétablis par la veino-constriction}}<br></li><li>Émotion<br></li><li>...</li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "oaZGk&2jBk",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Fonctions d’entrée au système à haute pression et dépendances",
+                                        "<ul><li>PAM, dépendant de</li><ul><li>Activité contractile du ventricule gauche ⇒ PAS<br></li><li>Propriétés viscoélastiques de la paroi artérielle ⇒ PAD<br></li></ul><li>Qc, dépendant de</li><ul><li>FC</li><li>VES</li></ul></ul>"
+                                    ],
+                                    "guid": "M/bvfcDzz~",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Relation entre PAM, Qc et RST",
+                                        "PAM = Qc x RST"
+                                    ],
+                                    "guid": "NHWGd$I~<`",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "\"Grandeurs réglées\" et \"Grandeurs réglantes\"",
+                                        "<ul><li>\"Grandeurs réglées\" : PAM, Qc</li><li>\"Grandeurs réglantes\" : FC,&nbsp;VES (via l'activité du coeur), RST (via les résistances locales)<br></li></ul>"
+                                    ],
+                                    "guid": "w]ZT6p(;/1",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Action du SΣ sur les grandeurs réglantes",
+                                        "<ul><li>↑ Fc (tachycardie)</li><li>↑ Rh locales donc RST</li><li>↑ VES</li></ul>"
+                                    ],
+                                    "guid": "r)zO-:{wPJ",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Action du SpΣ sur les grandeurs réglantes",
+                                        "<ul><li>↓ Fc (bradycardie)<br></li><li>↓ VES<br></li></ul>"
+                                    ],
+                                    "guid": "voe5{)([bH",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Relation entre les Rhh et la RST - Nom et formule",
+                                        "Loi de Poiseuille&nbsp;<br><br><img src=\"paste-58b369f50a255b624a920cd9acec947d3e47aae1.png\">"
+                                    ],
+                                    "guid": "yOW>62dX+L",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "PA est proportionnelle à",
+                                        "<ul><li>Qc (donc VES et Fc)</li><li>RST (donc à l'inverse de r<sup>4</sup>)</li><li>Volémie</li></ul>"
+                                    ],
+                                    "guid": "s-#PuqAqZR",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Grandes catégories de régulation de la PA et délai",
+                                        "<ul><li>Baroréflexe (qq secondes)</li><li>Régulation hormonales (qq minutes à plusieurs heures)</li></ul>"
+                                    ],
+                                    "guid": "hiK].zG!0d",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "812b00246a224b5a92b9dce9abead2c6-ao-1",
+                                        "",
+                                        "<img src=\"tmpjy7vb5t0.png\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-1-A.svg\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-O.svg\" />"
+                                    ],
+                                    "guid": "qBAac^&0fh",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "812b00246a224b5a92b9dce9abead2c6-ao-2",
+                                        "",
+                                        "<img src=\"tmpjy7vb5t0.png\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-2-A.svg\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-O.svg\" />"
+                                    ],
+                                    "guid": "LF1{8/_Q|=",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "812b00246a224b5a92b9dce9abead2c6-ao-3",
+                                        "",
+                                        "<img src=\"tmpjy7vb5t0.png\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-3-A.svg\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-O.svg\" />"
+                                    ],
+                                    "guid": "JR6a02#Z^`",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "812b00246a224b5a92b9dce9abead2c6-ao-4",
+                                        "",
+                                        "<img src=\"tmpjy7vb5t0.png\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-4-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-4-A.svg\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-O.svg\" />"
+                                    ],
+                                    "guid": "GQ46[H%IPH",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "812b00246a224b5a92b9dce9abead2c6-ao-5",
+                                        "",
+                                        "<img src=\"tmpjy7vb5t0.png\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-5-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-5-A.svg\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-O.svg\" />"
+                                    ],
+                                    "guid": "wy;=74/7C.",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "865fc5d5b7ae43f8bf995bdbc94a1b66-ao-1",
+                                        "",
+                                        "<img src=\"tmp8dayuwln.png\" />",
+                                        "<img src=\"865fc5d5b7ae43f8bf995bdbc94a1b66-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"865fc5d5b7ae43f8bf995bdbc94a1b66-ao-1-A.svg\" />",
+                                        "<img src=\"865fc5d5b7ae43f8bf995bdbc94a1b66-ao-O.svg\" />"
+                                    ],
+                                    "guid": "n$*s*N9JTu",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Circuit&nbsp;de la régulation nerveuse de la pression artérielle<br><ul><li>Sensors :&nbsp;{{c1::Barorécepteurs&nbsp;sur la crosse Ao, près du point hydrostatique indifférent, et&nbsp;sur les bifurcations carotidiennes::localisation ?}}</li><li>Voie afférente : {{c1::nerf X pour baro Ao}} et&nbsp;{{c1::IX pour bifrcations caro}}</li><li>Centres bulbaires :&nbsp;{{c1::Noyaux du tractus solitaire homo et controlatéraux}}<br></li><li>Voies efférentes initiales :&nbsp;<br></li><ul><li>pΣ :&nbsp;{{c1::vers le noyau dorsal du vague}}</li><li>Σ :&nbsp;{{c1::vers un inter-neurone puis relai vers la formation réticulée bulbo-protubérantielle}}<br></li></ul><li>Voies efférentes terminales - à détailler plus loin</li><li>Organes effecteurs :&nbsp;{{c1::Cœur}} (surtout {{c1::pΣ}}),&nbsp;{{c1::Vaisseaux}} (surtout {{c1::Σ}}),&nbsp;{{c1::Médullo-surrénales}}</li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "D6VelY6<2t",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Voie efférentes terminales parasympathique",
+                                        "<ul><li>À partir du noyau dorsal<br></li><li>X</li><li>Plexus cardiaque sous aortique</li><li>Neurones post-ganglionnaires<br></li><li>Organes effecteurs</li><ul><li>cœur (tissu nodal), coronaires, cerveau,</li><li>tissus génitaux érectiles, glandes sudoripares<br></li><li>tractus digestifs<br></li></ul></ul>"
+                                    ],
+                                    "guid": "q2_,r*pmGC",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Voie efférentes terminales sympathique",
+                                        "<ul><li>À partir de la formation réticulée<br></li><li>Faisceau bulbo-spinal vers<br></li><li>Centres sympathiques entre C7 et T2<br></li><li>Neurones pré-ganglionnaires vers<br></li><ul><li>Ganglions sympathiques</li><ul><li>Neurones postganglionnaires vers<br></li><li>Cœur, artères et artérioles +++<br></li></ul><li>Médullosurrénale</li><ul><li>La médullosurrénale fait effet de neurones postganglionnaires</li><li>⇒ libération de neurotransmetteurs dans le sang</li></ul></ul></ul>"
+                                    ],
+                                    "guid": "mqX~L5`N*8",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Régulation hormonale de la PA (sécrétion et conséquence)",
+                                        "<ul><li>SRAA :</li><ul><li>Rénine permet Angiotensine 2</li><li>Angiotensine 2 permet<br></li><ul><li>Puissant&nbsp;vasoconstricteur</li><li>aldostérone ⇒ réabsorption de Na<sup>+</sup><br></li></ul></ul><li>ADH :&nbsp;<br></li><ul><li>Produit par l'hypothalamus, sécrété par l'hypophyse</li><li>Réabsorption hydrique</li></ul><li>FAN :&nbsp;</li><ul><li>Oreillette droite</li><li>Vasodilatation et excrétion de Na<sup>+</sup></li></ul></ul>"
+                                    ],
+                                    "guid": "PO*[TKw>gi",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "5657ba3e88334afb949cc5dfbcee7509-oa-1",
+                                        "",
+                                        "<img src=\"tmped3r4x5l.png\" />",
+                                        "<img src=\"5657ba3e88334afb949cc5dfbcee7509-oa-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"5657ba3e88334afb949cc5dfbcee7509-oa-1-A.svg\" />",
+                                        "<img src=\"5657ba3e88334afb949cc5dfbcee7509-oa-O.svg\" />"
+                                    ],
+                                    "guid": "nFdFe]k5jz",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "04860eec13c54f8996346c2cf626088a-ao-1",
+                                        "",
+                                        "<img src=\"tmp6yesaa3p.png\" />",
+                                        "<img src=\"04860eec13c54f8996346c2cf626088a-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"04860eec13c54f8996346c2cf626088a-ao-1-A.svg\" />",
+                                        "<img src=\"04860eec13c54f8996346c2cf626088a-ao-O.svg\" />"
+                                    ],
+                                    "guid": "OS:HN=tyw6",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "6c3cf829fcde4ea6b31ceedc2bff4115-ao-1",
+                                        "",
+                                        "<img src=\"tmpdp56vaqy.png\">",
+                                        "<img src=\"6c3cf829fcde4ea6b31ceedc2bff4115-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"6c3cf829fcde4ea6b31ceedc2bff4115-ao-1-A.svg\" />",
+                                        "<img src=\"6c3cf829fcde4ea6b31ceedc2bff4115-ao-O.svg\" />"
+                                    ],
+                                    "guid": "Hnoh]BWB1+",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effet des&nbsp;noradrénalines sur les différents récepteurs (pour la fonction cardiaque)",
+                                        "<ul><li>α1 : vasoconstricteurs</li><li>β1 :&nbsp;cardio-stimulants</li><li>β2 : vasodilatateurs (et bronchodilatateurs)</li></ul>"
+                                    ],
+                                    "guid": "q:G(}Dxfmq",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le système nerveux autonome règle la PA via :",
+                                        "<ul><li>Fc</li><li>Inotropisme ⇒ VES<br></li><li>Diamètre artériolaire ⇒ RST</li></ul>"
+                                    ],
+                                    "guid": "C`p!%T:QM2",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "812b00246a224b5a92b9dce9abead2c6-ao-6",
+                                        "",
+                                        "<img src=\"tmpjy7vb5t0.png\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-6-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-6-A.svg\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-O.svg\" />"
+                                    ],
+                                    "guid": "l_Uym{r-{r",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "812b00246a224b5a92b9dce9abead2c6-ao-7",
+                                        "",
+                                        "<img src=\"tmpjy7vb5t0.png\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-7-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-7-A.svg\" />",
+                                        "<img src=\"812b00246a224b5a92b9dce9abead2c6-ao-O.svg\" />"
+                                    ],
+                                    "guid": "FkjX&au]r|",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Neurotransmetteurs entre centres sympathiques et médullosurrénale",
+                                        "Acétylcholine - récepteurs nicotiniques"
+                                    ],
+                                    "guid": "N}i<A/9H]R",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Neurotransmetteurs entre centres sympathiques et coeur, artères et artérioles",
+                                        "Noradrénaline sur récepteurs α1, β1, β2"
+                                    ],
+                                    "guid": "d9n%f:GioN",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Neurotransmetteurs libérés par la médullosurrénale quand activée par le Σ",
+                                        "Noradrénaline, adrénaline ⇒ récepteurs adrénergiques"
+                                    ],
+                                    "guid": "tmAT[WbRm^",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Neurotransmetteurs entre le X et le plexus sus-aortique pΣ",
+                                        "Acétylcholine, récepteurs nicotiniques"
+                                    ],
+                                    "guid": "H0Km$~YWI{",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Neurotransmetteurs entre le plexus sus-aortique pΣ et les organes effecteurs",
+                                        "Acétylcholine, récepteurs muscariniques"
+                                    ],
+                                    "guid": "Ak4C*Y+:y)",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "019d3b308f3349b8a7acdda6eaa7f2c3-ao-1",
+                                        "",
+                                        "<img src=\"tmplrmdxwtn.png\" />",
+                                        "<img src=\"019d3b308f3349b8a7acdda6eaa7f2c3-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"019d3b308f3349b8a7acdda6eaa7f2c3-ao-1-A.svg\" />",
+                                        "<img src=\"019d3b308f3349b8a7acdda6eaa7f2c3-ao-O.svg\" />"
+                                    ],
+                                    "guid": "qb_AP,Zu98",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                }
+                            ]
                         }
                     ],
                     "crowdanki_uuid": "b180a498-4332-11ec-bacd-600308aa3fd6",
@@ -14102,6 +14719,1016 @@
                                     ],
                                     "guid": "p/G&)o/-+I",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c3ef955e-4bc4-11ec-b5de-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "42728a183835436d8d9c18c0f6f763cd-oa-1-A.svg",
+                                "42728a183835436d8d9c18c0f6f763cd-oa-1-Q.svg",
+                                "42728a183835436d8d9c18c0f6f763cd-oa-2-A.svg",
+                                "42728a183835436d8d9c18c0f6f763cd-oa-2-Q.svg",
+                                "42728a183835436d8d9c18c0f6f763cd-oa-O.svg",
+                                "7bed6872ffdb4024ab8f9d46784b368c-ao-1-A.svg",
+                                "7bed6872ffdb4024ab8f9d46784b368c-ao-1-Q.svg",
+                                "7bed6872ffdb4024ab8f9d46784b368c-ao-O.svg",
+                                "paste-26b96e9474a2d7b4f8b9a703cf5b853c5a1100dc.png",
+                                "paste-588caa29cc8e81cff9c86629ee328b64448de6ec.png",
+                                "paste-63ef3b69bb31a46d1b7ea441d51b42f054ecda97.png",
+                                "paste-9bf2fc44e23fb645634ac6666575f8dfb3dfb616.png",
+                                "paste-c18626e29e086717f7ce7a54f80dd3f4529ee086.png",
+                                "tmpa3mofpzf.png",
+                                "tmpvjucph21.png"
+                            ],
+                            "name": "Sémiologie de l’Hypertension artérielle",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La PA est le plus souvent mesurée au niveau de l’artère {{c1::humérale}}",
+                                        ""
+                                    ],
+                                    "guid": "EV;6=9P^?A",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Méthode auscultatoire pour mesurer la PA - Matériel et méthode",
+                                        "<ul><li>Sphygomanomètre et&nbsp;stéthoscope<br></li><li>Début des bruits = PAS</li><li>Fin des bruits = PAD</li></ul>"
+                                    ],
+                                    "guid": "NAsV]-_(Q{",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Méthode auscultatoire pour mesurer la PA - Nom des bruits",
+                                        "Bruits de&nbsp;Korotkoff"
+                                    ],
+                                    "guid": "B6KRik8[-f",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Méthode oscillométrique pour mesurer la PA - Principe",
+                                        "<ul><li>Mesure les oscillations de pression</li><li>Calcule automatiquement PAM, PAS, PAD</li></ul>"
+                                    ],
+                                    "guid": "K`c(46fBhp",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Pression artérielle invasive pour mesurer la PA - Principe",
+                                        "Introduction d'un cathéter dans l'artère radiale relié à un capteur de pression"
+                                    ],
+                                    "guid": "gd[pLgik$|",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les appareils d’automesure individuels pour mesurer la PA au domicile et la plupart des appareils utilisés à l'hôpital utilisent la méthode :",
+                                        "Oscillatoire"
+                                    ],
+                                    "guid": "NQ}N5mB+yJ",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Indication de mesure de la PA de manière invasive",
+                                        "Monitorage précis et continu cécessaire ⇒&nbsp;per-opératoire ou en soins intensifs"
+                                    ],
+                                    "guid": "u[BQ1sK1sr",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Protocole de mesure de la PA en consultation",
+                                        "<ul><li>Privilégier les appareils auto</li><li>Brassard adapté et huméral</li><li>Après 5min de repos, calme, à distance d'un effort, de prise de café, d'un repas</li><li>2 bras ⇒ détecter une asymétrie, puis continuer avec le plus élevé</li><li>2/3 mesures à 1/2 min d'intervalle</li></ul>"
+                                    ],
+                                    "guid": "Q9J^(;Fvsj",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Définition de l'HTA",
+                                        "En clinique, 140/90"
+                                    ],
+                                    "guid": "r66`_5Ye#o",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Seuils des grades de sévérité de l'HTA",
+                                        "On prend le grade le + élevé pour :<br><ul><li>Systolique : 120 - 130 - 140 - 160 - 180</li><li>Diastolique : 80 - 85 - 90 - 100 - 110&nbsp;</li></ul>Qui définissent donc 6 états :<br><ul><li>PA optimale</li><li>PA normale</li><li>PA normale-haute</li><li>HTA grade 1, 2 ou 3</li></ul><br><img src=\"paste-c18626e29e086717f7ce7a54f80dd3f4529ee086.png\"><br>"
+                                    ],
+                                    "guid": "Lo2N8!z@J$",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "7bed6872ffdb4024ab8f9d46784b368c-ao-1",
+                                        "",
+                                        "<img src=\"tmpa3mofpzf.png\" />",
+                                        "<img src=\"7bed6872ffdb4024ab8f9d46784b368c-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"7bed6872ffdb4024ab8f9d46784b368c-ao-1-A.svg\" />",
+                                        "<img src=\"7bed6872ffdb4024ab8f9d46784b368c-ao-O.svg\" />"
+                                    ],
+                                    "guid": "s3Na55~^~U",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Quand mesurer une&nbsp;hypotension orthostatique (HO) ?",
+                                        "<ul><li>Patients à risque : âgés, diabétiques</li><li>Malaises en position debout<br></li></ul>"
+                                    ],
+                                    "guid": "J0V-`T;zM@",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "En cas de {{c1::arythmie}}, les valeurs obtenues par mesure automatisée de la PA sont sujettes à caution",
+                                        ""
+                                    ],
+                                    "guid": "f)lOmu~e1H",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "42728a183835436d8d9c18c0f6f763cd-oa-1",
+                                        "",
+                                        "<img src=\"tmpvjucph21.png\" />",
+                                        "<img src=\"42728a183835436d8d9c18c0f6f763cd-oa-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"42728a183835436d8d9c18c0f6f763cd-oa-1-A.svg\" />",
+                                        "<img src=\"42728a183835436d8d9c18c0f6f763cd-oa-O.svg\" />"
+                                    ],
+                                    "guid": "n`nrMV;m,p",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "42728a183835436d8d9c18c0f6f763cd-oa-2",
+                                        "",
+                                        "<img src=\"tmpvjucph21.png\" />",
+                                        "<img src=\"42728a183835436d8d9c18c0f6f763cd-oa-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"42728a183835436d8d9c18c0f6f763cd-oa-2-A.svg\" />",
+                                        "<img src=\"42728a183835436d8d9c18c0f6f763cd-oa-O.svg\" />"
+                                    ],
+                                    "guid": "l(U3x:5aOe",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Mesure de la PA sans présence médicale - Intérêt et caractéristiques",
+                                        "<ul><li>Appareil programmable, à déclenchement automatique, seul dans une pièce calme<br></li><li>Pas d'effet blouse blanche</li><li>Pas trop en France, carrément en Amérique du Nord</li></ul>"
+                                    ],
+                                    "guid": "uH/rUpxhH]",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Mesures de PA hors du cabinet médical",
+                                        "<ul><li>Automesure tensionnelle<br></li><li>Mesure ambulatoire de la pression artérielle (MAPA)</li></ul>"
+                                    ],
+                                    "guid": "FJ~PL(k|1[",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Automesure tensionnelle - Méthode",
+                                        "<ul><li>Après qq minutes de repos en position assise</li><li>Trois mesures le matin et trois mesures le soir avant le coucher, trois jours consécutifs</li></ul>"
+                                    ],
+                                    "guid": "D]]r50t(<8",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Automesure tensionnelle - Seuils d'HTA",
+                                        "135/85"
+                                    ],
+                                    "guid": "DWCwu(0m`m",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Mesure ambulatoire de la pression artérielle - Principe",
+                                        "Mesure toutes les 15min le jour, toutes les 30min la nuit"
+                                    ],
+                                    "guid": "IO!#,6fu;o",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Mesure ambulatoire de la pression artérielle - Seuils d'HTA (nuit, jour, 24h)",
+                                        "<ul><li>Diurne :&nbsp;135/85</li><li>Nocturne : 120/70<br></li><li>Sur 24h : 130/80</li></ul>"
+                                    ],
+                                    "guid": "P}^iBHf&o9",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Mesure ambulatoire de la pression artérielle (MAPA) - Intérêt",
+                                        "<ul><li>Évaluation plus juste</li><li>Vérifie la&nbsp;baisse physiologique de la PA sur la période nocturne</li></ul>"
+                                    ],
+                                    "guid": "s2bu(TE1$S",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Patients dont la PAS chute de moins de 10% entre le jour et la nuit",
+                                        "Non-dippers"
+                                    ],
+                                    "guid": "eR~wr7Y`^j",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Patients dont la PAS est plus importante la nuit que le jour",
+                                        "Reverse dipper"
+                                    ],
+                                    "guid": "xW|7@+*hS4",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Reverse dipper ⇒ On recherche ?",
+                                        "Apnée du sommeil"
+                                    ],
+                                    "guid": "M}4`Jn:G!T",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "De manière générale, quand on diagnostique une HTA, on :",
+                                        "Confirme le diagnostic (autres mesures, hors du cabinet, etc.)"
+                                    ],
+                                    "guid": "epNRkY;)m:",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "En cas de PA ≥{{c1::180/110}} mmHg ⇒ {{c1::traitement anti-hypertenseur immédiat}}",
+                                        ""
+                                    ],
+                                    "guid": "o>tbM|+l6Q",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Prévalence mondiale de la HTA chez les adultes dans le monde",
+                                        "30 à 45% de la population adulte"
+                                    ],
+                                    "guid": "o^G)Ve:5~5",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Prévalence mondiale de la HTA des + de 60 ans",
+                                        "Supérieure à 60%"
+                                    ],
+                                    "guid": "g]<}HI5X<S",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'HTA mondiale va augmenter, à cause de l'augmentation de {{c1::l'obésité et de la sédentarité}}",
+                                        ""
+                                    ],
+                                    "guid": "xR*wwac,qQ",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Prévalence de l'HTA des 18 à 74 ans en France - Femmes, Hommes, Total",
+                                        "<ul><li>26% Femmes<br></li><li>37% Hommes</li><li>31% Total</li></ul>"
+                                    ],
+                                    "guid": "g<w$nC3$Y8",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Nombre et pourcentage de personnes de + de 35 ans traitées pour l'HTA en France",
+                                        "30% ⇒ 10m"
+                                    ],
+                                    "guid": "g)|r&<Cv-l",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Conséquences de l'HTA (surtout systolique)",
+                                        "<ul><li>Risque d'AVC</li><li>Insuffisance cardiaque</li><li>Insuffisance rénale</li></ul>"
+                                    ],
+                                    "guid": "dx[fy_e1b2",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les hypertendus souffrent plus de :<br><ul><li>AVC (x{{c1::7}})</li><li>Insuffisance cardiaque (x{{c1::4}})<br></li><li>Coronaropathie (x{{c1::3}})<br></li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "E[:Jd#v)`$",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L’utilisation de scores polygéniques permet d’associer des variants combinés avec des différences de {{c1::10}} mmHg ou plus entre les sujets ⇒ Mais c'est pas énorme quoi",
+                                        ""
+                                    ],
+                                    "guid": "iORjL@FJ+V",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Formes familiales monogéniques de maladie conduisant à l'↑ d'HTA - Physiopathologie",
+                                        "Augmentation de la réabsorption de sodium par le rein"
+                                    ],
+                                    "guid": "i[6b*eeT,m",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Physiopathologie de l’HTA essentielle",
+                                        "<ul><li>Génétique</li><li>Dysfonction endothéliale<br></li><li>Apports sodés<br></li><li>Autres facteurs : alimentation, alcool, sédentarité, tabac, surpoids et obésité, mauvaise hygiène de vie<br></li></ul>"
+                                    ],
+                                    "guid": "KMKBVB%]x,",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Dysfonction endothéliale conduisant à l'HTA : physiopathologie",
+                                        "Sécrétion de substances induisant :<br><ul><li>Vasodilatation :&nbsp;monoxyde d’azote (NO) ou&nbsp;prostacycline (PGI2)</li><li>Vasoconstriction : endothéline 1 ou thromboxane A2<br></li></ul>"
+                                    ],
+                                    "guid": "k*X%+6|$Xz",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Dysfonction endothéliale conduisant à l'HTA : Contexte",
+                                        "Inflammation, stress oxydatif, obésité, ou diabète"
+                                    ],
+                                    "guid": "r0ie+![9b,",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les apports sodés dans nos sociétés modernes sont supérieurs à {{c1::10}} g par jour",
+                                        ""
+                                    ],
+                                    "guid": "AoXdxWDt4F",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "HTA secondaire",
+                                        "HTA directement attribuable à une anomalie sousjacente"
+                                    ],
+                                    "guid": "e4e%M*NYmL",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "HTA secondaire - Prévalence",
+                                        "5 et 15% de la population hypertendue"
+                                    ],
+                                    "guid": "du6I:]%I7R",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "HTA secondaire - Pourcentage de curables",
+                                        "20%"
+                                    ],
+                                    "guid": "HzR`%)?csD",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Recherche d'HTA secondaire si",
+                                        "<ul><li>&gt;30 ans</li><li>Grade 3</li><li>Résistance au traitement</li><li>Orientation clinique ou biologique vers une cause d’HTA secondaire<br></li><li>Hypokaliémie</li></ul>"
+                                    ],
+                                    "guid": "lAK^dbrsDA",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "ns",
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "HTA secondaire - Origines",
+                                        "<ul><li>HTA d’origine rénale<br></li><li>Sténoses des artères rénales<br></li><li>Coarctation de l’aorte<br></li><li>L’hyperaldostéronisme primaire (HAP)<br></li><li>Le phéochromocytome ou paragangliome<br></li><li>Syndrome de Cushing<br></li><li>Causes urologique<br></li><li>HTA iatrogènes<br></li><li>Le syndrome d’apnée du sommeil d’origine obstructive (SAOS)<br></li></ul>"
+                                    ],
+                                    "guid": "bmifVhWE;0",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "ns",
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "HTA d’origine rénale - Touche qui ?",
+                                        "<ul><li>HTA élevée (80% pour grade 3)</li><li>Enfant</li></ul>"
+                                    ],
+                                    "guid": "dR6bWZlh~L",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "ns",
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "HTA d’origine rénale - Conséquences",
+                                        "<ul><li>Parfois juste l'HTA</li><li>Parfois&nbsp;régulation de la balance hydrosodée, ischémie rénale, atteinte vasculaire associée</li></ul>"
+                                    ],
+                                    "guid": "Rc%!*BSNmy",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "ns",
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sténoses des artères rénales (SAR) - Conditions",
+                                        "Réduction du diamètre circulant d’au moins 60%"
+                                    ],
+                                    "guid": "vZ3>jzSEp!",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "ns",
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sténose artérielle rénale (SAR) - Etiologies et répartition",
+                                        "<ul><li>Origine&nbsp;athéromateuse (80-90%)</li><li>Origine&nbsp;fibrodysplasique (10-20%)</li><li>Rares autres :&nbsp;artérite de Takayasu, artérite radique, dissection</li></ul>"
+                                    ],
+                                    "guid": "i4n/z<h${O",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Formes&nbsp;athéromateuses des&nbsp;sténoses artérielles rénales (SAR) - Caractéristiques",
+                                        "Plusieurs facteurs de risque cardiovasculaire et un athérome diffus"
+                                    ],
+                                    "guid": "B8BZP@V.V1",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Formes&nbsp;athéromateuses des&nbsp;sténoses artérielles rénales (SAR) - Traitement",
+                                        "<ul><li>Prévention cardiovasculaire globale</li><li>Meilleur contrôle de la PA</li><li>Stabilisation de la fonction rénale</li></ul>"
+                                    ],
+                                    "guid": "PKayJ</|FI",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Dysplasie fibromusculaire (DFM) conduisant à une sténose des artères rénales - Touche",
+                                        "Femmes jeunes ayant peu ou pas de facteurs de risque (à l’exception d’un tabagisme fréquent)"
+                                    ],
+                                    "guid": "KT]7ry],=p",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Dysplasie fibromusculaire (DFM) conduisant à une sténose des artères rénales - Prise en charge",
+                                        "<ul><li>Guérison (possible) de l'HTA</li><li>Surveillance d'éventuelles lésions extrarénales<br></li></ul>"
+                                    ],
+                                    "guid": "Pcg]*gJ}(+",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-26b96e9474a2d7b4f8b9a703cf5b853c5a1100dc.png\">",
+                                        "Dysplasie fibromusculaire (DFM)&nbsp; (aspect en collier de perles)"
+                                    ],
+                                    "guid": "r+~9upHY+Q",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-588caa29cc8e81cff9c86629ee328b64448de6ec.png\">",
+                                        "Sténose athéromateuse post-ostiale bilatérale des artères rénales"
+                                    ],
+                                    "guid": "KCM(`SIL$T",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Coarctation de l’aorte - Touche",
+                                        "HTA de début précoce, surtout chez l’enfant"
+                                    ],
+                                    "guid": "dBv|e0nsDT",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Coarctation de l’aorte",
+                                        "Sténose aortique congénitale,&nbsp;le plus souvent située sur l’isthme de l’aorte"
+                                    ],
+                                    "guid": "KS~bHE@dLN",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Coarctation de l’aorte - Tableau clinique",
+                                        "<ul><li>souffle mésosystolique, parfois continu, parasternal gauche irradiant dans le dos</li><li>abolition des pouls fémoraux</li><li>asymétrie tensionnelle entre les membres supérieurs et les membres inférieurs</li><li>pouls fémoraux et poplités et jambiers en général abolis</li><li>Il peut également y avoir une asymétrie de PA brachiale selon le siège de la coarctation (par rapport à la sous clavière gauche).</li></ul>"
+                                    ],
+                                    "guid": "zmCXjLk,s}",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Coarctation de l’aorte - Traitement",
+                                        "Soit chirurgical, soit endovasculaire (dilatation avec pose d’une endoprothèse)"
+                                    ],
+                                    "guid": "v3Lb<87]jn",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyperaldostéronisme primaire (HAP) - Fréquence parmi les hypertendus",
+                                        "6%"
+                                    ],
+                                    "guid": "o#a-#8G:?v",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyperaldostéronisme primaire (HAP) - Etiologies",
+                                        "<ul><li>Unilatérale<br></li><ul><li>Adénome</li><li>Hyperplasie unilatérale surrénale, plus rarement corticosurrénale</li><li>Tumeur maligne de la corticosurrénale</li></ul><li>Bilatérale<br></li><ul><li>Hyperplasie bilatérale des surrénales<br></li></ul></ul>"
+                                    ],
+                                    "guid": "lG.AJ3-UAw",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-63ef3b69bb31a46d1b7ea441d51b42f054ecda97.png\">",
+                                        "Adénome de Conn"
+                                    ],
+                                    "guid": "peHP)U{Pt}",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-9bf2fc44e23fb645634ac6666575f8dfb3dfb616.png\">",
+                                        "Hyperplasie bilatérale des surrénales"
+                                    ],
+                                    "guid": "?|#u5#),N",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyperaldostéronisme primaire (HAP) - Traitement",
+                                        "<ul><li>Unilatéral : Surrénalectomie ⇒&nbsp;ne guérit totalement l’HTA que dans 50% des cas<br></li><li>Bilatéral ou impossible d'opérer ⇒&nbsp;anti-aldostérones&nbsp;anti-aldostérones qui font partie des diurétiques épargneurs de potassium<br></li></ul>"
+                                    ],
+                                    "guid": "f/Srmfsc9Q",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Exemple de médicament de la famille des anti-aldostérones qui font partie des diurétiques épargneurs de potassium",
+                                        "Spironolactone"
+                                    ],
+                                    "guid": "u_VorNP?V)",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Paragangliome",
+                                        "Tumeurs se développant aux dépens des ganglions sympathiques et parasympathiques"
+                                    ],
+                                    "guid": "jGW~yBGC~F",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Phéochromocytome",
+                                        "Paragangliome se développant dans la médullosurrénale"
+                                    ],
+                                    "guid": "NsPk*hX)4`",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Phéochromocytomes - Incidence chez les hypertendus",
+                                        "1 pour 1000 patients hypertendus"
+                                    ],
+                                    "guid": "QKf@lV[-sD",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Phéochromocytomes - Évoqué si",
+                                        "HTA permanente ou labile voire paroxystique avec céphalées, sueurs, palpitations"
+                                    ],
+                                    "guid": "h<?YZ()w8W",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Phéochromocytomes - Diagnostic",
+                                        "<ul><li>Dosage de méta- et normétanéphrines urinaires des 24 h, ou plasmatiques libres</li><li>Scanner abdominal<br></li></ul>"
+                                    ],
+                                    "guid": "w_Z>ZguBw-",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Environ {{c1::10}}% des phéochromocytomes sont des tumeurs malignes",
+                                        ""
+                                    ],
+                                    "guid": "Ib8*0gX71]",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Syndrome de Cushing - Signes",
+                                        "<ul><li>Érythrose faciale</li><li>Bosse de bison</li><li>Comblement des creux sus-claviculaires</li><li>Répartition facio-tronculaire des graisses</li><li>Amyotrophie des bras et des membres inférieurs</li><li>Fragilité cutanée</li><li>Vergetures pourpres</li><li>Aménorrhée</li></ul>"
+                                    ],
+                                    "guid": "m,)!@vxcbP",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Syndrome de Cushing - Origine",
+                                        "Production excessive de glucocorticoïdes par les surrénales<br><ul><li>Tumeur sécrétant du cortisol<br></li><li>Production excessive d’ACTH par l’hypophyse<br></li></ul>"
+                                    ],
+                                    "guid": "qX`,`$~/TK",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Syndrome de Cushing - Diagnostic",
+                                        "<ul><li>Élévation de la cortisolurie des 24 heures<br></li><li>Élévation du cortisol à minuit<br></li><li>Absence de freination du cortisol dosé le matin après la prise de Dexaméthasone<br></li></ul>"
+                                    ],
+                                    "guid": "gd>jM>Sp0{",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Causes urologiques causant une HTA",
+                                        "<ul><li>Cicatrices d’une néphropathie de reflux (dans 10-20% des cas)<br></li><li>Hypoplasie rénale congénitale</li><li>Hydronéphrose</li><li>Séquelles d’hématomes ou d’infections (tuberculose)</li><li>Certains cancers du rein<br></li></ul>"
+                                    ],
+                                    "guid": "zv3oRMn;R3",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "HTA iatrogènes",
+                                        "<ul><li>immunosuppresseurs</li><li>œstrogènes de synthèse</li><li>anti-angiogéniques</li><li>antiinflammatoires non stéroïdiens</li><li>décongestionnants nasaux</li><li>corticoïdes</li><li>dérivés de la réglisse</li></ul>"
+                                    ],
+                                    "guid": "wWD6INv?VM",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effet des&nbsp;œstrogènes de synthèse sur l'HTA - Fonctionnement",
+                                        "<ul><li>Stimulent la production hépatique d'angiotensinogène<br></li><li>Effet tensionnel variable, dose-dépendant, plus marqué en cas de surpoids ou d’antécédent familial d’HTA</li></ul>"
+                                    ],
+                                    "guid": "JTC,QAJ%e2",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le syndrome d’apnée du sommeil d’origine obstructive (SAOS) et HTA",
+                                        "<ul><li>Lien de causalité contesté</li><li>Terrain très similaire</li></ul>"
+                                    ],
+                                    "guid": "H1+!29Sm^8",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Types d'origine des HTA",
+                                        "<ul><li>HTA essentielle</li><li>HTA secondaire</li></ul>"
+                                    ],
+                                    "guid": "gkj`?t!d>",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
                                     ]
@@ -33992,7 +35619,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Expression des AQP selon la portion du tubule, et fixe ou moduable ?",
+                                        "Expression des AQP selon la portion du tubule, et fixe ou modulable ?",
                                         "<ul><li>TCP : AQP 1 et 7</li><li>Branche descendante de Henlé : AQP 1</li><li>Canal collecteur :&nbsp;</li><ul><li>Basolatéral : AQP 3 et 4 (fixe)</li><li>Apical : AQP 2 (modulable)</li></ul></ul>"
                                     ],
                                     "guid": "G7A-uilc7[",
@@ -34028,7 +35655,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Réabsorption hydrique dans l'anse de Henlé",
+                                        "Lieu de réabsorption hydrique dans l'anse de Henlé",
                                         "<ul><li>Dans la branche descendante fine (Na<sup>+</sup>&nbsp;dans la BAL)</li><li>⇒ Création d'un Gradient de concentration CorticoPapillaire (GCP)</li></ul>"
                                     ],
                                     "guid": "O{{7fjdUk[",
@@ -34041,7 +35668,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Phénomènes permettant l'établissement d'un GCP (Gradient de concentration CorticoPapillaire) dans l'anse de Henlé",
-                                        "Absorption d'eau dans la BDF et de Na<sup>+</sup>&nbsp;dans la BAL + 3 phénomènes<br><ul><li>Phénomène de multiplication à contre-courant grâce à la configuration en épingle à cheveux&nbsp;&nbsp;(1/3)<br></li><li>Réabsorption d'urée par le canal collecteur médullaire&nbsp;avec recirculation (2/3)<br></li><li>- Shunt H2O et Na vasculaire vasa recta (nécessaire)<br></li></ul>"
+                                        "Absorption d'eau dans la BDF et de Na<sup>+</sup>&nbsp;dans la BAL + 3 phénomènes<br><ul><li>Phénomène de multiplication à contre-courant grâce à la configuration en épingle à cheveux&nbsp;&nbsp;(1/3)<br></li><li>Réabsorption d'urée par le canal collecteur médullaire&nbsp;avec recirculation (2/3)<br></li><li>Shunt H<sub>2</sub>O et Na vasculaire de la vasa recta, suivant le trajet de l'anse de Henlé (nécessaire)<br></li></ul>"
                                     ],
                                     "guid": "H;.y}BBREs",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -34100,7 +35727,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Osmolalité de l'urine délivrée au canal collecteur",
+                                        "Osmolarité de l'urine délivrée au canal collecteur",
                                         "60 mOsmol/L"
                                     ],
                                     "guid": "J,p9D*[o>b",
@@ -34178,7 +35805,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "La&nbsp; régulation hormonale de l'absorption d'eau par le canal collecteur par l'ADH passe par {{c1::des modifications de perméabilité épithéliale.}}",
+                                        "La régulation hormonale de l'absorption d'eau par le canal collecteur par l'ADH passe par {{c1::des modifications de perméabilité épithéliale.}}",
                                         ""
                                     ],
                                     "guid": "b0HI=xZj+:",
@@ -34190,7 +35817,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "ADH :&nbsp;<br><ul><li>Longueur : {{c1::9 aa}}</li><li>Synthétisée par {{c1::les neurones magnocellulaires des noyaux supra optique et paraventriculaire (hypothalamus)}}<br></li><li>Transporté {{c1::le long des axones}} et stockés dans {{c1::la post hypophyse (granules de sécrétion)}}<br></li></ul>",
+                                        "ADH :&nbsp;<br><ul><li>Longueur : {{c1::9 aa}}</li><li>Synthétisée par {{c1::les neurones magnocellulaires des noyaux supra optique (SO) et paraventriculaire (PV) (hypothalamus)}}<br></li><li>Transporté {{c1::le long des axones}} et stockés dans {{c1::la post hypophyse (granules de sécrétion)}}<br></li></ul>",
                                         ""
                                     ],
                                     "guid": "m`tQ]E+&=E",
@@ -34263,7 +35890,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Types d'osmorécepteurs centraux",
-                                        "<ul><li>OVLT +++ (Organe vasculaire de&nbsp; la&nbsp; lame Terminale)<br></li><li>SFO (Organe Sub Fornical)<br></li></ul>"
+                                        "<ul><li>OVLT +++ (Organe vasculaire de la lame Terminale)<br></li><li>SFO (Organe Sub Fornical)<br></li></ul>"
                                     ],
                                     "guid": "x<jDc:=v7.",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -34310,7 +35937,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Trajet de la réponss des osmorécepteurs périphériques",
+                                        "Trajet de la réponse des osmorécepteurs périphériques",
                                         "Via le noyau du tractus solitaire qui contrôle l'activité des noyaux SO et PV"
                                     ],
                                     "guid": "ESSEi&9b.7",
@@ -36754,7 +38381,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Hyperaldostéronisme secondaire en cas de DES ⇒ Signes",
-                                        "Pas dosé en pratique en clinique ⇒<br><ul><li>Alcalose métabolique ([HCO<sub>3</sub><sup>-</sup>] &gt; 28mM) car ↑ sécrétion H<sup>+</sup> et réabsorption HCO<sub>3</sub><sup>-</sup><br></li><li>Rapport Na/K urinaire &lt; 1 (antinatriurèse) car réabsorption Na+/K+ conjointe (ENaC et ROMK)<br></li></ul>"
+                                        "Pas dosé en pratique en clinique ⇒<br><ul><li>Alcalose métabolique ([HCO<sub>3</sub><sup>-</sup>] &gt; 28mM) car ↑ sécrétion H<sup>+</sup> et réabsorption HCO<sub>3</sub><sup>-</sup><br></li><li>Rapport Na/K urinaire &lt; 1 (antinatriurèse et hypokaliémie) car réabsorption Na+/K+ conjointe (ENaC et ROMK)<br></li></ul>"
                                     ],
                                     "guid": "jUjx`-nid:",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -36789,20 +38416,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Insuffisance rénale fonctionnelle en cas de DES - Signes",
-                                        "<ul><li>Augmentation de la créatinine plasmatique (&gt;100μM)</li><li>Augmentation de l'Urée plasmatique (&gt;8.5 mM)<br></li></ul>"
-                                    ],
-                                    "guid": "lV/xcPxrOf",
-                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Insuffisance rénale fonctionnelle en cas de DES - Caractéristiques",
-                                        "<ul><li>Urée plasmatique est particulièrement élevée ⇒&nbsp;Urée<sub>P</sub> / Créat<sub>P</sub> &gt;100</li><li>Réversible</li><li>Pas d'anomalie du sédiment urinaire ni protéinurie<br></li></ul>"
+                                        "<ul><li>Urée plasmatique est particulièrement élevée :</li><ul><li>Urée<sub>P</sub>&nbsp;/ Créat<sub>P</sub>&nbsp;&gt;100</li><li>Créat<sub>P</sub> &gt;100μM</li><li>Urée<sub>P</sub> &gt;8.5 mM</li></ul><li>Réversible<br></li><li>Pas d'anomalie du sédiment urinaire ni protéinurie<br></li></ul>"
                                     ],
                                     "guid": "Fc0a#$A//B",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -36814,7 +38429,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Etiologie des DES - Etapes",
-                                        "D'abord, réponse rénale au trouble ⇒&nbsp;évaluation de la natriurèse des 24H<br><ul><li>Na<sub>U</sub> &lt; 10-15mmol/j ⇒ Réponse rénale adaptée ⇒ origine extra-rénale<br></li><ul><li>Pertes digestives (diarrhées, vomissements) ou cutanées (brûlures, fièvre, sudation,...) ⇒ En fonction du contexte clinique et signes associés<br></li></ul><li>Na<sub>U</sub>&nbsp;&lt; 10-15mmol/j ⇒ Réponse rénale inadaptée ⇒ origine rénale<br></li><ul><li>Anomalie tubulaire rénale<br></li><li>Déficit hormonal dans les systèmes antinatiurétiques<br></li></ul></ul>"
+                                        "D'abord, réponse rénale au trouble ⇒&nbsp;évaluation de la natriurèse des 24H<br><ul><li>Na<sub>U</sub> &lt; 10-15mmol/j ⇒ Réponse rénale adaptée ⇒ origine extra-rénale<br></li><ul><li>Pertes digestives (diarrhées, vomissements) ou cutanées (brûlures, fièvre, sudation,...) ⇒ En fonction du contexte clinique et signes associés<br></li></ul><li>Na<sub>U</sub>&nbsp;&gt; 10-15mmol/j ⇒ Réponse rénale inadaptée ⇒ origine rénale<br></li><ul><li>Anomalie tubulaire rénale<br></li><li>Déficit hormonal dans les systèmes antinatiurétiques<br></li></ul></ul>"
                                     ],
                                     "guid": "fQaegu^1kj",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -36874,7 +38489,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Signes cliniques d'HEC",
-                                        "<ul><li>Prise de poids (Sur qq heures = obligatoirement hydrique)<br></li><li>Œdèmes (augmentation du volume interstitiel du plus de 10%) avec les caractéristiques :<br></li><ul><li>Déclives&nbsp;</li><li>Blancs&nbsp;</li><li>Mous</li><li>Prenant le godet<br></li></ul><li>Hypertension artérielle (mais inconstant)<br></li></ul>⇒ Signe de ?"
+                                        "<ul><li>Prise de poids (Sur qq heures = obligatoirement hydrique)<br></li><li>Œdèmes avec les caractéristiques :<br></li><ul><li>Déclives&nbsp;</li><li>Blancs&nbsp;</li><li>Mous</li><li>Prenant le godet<br></li></ul><li>Hypertension artérielle (mais inconstant)<br></li></ul>⇒ Signe de ?"
                                     ],
                                     "guid": "ex&.GW3SHE",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -36946,7 +38561,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Hyperaldostéronisme primaire dans une HEC - Origines",
-                                        "<ul><li>Tumeur adénomateuse de la corticosurrénale (adénome de Conn) +++<br></li><li>Hyperplasie (+ rare)<br></li><li>Forme génétique (+ rare)<br></li></ul>"
+                                        "<ul><li>Tumeur adénomateuse de la corticosurrénale +++<br></li><li>Hyperplasie (+ rare)<br></li><li>Forme génétique (+ rare)<br></li></ul>"
                                     ],
                                     "guid": "cs5+<ER`%(",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -36981,8 +38596,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Hyperaldostéronisme secondaire encas d'HEC - Causes",
-                                        "<ul><li>Insuffisance cardiaque congestive : PA basse et PV élevée ⇒ dfaut de perfusion rénale<br></li><li>Cirrhose hépatique :&nbsp;hypoalbuminémie ⇒ ↑ le transfert d'eau entre le plasma et l'interstitium + vasoconstriction rénale<br></li><li>Syndrome néphrotique :&nbsp;hypoalbuminémie par perte rénale ⇒ ↑ le&nbsp;transfert d'eau entre le plasma et l'interstitium<br></li></ul>"
+                                        "Hyperaldostéronisme secondaire en cas d'HEC - Causes",
+                                        "<ul><li>Insuffisance cardiaque congestive : PA basse et PV élevée ⇒ défaut de perfusion rénale<br></li><li>Cirrhose hépatique :&nbsp;hypoalbuminémie ⇒ ↑ le transfert d'eau entre le plasma et l'interstitium + vasoconstriction rénale<br></li><li>Syndrome néphrotique :&nbsp;hypoalbuminémie par perte rénale ⇒ ↑ le&nbsp;transfert d'eau entre le plasma et l'interstitium<br></li></ul>"
                                     ],
                                     "guid": "c1As:$|?xe",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -36994,10 +38609,46 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Tableau clinico-pathologique des HEC par insuffisance cardiaque ou cirrhose",
-                                        "Particulier (partage des signes de HEC et de DEC)<br><ul><li>œdèmes +++&nbsp;<br></li></ul>MAIS à cause de l'hypoperfusion rénale et de la baisse de la PA<br><ul><li>PA nromale ou basse</li><li>Oligurie</li><li>Antinatriurèse<br></li><li>Insuffisance rénale fonctionnelle.<br></li></ul>"
+                                        "Particulier (partage des signes de HEC et de DEC)<br><ul><li>œdèmes +++&nbsp;<br></li></ul>MAIS à cause de l'hypoperfusion rénale et de la baisse de la PA<br><ul><li>PA normale ou basse</li><li>Oligurie</li><li>Antinatriurèse<br></li><li>Insuffisance rénale fonctionnelle.<br></li></ul>"
                                     ],
                                     "guid": "mC((1f1{jL",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Une augmentation du volume interstitiel du plus de {{c1::10}}% forme un oedème, car on a alors défaillance du {{c1::système lymphatique}}",
+                                        ""
+                                    ],
+                                    "guid": "u~%hm9gfjy",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Adénome de Conn",
+                                        "Tumeur bénigne de la cortico-surrénale entraînant un&nbsp;hyperaldostéronisme primaire"
+                                    ],
+                                    "guid": "KUZ^OK`!$&",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Autre nom du syndrome de Conn",
+                                        "Autre nom de l'hyperaldostéronisme primaire"
+                                    ],
+                                    "guid": "Q}n00@2gfW",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
                                     ]

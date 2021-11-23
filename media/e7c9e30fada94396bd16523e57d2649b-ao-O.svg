@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="348" height="570">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text transform="matrix(0.6858725547790527,0,0,0.8432121872901917,104.81058539450169,77.84269920084625) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_5" y="518.2979" x="267.61702" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Modulateurs</text>
+  <text transform="matrix(0.6562072038650513,0,0,0.8824091553688049,0.5103174317628145,59.0710258577019) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_6" y="497.0213" x="114.42553" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Transporteurs et ions</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="e7c9e30fada94396bd16523e57d2649b-ao-1" height="425.53192" width="89.3617" y="54.4681" x="249.53192" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="e7c9e30fada94396bd16523e57d2649b-ao-2" height="420.21278" width="164.89362" y="51.27661" x="-0.46809" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>

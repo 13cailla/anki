@@ -9198,6 +9198,9 @@
                                 "04860eec13c54f8996346c2cf626088a-ao-1-A.svg",
                                 "04860eec13c54f8996346c2cf626088a-ao-1-Q.svg",
                                 "04860eec13c54f8996346c2cf626088a-ao-O.svg",
+                                "42728a183835436d8d9c18c0f6f763cd-oa-3-A.svg",
+                                "42728a183835436d8d9c18c0f6f763cd-oa-3-Q.svg",
+                                "42728a183835436d8d9c18c0f6f763cd-oa-O.svg",
                                 "5657ba3e88334afb949cc5dfbcee7509-oa-1-A.svg",
                                 "5657ba3e88334afb949cc5dfbcee7509-oa-1-Q.svg",
                                 "5657ba3e88334afb949cc5dfbcee7509-oa-O.svg",
@@ -9229,7 +9232,8 @@
                                 "tmpdp56vaqy.png",
                                 "tmped3r4x5l.png",
                                 "tmpjy7vb5t0.png",
-                                "tmplrmdxwtn.png"
+                                "tmplrmdxwtn.png",
+                                "tmpvjucph21.png"
                             ],
                             "name": "Régulation de la PA",
                             "notes": [
@@ -9780,6 +9784,27 @@
                                         "<img src=\"019d3b308f3349b8a7acdda6eaa7f2c3-ao-O.svg\" />"
                                     ],
                                     "guid": "qb_AP,Zu98",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "42728a183835436d8d9c18c0f6f763cd-oa-3",
+                                        "",
+                                        "<img src=\"tmpvjucph21.png\" />",
+                                        "<img src=\"42728a183835436d8d9c18c0f6f763cd-oa-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"42728a183835436d8d9c18c0f6f763cd-oa-3-A.svg\" />",
+                                        "<img src=\"42728a183835436d8d9c18c0f6f763cd-oa-O.svg\" />"
+                                    ],
+                                    "guid": "Na:[atb1:`",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
@@ -13364,7 +13389,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Hypotension orthostatique (HO) ⇒ Comment le caracétriser ?",
-                                        "Pression artérielle diminue lors du passage à la position debout<br><ul><li>systolique diminue ≥20 mmHg<br></li><li>diastolique diminue ≥10 mmHg<br></li><li>systolique atteint &lt;90 mmHg<br></li></ul>"
+                                        "Pression artérielle diminue lors du passage à la position debout<br><ul><li>systolique diminue ≥20 mmHg<br></li><li>diastolique diminue ≥10 mmHg<br></li><li>systolique atteint &lt;90 mmHg<br></li></ul>Chute de bradycardie &gt; 30 bpm"
                                     ],
                                     "guid": "FI8/+Q,[[b",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -15203,7 +15228,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Formes familiales monogéniques de maladie conduisant à l'↑ d'HTA - Physiopathologie",
+                                        "Formes familiales monogéniques de maladie conduisant à l'HTA - Physiopathologie",
                                         "Augmentation de la réabsorption de sodium par le rein"
                                     ],
                                     "guid": "i[6b*eeT,m",
@@ -15351,7 +15376,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Sténoses des artères rénales (SAR) - Conditions",
+                                        "Sténoses des artères rénales (SAR) - Conditions pour avoir HTA",
                                         "Réduction du diamètre circulant d’au moins 60%"
                                     ],
                                     "guid": "vZ3>jzSEp!",
@@ -15464,7 +15489,7 @@
                                         "Sténose aortique congénitale,&nbsp;le plus souvent située sur l’isthme de l’aorte"
                                     ],
                                     "guid": "KS~bHE@dLN",
-                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
                                     ]
@@ -15473,7 +15498,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Coarctation de l’aorte - Tableau clinique",
-                                        "<ul><li>souffle mésosystolique, parfois continu, parasternal gauche irradiant dans le dos</li><li>abolition des pouls fémoraux</li><li>asymétrie tensionnelle entre les membres supérieurs et les membres inférieurs</li><li>pouls fémoraux et poplités et jambiers en général abolis</li><li>Il peut également y avoir une asymétrie de PA brachiale selon le siège de la coarctation (par rapport à la sous clavière gauche).</li></ul>"
+                                        "<ul><li>souffle mésosystolique, parfois continu, parasternal gauche irradiant dans le dos</li><li>pouls fémoraux et poplités et jambiers en général abolis</li><li>asymétrie tensionnelle entre les membres supérieurs et les membres inférieurs<br></li><li>Il peut également y avoir une asymétrie de PA brachiale selon le siège de la coarctation (par rapport à la sous clavière gauche).</li></ul>"
                                     ],
                                     "guid": "zmCXjLk,s}",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -15605,7 +15630,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Phéochromocytomes - Évoqué si",
-                                        "HTA permanente ou labile voire paroxystique avec céphalées, sueurs, palpitations"
+                                        "HTA permanente ou labile (changeante) voire paroxystique avec céphalées, sueurs, palpitations"
                                     ],
                                     "guid": "h<?YZ()w8W",
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
@@ -15641,7 +15666,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Syndrome de Cushing - Signes",
-                                        "<ul><li>Érythrose faciale</li><li>Bosse de bison</li><li>Comblement des creux sus-claviculaires</li><li>Répartition facio-tronculaire des graisses</li><li>Amyotrophie des bras et des membres inférieurs</li><li>Fragilité cutanée</li><li>Vergetures pourpres</li><li>Aménorrhée</li></ul>"
+                                        "<ul><li>Répartition facio-tronculaire des graisses<br></li><li>Fragilité cutanée<br></li><li>Érythrose faciale<br></li><li>Vergetures pourpres<br></li><li>Aménorrhée</li><li>Amyotrophie des bras et des membres inférieurs<br></li><li>Comblement des creux sus-claviculaires<br></li><li>Bosse de bison</li></ul>"
                                     ],
                                     "guid": "m,)!@vxcbP",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -15665,7 +15690,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Syndrome de Cushing - Diagnostic",
-                                        "<ul><li>Élévation de la cortisolurie des 24 heures<br></li><li>Élévation du cortisol à minuit<br></li><li>Absence de freination du cortisol dosé le matin après la prise de Dexaméthasone<br></li></ul>"
+                                        "<ul><li>Élévation de la cortisolurie des 24 heures<br></li><li>Élévation du cortisol à minuit<br></li><li>Absence de freination du cortisol dosé le matin après la prise de puissant corticostéroïde de synthèse<br></li></ul>"
                                     ],
                                     "guid": "gd>jM>Sp0{",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -15732,6 +15757,16 @@
                                     "tags": [
                                         "todo"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Puissant corticostéroïde de synthèse",
+                                        "Dexaméthasone"
+                                    ],
+                                    "guid": "v/bbQp+vzJ",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
                                 }
                             ]
                         }
@@ -29833,7 +29868,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Origine et terminaison de l'innveration para-sympathique de l'abdomen",
-                                        "<ul><li>Issu du nerf vague X</li><li>A droite : se prolonge dans les relais sous-jacents</li><li>A guache : s'épuise en T12/L1</li></ul>"
+                                        "<ul><li>Issu du nerf vague X</li><li>A droite : se prolonge dans les relais sous-jacents</li><li>A gauche : s'épuise en T12/L1</li></ul>"
                                     ],
                                     "guid": "E^X#gl7+J!",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -35459,6 +35494,187 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "ac4c85c2-4c75-11ec-b5de-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "e7c9e30fada94396bd16523e57d2649b-ao-1-A.svg",
+                                "e7c9e30fada94396bd16523e57d2649b-ao-1-Q.svg",
+                                "e7c9e30fada94396bd16523e57d2649b-ao-2-A.svg",
+                                "e7c9e30fada94396bd16523e57d2649b-ao-2-Q.svg",
+                                "e7c9e30fada94396bd16523e57d2649b-ao-O.svg",
+                                "tmp7rxfdnh8.png"
+                            ],
+                            "name": "Bilan du Na+",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Chez un sujet sain, le passage d’un régime normosodé à un régime pauvre en chlorure de sodium entraine",
+                                        "",
+                                        "1",
+                                        "une hyponatrémie",
+                                        "une diminution de la concentration plasmatique de rénine",
+                                        "une diminution de la natriurèse",
+                                        "une perte de poids",
+                                        "une augmentation de la concentration plasmatique d’aldostérone",
+                                        "0 0 1 1 1",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "IUIM*HJmN}",
+                                    "note_model_uuid": "c6aee922-49f1-11ec-b5de-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Une tumeur sécrétant de façon continue, excessive et non régulée de l’aldostérone entraine",
+                                        "",
+                                        "1",
+                                        "une baisse de la concentration plasmatique de rénine",
+                                        "une augmentation de la concentration plasmatique d’angiotensine 2",
+                                        "une augmentation du volume extracellulaire",
+                                        "une élévation de la concentration plasmatique du facteur natriurétique auriculaire",
+                                        "une baisse de la pression artérielle",
+                                        "1 0 1 1 0",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "f?O<sHj54J",
+                                    "note_model_uuid": "c6aee922-49f1-11ec-b5de-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Une natrémie normale indique",
+                                        "Une hydratation intracellulaire normale a pour signe caractéristique"
+                                    ],
+                                    "guid": "u0fJWI#U{G",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Différence entre uricémie et urémie. Une valeur forte est typique de quoi (dans le cadre des DEC et HEC)",
+                                        "<ul><li>uricémie = acide urique ⇒ Hémoconcentration<br></li><li>urémie = urée ⇒&nbsp;insuffisance rénale fonctionnelle<br></li></ul>"
+                                    ],
+                                    "guid": "h9F%yE]?q/",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Réabsorption de l'acide urique",
+                                        "TCP+++ et anse de Henlé"
+                                    ],
+                                    "guid": "oP8w1l{3ZN",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Réabsorption de l'urée",
+                                        "Passivement dans le TCP, activement dans l'anse de Henlé (joue dans l'établissement du GCP)"
+                                    ],
+                                    "guid": "jx|hY_8%0|",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Effet des diurétiques thiazidiques (à l'équilibre)",
+                                        "<ul><li>Sortie de Na+ ↑ transitoirement , puis égale aux entrées sodiques<br></li><li>A l'équilibre, on se retrouve avec une petite DEC tant que le traitement est poursuivi<br></li></ul>"
+                                    ],
+                                    "guid": "Q&vL]W0I~g",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "e7c9e30fada94396bd16523e57d2649b-ao-1",
+                                        "",
+                                        "<img src=\"tmp7rxfdnh8.png\" />",
+                                        "<img src=\"e7c9e30fada94396bd16523e57d2649b-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"e7c9e30fada94396bd16523e57d2649b-ao-1-A.svg\" />",
+                                        "<img src=\"e7c9e30fada94396bd16523e57d2649b-ao-O.svg\" />"
+                                    ],
+                                    "guid": "H{1p|Gy&@l",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "e7c9e30fada94396bd16523e57d2649b-ao-2",
+                                        "",
+                                        "<img src=\"tmp7rxfdnh8.png\" />",
+                                        "<img src=\"e7c9e30fada94396bd16523e57d2649b-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"e7c9e30fada94396bd16523e57d2649b-ao-2-A.svg\" />",
+                                        "<img src=\"e7c9e30fada94396bd16523e57d2649b-ao-O.svg\" />"
+                                    ],
+                                    "guid": "vB->3U&XHF",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Correction du DES par voie sanguine",
+                                        "<ul><li>Perfusion de soluté salé hypotonique<br></li><li>Pas de glucose car il est métabolisé ⇒ apport d'eau libre dont les 2/3 iront en Intra-Cellulaire<br></li></ul>"
+                                    ],
+                                    "guid": "HZ!:c*Fr+~",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Si la régulation de la natrémie est empêchée ⇒ Conséquence",
+                                        "Volume IntraCellulaire impacté par la natrémie (diminution si natrémie haute, augmentation si natrémie faible)"
+                                    ],
+                                    "guid": "G^7wCA4bd~",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
+                    "crowdanki_uuid": "ac4c43e6-4c75-11ec-b5de-600308aa3fd6",
+                    "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "ED",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "bc49728e-4aed-11ec-b5de-600308aa3fd6",
                             "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
                             "desc": "",
@@ -38266,7 +38482,16 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "5306e9e6da054f89b59d3ed447884200-ao-1-A.svg",
+                                "5306e9e6da054f89b59d3ed447884200-ao-1-Q.svg",
+                                "5306e9e6da054f89b59d3ed447884200-ao-2-A.svg",
+                                "5306e9e6da054f89b59d3ed447884200-ao-2-Q.svg",
+                                "5306e9e6da054f89b59d3ed447884200-ao-3-A.svg",
+                                "5306e9e6da054f89b59d3ed447884200-ao-3-Q.svg",
+                                "5306e9e6da054f89b59d3ed447884200-ao-O.svg",
+                                "tmp27gut0c0.png"
+                            ],
                             "name": "Troubles hydro-électriques",
                             "notes": [
                                 {
@@ -38573,7 +38798,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Hyperaldostéronisme primaire dans une HEC - Signes spécifiques",
-                                        "<ul><li>Alcalose hypokahémique (effet de l'aldostérone)</li><li>Pas d'oedèmes</li></ul>"
+                                        "<ul><li>Alcalose hypokaliémique (effet de l'aldostérone)</li><li>Pas d'oedèmes</li></ul>"
                                     ],
                                     "guid": "n5bH-l?5|}",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -38651,6 +38876,493 @@
                                     "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Pourquoi un bilan hydrique positif s'accompagne d'une augmentation du VIC seulement ?",
+                                        "Car l'eau se répartit entre VIC (2/3) et VEC (1/3), puis s'il n'y a pas d'anomalie de l'homéostasie sodée, le VEC est ramené à la normale (bilan Na+ négatif)"
+                                    ],
+                                    "guid": "y`&fiu<`al",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Signes cliniques de l'HIC",
+                                        "<ul><li>Seulement aigüe</li><li>Céphalées, nausées, vomissements<br></li><li>Formes sévères ⇒&nbsp;troubles de conscience (confusion puis coma)<br></li></ul>"
+                                    ],
+                                    "guid": "bI&9!;A]=P",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Pourquoi n'y a-t-il pas de signes cliniques de l'HIC chronique",
+                                        "Car&nbsp;adaptation lente intracellulaire permettant la normalisation du volume&nbsp;intracellulaire malgré l'hypo-osmolarité"
+                                    ],
+                                    "guid": "JisH|t8TPu",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Signes biologiques de l'HIC",
+                                        "<ul><li>OsmoP &lt; 280mOsmol/Kg, mais pas mesurable en pratique<br></li><li>En général,&nbsp;hyponatrémie (&lt; 136 mmol/L), mais pas toujours</li></ul>"
+                                    ],
+                                    "guid": "i50`K*$XP9",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Situations avec dissociation entre la valeur d'osmolalité et la valeur de natrémie - Préciser fonctionnement, et conséquence sur HIC",
+                                        "<ul><li>Hyponatrémie normo-osmolaire</li><ul><li>↑ de la part non-hydrique du plasma (hyperprotidémie, hypertriglycéridémie)<br></li><li>Natrémie basse, osmolarité basse mais&nbsp;osmolalité normale<br></li><li>Pas de trouble IC</li></ul><li>Hyponatrémie hyperosmolaire<br></li><ul><li>↑ d'un osmole autre que Na<sup>+</sup> (Glu +++)</li><li>Natrémie basse, mais osmolarité et osmolalité hautes<br></li><li>DIC \"paradoxale\" vis-à-vis du Na<sup>+</sup></li></ul></ul>"
+                                    ],
+                                    "guid": "BKK28e/,eS",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "5306e9e6da054f89b59d3ed447884200-ao-1",
+                                        "",
+                                        "<img src=\"tmp27gut0c0.png\" />",
+                                        "<img src=\"5306e9e6da054f89b59d3ed447884200-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"5306e9e6da054f89b59d3ed447884200-ao-1-A.svg\" />",
+                                        "<img src=\"5306e9e6da054f89b59d3ed447884200-ao-O.svg\" />"
+                                    ],
+                                    "guid": "P0BWK^K!K)",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "5306e9e6da054f89b59d3ed447884200-ao-2",
+                                        "",
+                                        "<img src=\"tmp27gut0c0.png\" />",
+                                        "<img src=\"5306e9e6da054f89b59d3ed447884200-ao-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"5306e9e6da054f89b59d3ed447884200-ao-2-A.svg\" />",
+                                        "<img src=\"5306e9e6da054f89b59d3ed447884200-ao-O.svg\" />"
+                                    ],
+                                    "guid": "q)*jsvVn>8",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "5306e9e6da054f89b59d3ed447884200-ao-3",
+                                        "",
+                                        "<img src=\"tmp27gut0c0.png\" />",
+                                        "<img src=\"5306e9e6da054f89b59d3ed447884200-ao-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"5306e9e6da054f89b59d3ed447884200-ao-3-A.svg\" />",
+                                        "<img src=\"5306e9e6da054f89b59d3ed447884200-ao-O.svg\" />"
+                                    ],
+                                    "guid": "r&%sTg`Mbg",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Formule de calcul de l'osmolarité urinaire",
+                                        "Osmo<sub>U</sub> = (Na<sub>U</sub> + K<sub>U</sub>) x 2 + Urée<sub>U</sub>"
+                                    ],
+                                    "guid": "drtV/KEh0w",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Première analyse des hyponatrémies hypo-osmolaires",
+                                        "Distinction des hyponatrémies d'origine extra-rénale/rénale"
+                                    ],
+                                    "guid": "RhxK7Jc*.,",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Distinction des hyponatrémies d'origine extra-rénale/rénale",
+                                        "On regarde&nbsp;OsmoU<br><ul><li>OsmoU basse (&lt; 150 mosmo/L), attendue ⇒ pas de trouble de dilution ⇒ origine extra-rénale<br></li><li>OsmoU normale ou élevée (&gt; 150 mosmo/L), inadaptée&nbsp;⇒ trouble de dilution ⇒ origine rénale<br></li></ul>"
+                                    ],
+                                    "guid": "l`f>Vbz~:S",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Apports osmolaires moyens",
+                                        "Environ 10 mOsmol/Kg (600 mosmol pour un adulte de 60 Kgs)"
+                                    ],
+                                    "guid": "DyDJU#nXzT",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Calcul de&nbsp;Osmo<sub>U</sub> cible",
+                                        "Osmo<sub>U</sub>&nbsp;cible = Apport<sub>osmolaire</sub> / Apport<sub>hydrique</sub>"
+                                    ],
+                                    "guid": "HkO4F,A;W4",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyponatrémie d'origine extra-rénale (de dilution) ⇒ Quand ?",
+                                        "Osmo<sub>U</sub>&nbsp;cible &lt; Osmo<sub>U</sub>&nbsp;min (60 mOsmol/L) ⇒ Conséquence"
+                                    ],
+                                    "guid": "zTz>mYQ_3M",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Situations cliniques extrêmes d'hyponatrémie de dilution",
+                                        "<ul><li>Potomanie (apports hydriques très élevés sans anomalie de la charge osmolaire)<br></li><li>Syndrome tea and toast (charge osmolaire faible et charge hydrique conservée)<br></li></ul>"
+                                    ],
+                                    "guid": "z89G)o:vp9",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyponatrémie d'origine rénale - 2 physiopathologies possibles",
+                                        "<ul><li>Urine hypertonique arrivant au canal collecteur</li><li>Sécrétion d'ADH malgré l'hyponatrémie</li></ul>"
+                                    ],
+                                    "guid": "c~bADww*sd",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Urine hypertonique arrivant au canal collecteur - Origine",
+                                        "<ul><li>Insuffisance rénale chronique terminale<br></li><li>Prise de diurétique thiazidique<br></li></ul>"
+                                    ],
+                                    "guid": "d3tQ-3*Ree",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hyponatrémie d'origine rénale - Conséquence sur&nbsp;Osmo<sub>U</sub>",
+                                        "Osmo<sub>U</sub> &gt; 150&nbsp;mosmol/L"
+                                    ],
+                                    "guid": "my?)>NW1-*",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sécrétion d'ADH malgré l'hyponatrémie - Origines",
+                                        "<ul><li>Hypovolémie<br></li><ul><li>Vraie : DEC</li><li>Efficace : insuffisance cardiaque, cirrhose...</li></ul><li>Sécrétion Inappropriée d'ADH ou SIAD<br></li></ul>"
+                                    ],
+                                    "guid": "mWKvci<#T,",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sécrétion Inappropriée d'ADH ou SIAD - Conséquence sur la natriurèse",
+                                        "Aucune"
+                                    ],
+                                    "guid": "B_7=6EJH0j",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sécrétion Inappropriée d'ADH ou SIAD - Causes",
+                                        "<ul><li>Paranéoplasiques<br></li><li>Médicamenteuses</li><li>Autres</li></ul>"
+                                    ],
+                                    "guid": "pxJf6-Q%!o",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Devant une hyponatrémie, conduite diagnostique",
+                                        "<ol><li>Vérifier caractère hypo-osmolaire de l'hyponatrémie (mesurer Osmo<sub>P</sub>)</li><li>Calculer l'Osmo<sub>U</sub> en concentration sur échantillon<br></li><li>Si Osmo<sub>U</sub> basse, chercher des facteurs diététiques (Apports H<sub>2</sub>0 élevés, apports osmolaires faibles)<br></li><li>Si Osmo<sub>U</sub> inappropriée (&gt;150mOsmol/Kg) et pas d'IR ni prise de diurétique, évaluer le VEC<br></li><li>Si DEC ou HEC, hyponatrémie secondaire au trouble EC (trouble mixte donc SEC et SIC)<br></li><li>Si VEC normal, probable SIADH. Enquête étiologique (Cancer+++)<br></li></ol>"
+                                    ],
+                                    "guid": "M7NRFfNZLB",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Pourquoi un bilan hydrique négatif s'accompagne d'une diminution du VIC seulement ? Et de combien d'ailleurs ?",
+                                        "<ul><li>Perte d'eau ⇒&nbsp;hypernatrémie du SEC qui s'étend au SIC ⇒ contraction du SIC</li><li>En l'absence d'anomalie de l'homéostasie sodée ⇒ Correction et hypernatrémie</li><li>Au final, juste une DIC</li></ul>"
+                                    ],
+                                    "guid": "coan4S?M0F",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "L'{{c1::hyper::hypo/hyper}}natrémie est un trouble rare",
+                                        ""
+                                    ],
+                                    "guid": "hSok9,kv1.",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "DIC -&nbsp;Signes cliniques",
+                                        "<ul><li>Soif +++ mais restaure souvent la natrémie ⇒ trouble de la soif ?</li><li>Sécheresse des muqueuses<br></li><li>Troubles de conscience (confusion puis coma)<br></li></ul>"
+                                    ],
+                                    "guid": "y<{I,pbjC=",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "DIC -&nbsp;Signes biologiques",
+                                        "<ul><li>Hyperosmolalité (Osmo<sub>P</sub> &gt; 300 mOsmol/Kg) mais pas possible à mesurer en pratique<br></li><li>Hypernatrémie (qui s'accompagne toujours d'une hyperosmolalité)</li><li>Hyperosmolalité sans hypernatrémie (Hyperglycémie par exemple)<br></li></ul>"
+                                    ],
+                                    "guid": "O%c]&zzQE$",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Distinction des hypernatrémies d'origine extra-rénale/rénale",
+                                        "On regarde&nbsp;OsmoU<br><ul><li>OsmoU élevée (&gt; 1200 mosmo/L), attendue ⇒ pas de trouble de concentration ⇒ origine extra-rénale<br></li><li>OsmoU basse (&lt; 700 mosmol/L)&nbsp;inadaptée&nbsp;⇒ trouble de concentration ⇒ origine rénale</li></ul>"
+                                    ],
+                                    "guid": "oq/E@_)u$-",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hypernatrémie d'origine extra-rénale ⇒ Quand ?",
+                                        "Osmo<sub>U</sub>&nbsp;cible &gt; Osmo<sub>U</sub>&nbsp;max(1200 mOsmol/L) ⇒ Conséquence"
+                                    ],
+                                    "guid": "oEjfV%+6G.",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Situations cliniques extrêmes pouvant conduire à une hypernatrémie sans trouble de concentration",
+                                        "<ul><li>Pertes d'un liquide très hypotonique (diarrhée profuse), sans accès à l'eau (grabatisation, nourrisson)<br></li><li>Apports très hypertoniques, situation assez rare (perfusion soluté hypertonique, prise d'eau de mer)<br></li></ul>"
+                                    ],
+                                    "guid": "MFj0bvV:fI",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hypernatrémie d'origine rénale - 2 situations",
+                                        "<ul><li>Atteinte de la réponse tubulaire à l'ADH malgré des taux d'ADH élevés</li><li>Défaut de production cérébrale d'ADH<br></li></ul>"
+                                    ],
+                                    "guid": "OayJX7^X0U",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Atteinte de la réponse tubulaire à l'ADH malgré des taux d'ADH élevés - Origines",
+                                        "<ul><li>Perte du gradient cortico-papillaire<br></li><ul><li>Diurèse osmotique = présence dans l'urine d'une osmole en excès (Glucose +++)</li><li>Levée d'obstacle</li><li>Diurétique de l'anse</li></ul><li>Atteinte de la cellule du canal collecteur</li><ul><li>Causes génétiques (Récepteur V2 ADH, AQP)</li><li>Troubles métaboliques: Hypercalcémie - Hypokaliémie&nbsp;</li><li>Toxique :&nbsp; Lithium +++</li></ul></ul>"
+                                    ],
+                                    "guid": "lW[/BX<2]7",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Diabète insipide néphrogénique",
+                                        "Atteinte de la cellule du canal collecteur causant une hypernatrémie"
+                                    ],
+                                    "guid": "H8Sp<60X{$",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Diabète insipide central",
+                                        "Défaut de production cérébrale d'ADH"
+                                    ],
+                                    "guid": "E%@YR&rW!2",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Défaut de production cérébrale d'ADH - Origines",
+                                        "<ul><li>Tumeur de la base du crâne</li><li>Complications de la chirurgie hypophysaire (souvent transitoire)&nbsp;</li><li>Infectieux (granulome)...<br></li></ul>"
+                                    ],
+                                    "guid": "d;KKMvwtRx",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Pourquoi l'hypernatrémie est un trouble rare ?",
+                                        "<ul><li>Uniquement en cas de trouble de la soif, ou quand l'accès à l'eau libre est impossible (grabataire, nourrisson,&nbsp;réanimation, naufragé...)<br></li><li>Dans les autres cas, on a augmentation de la diurèse et augmentation de la prise d'eau sans hypernatrémie et donc sans trouble intracellulaire</li></ul>"
+                                    ],
+                                    "guid": "o[j#BVA,i(",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Syndrome polyuro-polydipique",
+                                        "Augmentation de la diurèse et augmentation de la prise d'eau"
+                                    ],
+                                    "guid": "D%2h:F]U8E",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Syndrome polyuro polydipsique avec natrémie normale ⇒ Ça peut être quoi ?",
+                                        "<ul><li>Polydipsie primaire (j'urine parce que je bois)<br></li><li>Diabète insipide (je bois car je n'arrive pas à concentrer mes urines)<br></li></ul>"
+                                    ],
+                                    "guid": "s2JzDF$_*z",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Diagnostic de diabète insipide en cas de syndrome polyuro polydipsique avec natrémie normale",
+                                        "Test de restriction hydrique :&nbsp;<br><ul><li>Si&nbsp;le débit urinaire diminue, l'osmolarité urinaire augmente et la natrémie est stable ⇒&nbsp;polydispsie primaire</li><li>Si&nbsp;le débit urinaire diminue, l'osmolarité urinaire augmente et la natrémie est stable ⇒&nbsp;polydispsie primaire</li></ul>"
+                                    ],
+                                    "guid": "LFnY7GR/7|",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Distinction entre diabète insipide central ou périphérique",
+                                        "Injection d'ADH (ddAVP Test Au Minirin) :<br><ul><li>Si l'osmoU augmente, le diabète insipide est central (défaut de production d'ADH)<br></li><li>Si l'osmoU reste basse, il est périphérique (prise de Lithium par exemple)<br></li></ul>"
+                                    ],
+                                    "guid": "qEIGZmB.*4",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        ":"
                                     ]
                                 }
                             ]

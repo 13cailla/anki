@@ -2,8 +2,12 @@
  <!-- Created with Image Occlusion Enhanced -->
  <g>
   <title>Labels</title>
+  <text fill="#000000" stroke-width="0" x="886.77797" y="694.62264" id="svg_1" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.588630199432373,0,0,0.6235294342041016,245.01570980995893,259.78821980953217) ">(trombose veineuse)</text>
+  <text fill="#000000" stroke-width="0" x="1698.82954" y="289.19287" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.588630199432373,0,0,0.6235294342041016,245.01570980995893,259.78821980953217) " id="svg_2">(trombose veineuse)</text>
+  <text fill="#000000" stroke-width="0" x="854.50103" y="613.1551" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.588630199432373,0,0,0.6235294342041016,245.01570980995893,259.78821980953217) " id="svg_3">(Hypertrophie Bénigne de la Prostate)</text>
+  <text transform="matrix(0.5361714586273932,0,0,0.8794738054275513,638.822360119374,88.22328887693584) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_4" y="563.70489" x="1271.24597" stroke-width="0" fill="#000000">(incision longitiudinale)</text>
  </g>
- <g>
+ <g display="inline">
   <title>Masks</title>
   <rect id="8ee3525037114ff0bf602823f0ee9687-ao-1" height="340.98362" width="498.36067" y="258.78684" x="441.73775" stroke="#2D2D2D" fill="#FFEBA2"/>
   <rect id="8ee3525037114ff0bf602823f0ee9687-ao-2" height="250.81968" width="470.49182" y="614.52456" x="440.09841" stroke="#2D2D2D" fill="#FFEBA2"/>

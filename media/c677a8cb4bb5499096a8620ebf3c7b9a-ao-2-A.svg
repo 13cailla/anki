@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1164" height="1166">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="444.69564" y="1044.86962" id="c677a8cb4bb5499096a8620ebf3c7b9a-ao-2" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">(1)</text>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="168.609" y="259.54217" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" id="c677a8cb4bb5499096a8620ebf3c7b9a-ao-3">(5)</text>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="212.08694" y="788.34788" id="c677a8cb4bb5499096a8620ebf3c7b9a-ao-4" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">(3)</text>
+  <text id="c677a8cb4bb5499096a8620ebf3c7b9a-ao-1" fill="#000000" stroke-width="0" x="580.19091" y="463.69807" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7995918393135073,0,0,0.8677094323765288,-234.43778978753835,-265.36092377626494) " font-weight="bold">(IEC et SARTAN)</text>
+ </g>
+ <g display="inline">
+  <title>Masks</title>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="18.60867" y="155.73917" width="1145.65221" height="465.2174" id="c677a8cb4bb5499096a8620ebf3c7b9a-ao-1"/>
+  
+  <g id="c677a8cb4bb5499096a8620ebf3c7b9a-ao-3">
+   <rect fill="#FFEBA2" x="320.7826" y="1007.9131" width="813.04348" height="63.04348" stroke="#2D2D2D"/>
+   <rect fill="#FFEBA2" x="16.43476" y="1077.47832" width="1119.56521" height="60.86957" stroke="#2D2D2D"/>
+  </g>
+ </g>
+</svg>

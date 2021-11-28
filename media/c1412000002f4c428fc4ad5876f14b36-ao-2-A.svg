@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1812" height="1202">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Masks</title>
+  <rect id="svg_1" height="154.54545" width="250" y="93.45453" x="247.09082" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <g id="svg_25">
+   <rect stroke="#2D2D2D" id="svg_2" height="72.72727" width="620.45454" y="93.45453" x="512.9999" fill="#FFEBA2"/>
+   <rect id="svg_4" stroke="#2D2D2D" height="72.72727" width="620.45454" y="95.7273" x="1143.68183" fill="#FFEBA2"/>
+  </g>
+  <g id="svg_26">
+   <rect id="svg_3" stroke="#2D2D2D" height="72.72727" width="620.45454" y="173" x="511.86367" fill="#FFEBA2"/>
+   <rect id="svg_5" stroke="#2D2D2D" height="72.72727" width="620.45454" y="175.27274" x="1136.86366" fill="#FFEBA2"/>
+  </g>
+  <g id="svg_32">
+   <g id="svg_30">
+    <rect id="svg_27" height="111.36364" width="604.54545" y="947.99998" x="512.9999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect id="svg_28" height="97.72727" width="579.54545" y="1077.54543" x="519.81809" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   </g>
+   <rect id="svg_31" height="177.27273" width="640.90908" y="984.36362" x="1142.54535" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="svg_33">
+   <rect id="svg_16" height="70.45454" width="622.72727" y="502.54544" x="1142.54535" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect id="svg_17" height="222.72727" width="634.0909" y="588.90907" x="1151.63626" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <g id="svg_23">
+    <rect stroke="#2D2D2D" id="svg_8" height="229.54545" width="281.81818" y="263.90908" x="508.45445" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
+    <rect stroke="#2D2D2D" id="svg_14" height="72.72726" width="552.27273" y="503.68182" x="519.81816" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
+    <rect id="svg_15" height="331.81818" width="588.63636" y="588.90907" x="510.72718" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   </g>
+   <g id="svg_24">
+    <rect id="svg_9" height="84.09091" width="290.90909" y="250.27271" x="840.27263" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect id="svg_10" height="147.72727" width="277.27272" y="343.45453" x="847.09081" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect id="svg_11" height="61.36364" width="652.27272" y="257.0909" x="1137.9999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect id="svg_12" height="154.54545" width="663.63636" y="341.1818" x="1137.9999" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   </g>
+  </g>
+  <g id="svg_36">
+   <rect id="svg_6" height="670.45454" width="231.81818" y="261.63635" x="251.63627" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect id="svg_34" height="65.90909" width="150" y="609.36362" x="53.909" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="svg_37">
+   <rect id="svg_7" height="220.45454" width="240.90909" y="957.09089" x="249.36354" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect id="svg_35" height="154.54545" width="159.09091" y="1038.90907" x="42.54536" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+ </g>
+ <g>
+  <title>Labels</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="c1412000002f4c428fc4ad5876f14b36-ao-1" y="368.45453" x="644.81808" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">1e étape</text>
+  
+  <text style="cursor: move;" id="c1412000002f4c428fc4ad5876f14b36-ao-3" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="729.13494" x="738.00559" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">3e étape</text>
+ </g>
+</svg>

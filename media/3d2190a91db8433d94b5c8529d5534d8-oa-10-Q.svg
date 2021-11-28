@@ -2,7 +2,7 @@
  <!-- Created with Image Occlusion Enhanced -->
  <g>
   <title>Labels</title>
-  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_1" y="120.18175" x="958.54549" stroke-width="0" fill="#000000">des hématuries</text>
+  <text fill="#000000" stroke-width="0" x="958.54549" y="120.18175" id="svg_1" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">des hématuries</text>
  </g>
  <g>
   <title>Masks</title>
@@ -13,12 +13,11 @@
   
   
   
-  
-  
   <g id="3d2190a91db8433d94b5c8529d5534d8-oa-10" class="qshape">
-   <rect stroke="#2D2D2D" height="52.72728" width="247.27273" y="240.18175" x="220.36366" fill="#FF7E7E" class="qshape"/>
-   <rect height="50.90909" width="350.9091" y="241.99993" x="1011.27276" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="652.72728" width="1523.63639" y="311.09084" x="11.27275" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect fill="#FF7E7E" x="225.81823" y="241.99993" width="247.27273" height="52.72728" stroke="#2D2D2D" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="1016.72733" y="243.81811" width="350.9091" height="50.90909" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="16.72732" y="312.90902" width="1523.63639" height="652.72728" class="qshape"/>
   </g>
+  
  </g>
 </svg>

@@ -2,11 +2,10 @@
  <!-- Created with Image Occlusion Enhanced -->
  <g>
   <title>Labels</title>
-  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_1" y="120.18175" x="958.54549" stroke-width="0" fill="#000000">des hématuries</text>
+  <text fill="#000000" stroke-width="0" x="958.54549" y="120.18175" id="svg_1" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">des hématuries</text>
  </g>
  <g>
   <title>Masks</title>
-  
   
   
   

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2056" height="784">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text fill="#000000" stroke-width="0" x="769.45442" y="88.72725" id="svg_7" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(2.6927935492960273,0,0,3.2659585475921626,-1173.4343954976503,-198.87951322644946) " font-weight="bold">de la dyspnée</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_8" y="592.3636" x="523.99988" stroke-width="0" fill="#000000">bronchopneumopathie chronique obstructive</text>
+ </g>
+ <g display="inline">
+  <title>Masks</title>
+  <g id="9f3faaaf2fac46a08e4615e8cbdd388c-oa-1" class="qshape">
+   <rect height="89.09091" width="579.99998" y="410.54542" x="163.99989" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="45.45454" width="250.90908" y="352.3636" x="229.45443" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  </g>
+  
+  
+  
+  
+ </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1818" height="966">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_1" y="54.00002" x="445.63629" stroke-width="0" fill="#000000">d'une hémoptysie</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="f78bcefc9e6a43adb10ddbc3e0280b4c-oa-1" height="130.90909" width="490.9091" y="190.36366" x="251.09083" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="f78bcefc9e6a43adb10ddbc3e0280b4c-oa-2" height="81.81818" width="703.63638" y="421.27276" x="243.8181" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="f78bcefc9e6a43adb10ddbc3e0280b4c-oa-3" height="81.81818" width="720.00002" y="606.72731" x="252.90901" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="f78bcefc9e6a43adb10ddbc3e0280b4c-oa-4" height="140" width="747.27274" y="788.54549" x="251.09083" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <g id="f78bcefc9e6a43adb10ddbc3e0280b4c-oa-5">
+   <rect stroke="#ffffff" height="149.09091" width="812.72728" y="181.27275" x="216.54538" fill="#ffffff"/>
+   <rect stroke="#ffffff" height="112.72728" width="812.72728" y="412.18181" x="215.63635" fill="#ffffff"/>
+   <rect stroke="#ffffff" height="103.63637" width="812.72728" y="599.45454" x="197.45453" fill="#ffffff"/>
+   <rect height="54.54546" width="465.45456" y="126.7273" x="185.63628" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="61.81818" width="476.36365" y="343.09094" x="176.54537" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="56.36364" width="494.54547" y="532.18185" x="181.99992" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="61.81818" width="481.81819" y="717.6364" x="180.18173" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect stroke="#ffffff" height="149.09091" width="812.72728" y="783.09092" x="217.45453" fill="#ffffff"/>
+  </g>
+ </g>
+</svg>

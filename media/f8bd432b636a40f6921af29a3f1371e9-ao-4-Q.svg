@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1856" height="1154">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_10" y="372.08687" x="1778.78257" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Noms ?</text>
+  <text id="svg_11" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="786.76757" x="1480.96018" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Noms ?</text>
+  <text id="svg_14" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="615.02503" x="807.03766" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Traitement de ?</text>
+  <text id="svg_15" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="1099.80966" x="865.73671" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Traitement de ?</text>
+  <text id="svg_12" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="980.23835" x="1702.69218" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Durée d'action</text>
+  <text id="svg_13" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="471.53999" x="1750.52031" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Durée d'action</text>
+ </g>
+ <g display="inline">
+  <title>Masks</title>
+  <rect stroke="#2D2D2D" id="f8bd432b636a40f6921af29a3f1371e9-ao-1" height="67.3913" width="993.47824" y="330.78252" x="722.26083" fill="#FFEBA2"/>
+  <g id="f8bd432b636a40f6921af29a3f1371e9-ao-2">
+   <rect height="69.56522" width="665.21738" y="741.65208" x="741.82606" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="60.86956" width="891.30434" y="817.73904" x="128.78259" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="f8bd432b636a40f6921af29a3f1371e9-ao-3">
+   <rect stroke="#2D2D2D" height="143.47826" width="1426.08702" y="900.34773" x="183.13041" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
+   <rect height="63.04348" width="517.3913" y="1065.56512" x="196.17389" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="f8bd432b636a40f6921af29a3f1371e9-ao-4" class="qshape">
+   <rect stroke="#2D2D2D" height="136.95652" width="1445.65216" y="406.86948" x="187.47824" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FF7E7E" class="qshape"/>
+   <rect stroke="#2D2D2D" height="71.73913" width="478.26086" y="563.39121" x="185.30432" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FF7E7E" class="qshape"/>
+  </g>
+ </g>
+</svg>

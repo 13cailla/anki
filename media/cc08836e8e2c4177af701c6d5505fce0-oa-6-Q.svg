@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1052" height="891.9999999999999">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_1" y="77.99998" x="847.99996" stroke-width="0" fill="#000000">des douleurs thoraciques</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  
+  
+  
+  <g id="cc08836e8e2c4177af701c6d5505fce0-oa-6" class="qshape">
+   <g class="qshape">
+    <rect height="56.66667" width="141.66666" y="111.33331" x="116.33331" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+    <rect height="68.33333" width="240" y="349.66664" x="114.66664" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+    <rect height="48.33333" width="384.99999" y="519.66663" x="121.33331" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+    <rect height="191.66666" width="413.33333" y="669.66663" x="117.99998" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   </g>
+   <g class="qshape">
+    <rect stroke="#ffffff" height="194.99999" width="791.66664" y="171.33331" x="112.99998" fill="#FF7E7E" class="qshape"/>
+    <rect stroke="#ffffff" height="106.66665" width="791.66664" y="412.16666" x="107.16669" fill="#FF7E7E" class="qshape"/>
+    <rect stroke="#ffffff" height="100" width="859.99994" y="565.5" x="130.50001" fill="#FF7E7E" class="qshape"/>
+    <rect stroke="#ffffff" height="194.99999" width="791.66664" y="668.83332" x="530.49998" fill="#FF7E7E" class="qshape"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -5,15 +5,17 @@
  </g>
  <g>
   <title>Masks</title>
-  <rect id="72a3ac502e824d048f2fcb680f2f4820-ao-1" height="267.79662" width="435.59324" y="581.93221" x="1387.2882" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-  <g id="72a3ac502e824d048f2fcb680f2f4820-ao-2">
-   <rect height="267.79662" width="435.59324" y="309.05091" x="67.79656" stroke="#2D2D2D" fill="#FFEBA2"/>
-   <rect height="267.79662" width="435.59324" y="309.05084" x="512.71187" stroke="#2D2D2D" fill="#FFEBA2"/>
-   <rect height="267.79662" width="435.59324" y="312.44067" x="951.69494" stroke="#2D2D2D" fill="#FFEBA2"/>
-   <rect height="267.79662" width="435.59324" y="310.74576" x="1388.98309" stroke="#2D2D2D" fill="#FFEBA2"/>
-   <rect height="267.79662" width="435.59324" y="581.93221" x="73.72882" stroke="#2D2D2D" fill="#FFEBA2"/>
-   <rect height="267.79662" width="435.59324" y="580.2373" x="946.61019" stroke="#2D2D2D" fill="#FFEBA2"/>
-   <rect height="267.79662" width="435.59324" y="583.62713" x="512.71187" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <g id="72a3ac502e824d048f2fcb680f2f4820-ao-1" class="qshape">
+   <rect fill="#FF7E7E" stroke="#2D2D2D" x="1395.76278" y="583.62713" width="435.59324" height="267.79662" class="qshape"/>
+   <g class="qshape">
+    <rect fill="#FF7E7E" stroke="#2D2D2D" x="76.27114" y="310.74583" width="435.59324" height="267.79662" class="qshape"/>
+    <rect fill="#FF7E7E" stroke="#2D2D2D" x="521.18645" y="310.74576" width="435.59324" height="267.79662" class="qshape"/>
+    <rect fill="#FF7E7E" stroke="#2D2D2D" x="960.16952" y="314.13559" width="435.59324" height="267.79662" class="qshape"/>
+    <rect fill="#FF7E7E" stroke="#2D2D2D" x="1397.45767" y="312.44068" width="435.59324" height="267.79662" class="qshape"/>
+    <rect fill="#FF7E7E" stroke="#2D2D2D" x="82.2034" y="583.62713" width="435.59324" height="267.79662" class="qshape"/>
+    <rect fill="#FF7E7E" stroke="#2D2D2D" x="955.08477" y="581.93222" width="435.59324" height="267.79662" class="qshape"/>
+    <rect fill="#FF7E7E" stroke="#2D2D2D" x="521.18645" y="585.32205" width="435.59324" height="267.79662" class="qshape"/>
+   </g>
   </g>
  </g>
 </svg>

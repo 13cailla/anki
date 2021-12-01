@@ -2,10 +2,11 @@
  <!-- Created with Image Occlusion Enhanced -->
  <g>
   <title>Labels</title>
+  <text transform="matrix(3.5643911361694336,0,0,3.517207622528076,-2046.4642638862133,-204.9950957596302) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_1" y="97.4447" x="827.105" stroke-width="0" fill="#000000">pulmonaires</text>
  </g>
  <g>
   <title>Masks</title>
-  <rect id="18b3680b789244a1ad846dce3f9f78dd-ao-1" height="631.37257" width="776.47061" y="352.03915" x="134.00006" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="134.00006" y="352.03915" width="776.47061" height="631.37257" id="18b3680b789244a1ad846dce3f9f78dd-ao-1"/>
   
  </g>
 </svg>

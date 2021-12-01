@@ -5570,25 +5570,17 @@
                                 "262f314d62674d7cbb14f7b1300c7287-ao-O.svg",
                                 "26dd01af1d7a48298322901526222e77-ao-1-A.svg",
                                 "26dd01af1d7a48298322901526222e77-ao-1-Q.svg",
-                                "26dd01af1d7a48298322901526222e77-ao-2-A.svg",
-                                "26dd01af1d7a48298322901526222e77-ao-2-Q.svg",
-                                "26dd01af1d7a48298322901526222e77-ao-3-A.svg",
-                                "26dd01af1d7a48298322901526222e77-ao-3-Q.svg",
-                                "26dd01af1d7a48298322901526222e77-ao-4-A.svg",
-                                "26dd01af1d7a48298322901526222e77-ao-4-Q.svg",
-                                "26dd01af1d7a48298322901526222e77-ao-5-A.svg",
-                                "26dd01af1d7a48298322901526222e77-ao-5-Q.svg",
                                 "26dd01af1d7a48298322901526222e77-ao-O.svg",
                                 "3427f5902ea44b07bb9ba2a75361b037-ao-1-A.svg",
                                 "3427f5902ea44b07bb9ba2a75361b037-ao-1-Q.svg",
                                 "3427f5902ea44b07bb9ba2a75361b037-ao-O.svg",
-                                "47829316af6142afb60b7d6a13d42da8-ao-1-A.svg",
-                                "47829316af6142afb60b7d6a13d42da8-ao-1-Q.svg",
-                                "47829316af6142afb60b7d6a13d42da8-ao-2-A.svg",
-                                "47829316af6142afb60b7d6a13d42da8-ao-2-Q.svg",
-                                "47829316af6142afb60b7d6a13d42da8-ao-3-A.svg",
-                                "47829316af6142afb60b7d6a13d42da8-ao-3-Q.svg",
-                                "47829316af6142afb60b7d6a13d42da8-ao-O.svg",
+                                "47829316af6142afb60b7d6a13d42da8-oa-1-A.svg",
+                                "47829316af6142afb60b7d6a13d42da8-oa-1-Q.svg",
+                                "47829316af6142afb60b7d6a13d42da8-oa-2-A.svg",
+                                "47829316af6142afb60b7d6a13d42da8-oa-2-Q.svg",
+                                "47829316af6142afb60b7d6a13d42da8-oa-3-A.svg",
+                                "47829316af6142afb60b7d6a13d42da8-oa-3-Q.svg",
+                                "47829316af6142afb60b7d6a13d42da8-oa-O.svg",
                                 "6eb84647f22b402dbbd24629958ae6ef-ao-1-A.svg",
                                 "6eb84647f22b402dbbd24629958ae6ef-ao-1-Q.svg",
                                 "6eb84647f22b402dbbd24629958ae6ef-ao-2-A.svg",
@@ -7004,7 +6996,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Anticorps monoclonal anti-IL5 - Administration",
-                                        "<ul><li>par voie SC</li><li>Nécessite 1 injection SC/4 semaines</li><li>Premières injections en milieu hospitalier<br></li></ul>"
+                                        "<ul><li>par voie SC</li><li>Nécessite 1 injection SC/mois</li><li>Premières injections en milieu hospitalier<br></li></ul>"
                                     ],
                                     "guid": "oKk#B^N#Uv",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -7279,176 +7271,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "47829316af6142afb60b7d6a13d42da8-ao-1",
-                                        "",
-                                        "<img src=\"tmp_z73pc6i.png\" />",
-                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-ao-1-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-ao-1-A.svg\" />",
-                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-ao-O.svg\" />"
-                                    ],
-                                    "guid": "KhZ8@LX{gS",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "47829316af6142afb60b7d6a13d42da8-ao-2",
-                                        "",
-                                        "<img src=\"tmp_z73pc6i.png\" />",
-                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-ao-2-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-ao-2-A.svg\" />",
-                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-ao-O.svg\" />"
-                                    ],
-                                    "guid": "K@LYi?R3-3",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "47829316af6142afb60b7d6a13d42da8-ao-3",
-                                        "",
-                                        "<img src=\"tmp_z73pc6i.png\" />",
-                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-ao-3-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-ao-3-A.svg\" />",
-                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-ao-O.svg\" />"
-                                    ],
-                                    "guid": "N6~t&rwVi<",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "26dd01af1d7a48298322901526222e77-ao-1",
-                                        "",
-                                        "<img src=\"tmpqz7ewnzi.png\" />",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-1-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-1-A.svg\" />",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-O.svg\" />"
-                                    ],
-                                    "guid": "Cu`tETiWs.",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "26dd01af1d7a48298322901526222e77-ao-2",
-                                        "",
-                                        "<img src=\"tmpqz7ewnzi.png\" />",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-2-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-2-A.svg\" />",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-O.svg\" />"
-                                    ],
-                                    "guid": "iCQStNovOD",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "26dd01af1d7a48298322901526222e77-ao-3",
-                                        "",
-                                        "<img src=\"tmpqz7ewnzi.png\" />",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-3-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-3-A.svg\" />",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-O.svg\" />"
-                                    ],
-                                    "guid": "kTV<V0SdW9",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "26dd01af1d7a48298322901526222e77-ao-4",
-                                        "",
-                                        "<img src=\"tmpqz7ewnzi.png\" />",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-4-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-4-A.svg\" />",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-O.svg\" />"
-                                    ],
-                                    "guid": "etg#:-[k2Z",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "26dd01af1d7a48298322901526222e77-ao-5",
-                                        "",
-                                        "<img src=\"tmpqz7ewnzi.png\" />",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-5-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-5-A.svg\" />",
-                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-O.svg\" />"
-                                    ],
-                                    "guid": "m{W[>7Mzl>",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Suivi du traitement et éducation de l'asthme",
-                                        "<ul><li>Toute modification du traitement est évaluée à 3 mois (sauf si CS alors 1 mois)<br></li><li>Si asthme stabilisé depuis au moins 3 mois: décroissance de la corƟcothérapie → déterminer la plus faible dose du traitement permettant de maintenir le contrôle de l’asthme<br></li><li>Suivi DEP et EFR (au moins 1 fois par an)<br></li><li>Consultations doivent intégrer une démarche éducative<br></li></ul>"
+                                        "<ul><li>Toute modification du traitement est évaluée à 3 mois (sauf si corticostéroïdes alors 1 mois)<br></li><li>Si asthme stabilisé depuis au moins 3 mois: décroissance de la corticothérapie → déterminer la plus faible dose du traitement permettant de maintenir le contrôle de l’asthme<br></li><li>Suivi DEP et EFR (au moins 1 fois par an)<br></li><li>Consultations doivent intégrer une démarche éducative<br></li></ul>"
                                     ],
                                     "guid": "l(*c)|YeL",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -7488,6 +7312,90 @@
                                     ],
                                     "guid": "X4jj!|kYq",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "47829316af6142afb60b7d6a13d42da8-oa-1",
+                                        "",
+                                        "<img src=\"tmp_z73pc6i.png\" />",
+                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-oa-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-oa-1-A.svg\" />",
+                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-oa-O.svg\" />"
+                                    ],
+                                    "guid": "pI*gb2TX<D",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "47829316af6142afb60b7d6a13d42da8-oa-2",
+                                        "",
+                                        "<img src=\"tmp_z73pc6i.png\" />",
+                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-oa-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-oa-2-A.svg\" />",
+                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-oa-O.svg\" />"
+                                    ],
+                                    "guid": "j<g4*)3PIj",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "47829316af6142afb60b7d6a13d42da8-oa-3",
+                                        "",
+                                        "<img src=\"tmp_z73pc6i.png\" />",
+                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-oa-3-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-oa-3-A.svg\" />",
+                                        "<img src=\"47829316af6142afb60b7d6a13d42da8-oa-O.svg\" />"
+                                    ],
+                                    "guid": "oze4{A`ti*",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "26dd01af1d7a48298322901526222e77-ao-1",
+                                        "",
+                                        "<img src=\"tmpqz7ewnzi.png\" />",
+                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-1-A.svg\" />",
+                                        "<img src=\"26dd01af1d7a48298322901526222e77-ao-O.svg\" />"
+                                    ],
+                                    "guid": "H`{Ja*Jnrw",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
                                     ]
@@ -7908,153 +7816,399 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [
-                                "b08bd95ff7cf4a078b0287df0525e992-ao-1-A.svg",
-                                "b08bd95ff7cf4a078b0287df0525e992-ao-1-Q.svg",
-                                "b08bd95ff7cf4a078b0287df0525e992-ao-2-A.svg",
-                                "b08bd95ff7cf4a078b0287df0525e992-ao-2-Q.svg",
-                                "b08bd95ff7cf4a078b0287df0525e992-ao-O.svg",
-                                "tmpxgwtkibc.png"
-                            ],
+                            "media_files": [],
                             "name": "ED Asthme",
+                            "notes": []
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "706c0a0a-5288-11ec-a6b6-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "paste-bb951fa67897e6e8c0d3d7177017dd1fb4d7b22c.png"
+                            ],
+                            "name": "EFR - Analyse de l'hématose et d'une hypoxémie",
                             "notes": [
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Prévalence de l'asthme (enfant et adulte)",
-                                        "Adulte : 6%<br>Enfant = 10%"
+                                        "Valeurs normales de&nbsp;PaO2",
+                                        "70 à 100 mmHg (70 mmHg à partir de 75 ans)"
                                     ],
-                                    "guid": "p/619Su}Z!",
+                                    "guid": "hZYMz*~AYz",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Caractérisation de l'asthme",
-                                        "<ul><li>Épisodes aigus</li><li>Symptômes d’asthme</li><li>Exacerbations<br></li></ul>"
+                                        "Valeurs normales de&nbsp;PaCO2",
+                                        "35-45 mmHg"
                                     ],
-                                    "guid": "ECyw>!,GR+",
+                                    "guid": "cLxTnSa(_/",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Symptômes d’asthme",
-                                        "<ul><li>gêne respiratoire, dyspnée, sifflements, oppression thoracique et/ou toux<br></li><li>de brève durée (de l’ordre de plusieurs minutes ; cèdent en général en moins de 20 minutes), variables et réversibles<br></li></ul>"
+                                        "Hypoxémie (quel que soit l'âge)",
+                                        "PaO2 &lt; 70 mmHg"
                                     ],
-                                    "guid": "x8}`+Mp:!0",
+                                    "guid": "{-!G7t&M8",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "PaCO2 &gt; 45 mmHg",
+                                        "Hypercapnie"
+                                    ],
+                                    "guid": "k;ZcUw6-MS",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Insuffisance respiratoire",
+                                        "Incapacité du système respiratoire à assurer une hématose normale: PaO2&lt;70 mmHg et/ou PaCO2&gt;45 mmHg"
+                                    ],
+                                    "guid": "rDTqwxR<El",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "S'il existe une hypoxémie, on fait quoi ? (grandes étapes)",
+                                        "<ul><li>Calculer la différence alvéolo-artérielle en O2 : D(A-a)O<sub>2</sub> = P<span style=\"font-size: 16.6667px;\">A</span>O<sub>2</sub> - PaO<sub>2</sub><br></li><li>Si la D(A-a)O<sub>2</sub> est normale + hypoxémie ⇒ P<sub>A</sub>O<sub>2</sub> est également abaissée<br></li><ul><li>PaCO<sub>2</sub>&nbsp;normale ⇒ ↓ Patm ou ↓ FractionO<sub>2</sub><br></li><li>PaCO<sub>2</sub>&nbsp;élevée (le + fréquent) ⇒&nbsp;l'hypoxémie est due à une hypoventilation alvéolaire<br></li></ul><li>Si la D(A-a)O<sub>2</sub>&nbsp;est élevée + hypoxémie ⇒ P<sub>A</sub>O<sub>2</sub> est normale (le + fréquent)<br></li><ul><li>trouble de la diffusion</li><li>hétérogénéité des rapports ventilation-perfusion</li><li>shunt<br></li></ul></ul>"
+                                    ],
+                                    "guid": "NA2t).n8nG",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Exacerbations de l'asthme",
-                                        "<ul><li>augmentation progressive des symptômes durant au moins deux jours et nécessitant une modification du traitement</li><li>non calmée par les bronchodilatateurs d’action rapide utilisés de façon fréquente et en quantité importante</li><li>sans retour à l’état habituel<br></li></ul>"
+                                        "Il existe 4 mécanismes d’hypoxémie et conséquence<br><ul><li>{{c1::Hypoventilation alvéolaire}}: {{c2::PaCO2 &gt; 45 mmHg}}</li><li>{{c1::Trouble de la diffusion}} : {{c2::Pratiquer une DLCO ou un test d’exercice}}</li><li>{{c1::Shunt}} : {{c2::Pratiquer une épreuve d’hyperoxie}}</li><li>{{c1::Hétérogénéité des VA/Q ou effet shunt}} : {{c2::Mécanisme le plus fréquent, pas besoin d'exploration complémentaire}}</li></ul>",
+                                        ""
                                     ],
-                                    "guid": "Gx_Xdf%7@@",
+                                    "guid": "oo:K$@N)7A",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "DLCO (Diffusion de l'oxyde de carbone) - Principe",
+                                        "<ul><li>Inspiration d'un mélange gazeux contenant une faible concentration de CO</li><li>Apnée de 8 à 10 s</li><li>Expiration avec prélèvement d'un échantillon de gaz alvéolaire où la fraction de CO est mesurée</li></ul>"
+                                    ],
+                                    "guid": "t~#Y[%[W&[",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Diagnostic de l'asthme",
-                                        "Symptômes caractéristiques ET mise en évidence d’une obstruction des voies aériennes réversible"
+                                        "Le transfert alvéolo-capillaire d'un gaz : 2 résistances, dépend de ?",
+                                        "<ul><li>Traversée de la membrane alvéolo-capillaire ⇒ Surface et épaisseur de la membrane</li><li>Liaison à l'hémoglobine ⇒&nbsp;concentration en hémoglobine + volume sanguin capillaire<br></li></ul>"
                                     ],
-                                    "guid": "M5=(]O;97t",
+                                    "guid": "tY?bjoWxpo",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Histoire clinique caractéristique de l'asthme",
-                                        "<ul><li>association de plusieurs symptômes respiratoires</li><li>variable au cours du temps et réversible</li><li>déclenchement des symptômes par les infections virales, l’exercice, l’exposition aux allergènes et/ou aux irritants, le rire, les pleurs (enfants)…</li><li>aggravation des symptômes la nuit ou au petit matin</li><li>association à des symptômes allergiques ou une atopie (tests) : présente chez environ 70% des adultes et 80% des enfants asthmatiques<br></li></ul>"
+                                        "DLCO anormal en cas de<br><ul><li>{{c1::Modification de l’épaisseur de la membrane alvéolo-capillaire}} ({{c2::fibrose}})&nbsp;</li><li>{{c1::Diminution de la surface de la membrane alvéolo-capillaire}} ({{c2::emphysème}})</li><li>{{c1::Modification du volume sanguin capillaire}} ({{c2::emphysème, hypertension artérielle pulmonaire, insuffisance cardiaque}})<br></li></ul>",
+                                        ""
                                     ],
-                                    "guid": "gvY>}.dg,9",
+                                    "guid": "fs{sg{(z(}",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Épreuve d'hyperoxie",
+                                        "<ul><li>Inhaler de l’O2 pur au patient pendant 20 minutes<br></li><li>En conditions normales</li><ul><li>FiO2 = 100%</li><li>PaO2 alvéolaire &gt; 650 mmHg</li><li>PaO2 artérielle &gt; 500 mmHg</li></ul><li>En cas de shunt</li><ul><li>PO2 artérielle &lt;&nbsp;500 mmHg (en raison de la courbe de dissociation de l'O2 en plateau lorsque la PO2 est supérieure à 100 mmHg)<br></li></ul></ul><img src=\"paste-bb951fa67897e6e8c0d3d7177017dd1fb4d7b22c.png\"><br>"
+                                    ],
+                                    "guid": "v`>)=PU05q",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "706cbe1e-5288-11ec-a6b6-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "EFR - Equilibre acido-basique",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Acide-Base<br>{{c1::HCO3-}} reflète la fonction du rein et {{c1::CO2 dissous}}, la fonction du poumon.",
+                                        ""
+                                    ],
+                                    "guid": "jTdeef_).=",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Signes d'une obstruction bronchique variable et réversible typique de l'asthme",
-                                        "<ul><li>sibilants à l’auscultation au présent ou dans le passé&nbsp;</li><li>trouble ventilatoire obstructif réversible sous bronchodilatateurs</li><li>hyperréactivité bronchique (HRB) lors d’un test de provocation bronchique à la méthacholine ou lors d’un test d’effort (uniquement en cas de spirométrie normale)<br></li></ul>"
+                                        "Si le pH &lt; {{c1::7,38}}, il existe une acidose. Si le pH &gt; {{c1::7,42}}, il existe une alcalose.",
+                                        ""
                                     ],
-                                    "guid": "v$3t7J_f=^",
+                                    "guid": "mBgO?]ewcV",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Acidose respiratoire aiguë - se traduit par?",
+                                        "Hypoventilation alvéolaire: pH &lt; 7,38 et PaCO2 &gt; 45 mmHg"
+                                    ],
+                                    "guid": "vsZi>Gg``8",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Débit expiratoire de pointe (DEP) - Principe",
-                                        "Débit maximal instantané mesuré lors d’une expiration forcée"
+                                        "Acidose chronique compensée - se traduit par",
+                                        "Compensation par le rein :&nbsp;<br><ul><li>pH revient à la normale</li><li>PaCO2 reste élevée</li><li>bicarbonate augmente<br></li></ul>"
                                     ],
-                                    "guid": "ll>=&5yjIf",
+                                    "guid": "pd(bIcx@&w",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Débit expiratoire de pointe (DEP) - Utile pour",
-                                        "<ul><li>apprécier l’évolution sous traitement d’une exacerbation grave aux urgences</li><li>vérifier l’efficacité d’un traitement de fond mis en place</li><li>diagnostiquer un asthme professionnel (variabilité sur et hors du lieu de travail)</li><li>auto-surveillance par le patient<br></li></ul>"
+                                        "Hyperventilation alvéolaire - Se traduit par",
+                                        "<ul><li>PCO2 &lt; 35 mmHg</li><li>Avec ou sans alcalose respiratoire (pH &gt; 7,42 ou normal)</li></ul>"
                                     ],
-                                    "guid": "lA|AeCdW{}",
+                                    "guid": "qW3Z(I<JA)",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "706d1ce2-5288-11ec-a6b6-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "EFR - Volumes et débits bronchiques",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<ul><li>Une atteinte {{c1::du parenchyme pulmonaire}} entraînera {{c2::des volumes pulmonaires anormaux}}</li><li>une atteinte {{c1::des voies aériennes}} entraînera {{c2::une modification des débits bronchiques}}</li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "mE~U(=l4sB",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Débit expiratoire de pointe (DEP) - Ne remplace quand même pas ...",
-                                        "<ul><li>VEMS<br></li><li>Courbe&nbsp;débit-volume</li></ul>"
+                                        "Une EFR est indiquée en cas de&nbsp;",
+                                        "<ul><li>Bilan de symptômes respiratoires à type de dyspnée ou de toux</li><li>Diagnostic positif et surtout diagnostic de gravité d'une maladie pulmonaire</li><li>Suivi évolutif de la maladie, effets des thérapeutiques</li><li>Evaluation préopératoire (chirurgie pulmonaire entre autres)</li><li>Dépistage d’une affection respiratoire débutante (bien que les EFR soient relativement peu sensibles)</li></ul>"
                                     ],
-                                    "guid": "GJS{7P)d:/",
+                                    "guid": "bV,)@=zDjr",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "b08bd95ff7cf4a078b0287df0525e992-ao-1",
-                                        "",
-                                        "<img src=\"tmpxgwtkibc.png\" />",
-                                        "<img src=\"b08bd95ff7cf4a078b0287df0525e992-ao-1-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"b08bd95ff7cf4a078b0287df0525e992-ao-1-A.svg\" />",
-                                        "<img src=\"b08bd95ff7cf4a078b0287df0525e992-ao-O.svg\" />"
+                                        "Techniques de mesure d'EFR",
+                                        "<ul><li>Pléthysmographie corporelle<br></li><li>Spirométrie<br></li></ul>"
                                     ],
-                                    "guid": "Br5d4Oz$oK",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
+                                    "guid": "qk[hyE.04}",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "b08bd95ff7cf4a078b0287df0525e992-ao-2",
-                                        "",
-                                        "<img src=\"tmpxgwtkibc.png\" />",
-                                        "<img src=\"b08bd95ff7cf4a078b0287df0525e992-ao-2-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"b08bd95ff7cf4a078b0287df0525e992-ao-2-A.svg\" />",
-                                        "<img src=\"b08bd95ff7cf4a078b0287df0525e992-ao-O.svg\" />"
+                                        "La mesure des volumes pulmonaires se fait par ?",
+                                        "Pléthysmographie corporelle ⇒ sert à mesurer quoi ?"
                                     ],
-                                    "guid": "uP~7wI;+$V",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": []
+                                    "guid": "o-!R9]4wV|",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La mesure des débits bronchiques se fait par ?",
+                                        "La spirométrie par&nbsp;pneumotachographe mesure quoi ?"
+                                    ],
+                                    "guid": "J%F,f|x-N7",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les valeurs normales des volumes pulmonaires et des débits bronchiques dépendent de",
+                                        "<ul><li>&nbsp;l'âge</li><li>le sexe</li><li><b>la taille</b></li><li>la population ou l'ethnie<br></li></ul>"
+                                    ],
+                                    "guid": "u&%2GG_W;-",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Limite Inférieure de la Norme (LIN) et Limite Supérieure de la Norme (LSN)",
+                                        "5ème percentile pour la LIN et 95ème percentile pour la LSN."
+                                    ],
+                                    "guid": "eElZB4kA{t",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Trouble ventilatoire restrictif ⇒ Signe à l'EFR",
+                                        "CPT &lt; LIN ⇒ Signe de ?"
+                                    ],
+                                    "guid": "HzN{^ARmaJ",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Distension thoracique ⇒ Signes à l'EFR ?",
+                                        "CPT, CRF et/ou VR &gt; LSN ⇒ Signe de ?"
+                                    ],
+                                    "guid": "F.j_c_[a*T",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Trouble ventilatoire obstructif ⇒ Quel signe à l'EFR ?",
+                                        "VEMS/CV &lt; LIN"
+                                    ],
+                                    "guid": "A)>Kk3&%T0",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Que faire devant un trouble ventilatoire obstructif ?",
+                                        "Quand fait-on un&nbsp;test de réversibilité aux bronchodilatateurs ?"
+                                    ],
+                                    "guid": "w(pv1_eV-N",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Test de réversibilité aux bronchodilatateurs positif",
+                                        "<ul><li>Augmentation du VEMS (ou CVF) &gt; 12% de la valeur de base</li><li>Augmentation du VEMS (ou CVF) &gt; 200 mL</li></ul>"
+                                    ],
+                                    "guid": "@sXFt|omh",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Si les débits bronchiques et les volumes pulmonaires sont normaux et si un asthme est suspecté ⇒ Que faire ?",
+                                        "Test de provocation bronchique à un agoniste cholinergique ⇒ On recherche une&nbsp;hyperréactivité bronchique (HRB) ⇒ Quand le fait-on ?"
+                                    ],
+                                    "guid": "vUvwyIDzJW",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 }
                             ]
                         },
@@ -8116,13 +8270,9 @@
                                 "6d98b523faa34cbcb569021e5b474eaf-oa-O.svg",
                                 "72a3ac502e824d048f2fcb680f2f4820-ao-1-A.svg",
                                 "72a3ac502e824d048f2fcb680f2f4820-ao-1-Q.svg",
-                                "72a3ac502e824d048f2fcb680f2f4820-ao-2-A.svg",
-                                "72a3ac502e824d048f2fcb680f2f4820-ao-2-Q.svg",
                                 "72a3ac502e824d048f2fcb680f2f4820-ao-O.svg",
                                 "865973b065fb4034a65bc0168a05f478-oa-1-A.svg",
                                 "865973b065fb4034a65bc0168a05f478-oa-1-Q.svg",
-                                "865973b065fb4034a65bc0168a05f478-oa-10-A.svg",
-                                "865973b065fb4034a65bc0168a05f478-oa-10-Q.svg",
                                 "865973b065fb4034a65bc0168a05f478-oa-11-A.svg",
                                 "865973b065fb4034a65bc0168a05f478-oa-11-Q.svg",
                                 "865973b065fb4034a65bc0168a05f478-oa-12-A.svg",
@@ -9340,18 +9490,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Signes de détresse respiratoire",
-                                        "<div><ul><li>Tachypnée ≈ 60/min</li><li>Tirage intercostal</li><li>Balancement thoraco-abdominal</li><li>Risque d’épuisement</li></ul></div>"
-                                    ],
-                                    "guid": "x,qqp{NW<T",
-                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "efc09835975f4fc9aa4585332e17dc1a-oa-1",
                                         "",
                                         "<img src=\"tmppofrcavq.png\" />",
@@ -9889,27 +10027,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "865973b065fb4034a65bc0168a05f478-oa-10",
-                                        "",
-                                        "<img src=\"tmpi4h0yheo.png\" />",
-                                        "<img src=\"865973b065fb4034a65bc0168a05f478-oa-10-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"865973b065fb4034a65bc0168a05f478-oa-10-A.svg\" />",
-                                        "<img src=\"865973b065fb4034a65bc0168a05f478-oa-O.svg\" />"
-                                    ],
-                                    "guid": "y@Tk!CVbBF",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "865973b065fb4034a65bc0168a05f478-oa-11",
                                         "",
                                         "<img src=\"tmpi4h0yheo.png\" />",
@@ -10157,7 +10274,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Toux paroxystique/permanente ⇒ etiologie",
-                                        "<ul><li>Paroxystique (asthme, allergie, RGO)</li><li>permanente (infection ORL, tumeur bronchique)</li></ul>"
+                                        "<ul><li>Paroxystique (asthme, allergie, RGO(reflux gastro-œsophagien))</li><li>permanente (infection ORL, tumeur bronchique)</li></ul>"
                                     ],
                                     "guid": "zRkfpmP;lK",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -10169,7 +10286,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Horaire de la toux",
-                                        "<div><ul><li>Matinale :&nbsp; bronchite chronique/BPCO, DDB</li><li>Nocturne : asthme, RGO, OAP</li></ul></div>"
+                                        "<div><ul><li>Matinale :&nbsp; bronchite chronique/BPCO, DDB (dilatation des bronches)</li><li>Nocturne : asthme, RGO (reflux gastro-œsophagien), OAP</li></ul></div>"
                                     ],
                                     "guid": "D_t[vJ7*5H",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
@@ -10181,21 +10298,9 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "<div>Tonalité de la toux</div> <div></div>",
-                                        "<div><ul><li>Rauque, aboyant : laryngée</li><li>Spasmodique : asthme</li><li>Coqueluchoïde avec reprise bruyante/inspiration sifflante</li><li>Bitonale : paralyse récurrentielle par compression médiastinale par tumeur</li></ul></div>"
+                                        "<div><ul><li>Rauque, aboyant : laryngée</li><li>Spasmodique : asthme</li><li>Reprise bruyante/inspiration sifflante : Coqueluchoïde</li><li>Bitonale : paralyse récurrentielle par compression médiastinale par tumeur</li></ul></div>"
                                     ],
                                     "guid": "s<uTHed-DX",
-                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Facteurs favorisant la toux et indice sur l'étiologie",
-                                        "<ul><li><div>Tabac : BPC</div></li><li><div>Médicaments : IEC</div></li><li><div>Alimentation : trouble déglutition, fausses routes</div></li><li><div>Exposition professionnelle</div></li><li><div>Décubitus : OAP, reflux gastro-oesophagien</div></li><li><div>Mobilisation : plèvre</div></li><li><div>Effort : BPCO, fibrose,&nbsp; insuffisance cardiaque, asthme</div></li><li><div>Effort, environnement/allergènes, froid : asthme</div></li></ul>"
-                                    ],
-                                    "guid": "m{>7*4u{x@",
                                     "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
@@ -10259,48 +10364,6 @@
                                         "<img src=\"b1b0697a55f640c290b2f58b0c12a28b-ao-O.svg\" />"
                                     ],
                                     "guid": "ly^+-*,V~r",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "72a3ac502e824d048f2fcb680f2f4820-ao-1",
-                                        "",
-                                        "<img src=\"tmpeyqkojoc.png\" />",
-                                        "<img src=\"72a3ac502e824d048f2fcb680f2f4820-ao-1-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"72a3ac502e824d048f2fcb680f2f4820-ao-1-A.svg\" />",
-                                        "<img src=\"72a3ac502e824d048f2fcb680f2f4820-ao-O.svg\" />"
-                                    ],
-                                    "guid": "Ph-/eqiEkZ",
-                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
-                                    "tags": [
-                                        "todo"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "72a3ac502e824d048f2fcb680f2f4820-ao-2",
-                                        "",
-                                        "<img src=\"tmpeyqkojoc.png\" />",
-                                        "<img src=\"72a3ac502e824d048f2fcb680f2f4820-ao-2-Q.svg\" />",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "",
-                                        "<img src=\"72a3ac502e824d048f2fcb680f2f4820-ao-2-A.svg\" />",
-                                        "<img src=\"72a3ac502e824d048f2fcb680f2f4820-ao-O.svg\" />"
-                                    ],
-                                    "guid": "Qv0cMKW*q9",
                                     "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
                                     "tags": [
                                         "todo"
@@ -10530,8 +10593,792 @@
                                     "tags": [
                                         "todo"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "72a3ac502e824d048f2fcb680f2f4820-ao-1",
+                                        "",
+                                        "<img src=\"tmpeyqkojoc.png\" />",
+                                        "<img src=\"72a3ac502e824d048f2fcb680f2f4820-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"72a3ac502e824d048f2fcb680f2f4820-ao-1-A.svg\" />",
+                                        "<img src=\"72a3ac502e824d048f2fcb680f2f4820-ao-O.svg\" />"
+                                    ],
+                                    "guid": "zjDn3J/LY;",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Facteurs favorisant la toux et indice sur l'étiologie<br><div><ul><li>Tabac : {{c1::BPCO}}</li><li>Médicaments : {{c1::IEC}}</li><li>Alimentation : {{c1::trouble déglutition, fausses routes}}</li><li>Exposition professionnelle</li><li>Décubitus : {{c1::OAP, reflux gastro-oesophagien}}</li><li>Mobilisation : {{c1::plèvre}}</li><li>Effort : {{c1::BPCO, fibrose,&nbsp; insuffisance cardiaque, asthme}}</li><li>Effort, environnement/allergènes, froid : {{c1::asthme}}</li></ul></div>",
+                                        ""
+                                    ],
+                                    "guid": "PbL:n0?/6L",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "7071060e-5288-11ec-a6b6-600308aa3fd6",
+                                    "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [
+                                        "b08bd95ff7cf4a078b0287df0525e992-ao-1-A.svg",
+                                        "b08bd95ff7cf4a078b0287df0525e992-ao-1-Q.svg",
+                                        "b08bd95ff7cf4a078b0287df0525e992-ao-2-A.svg",
+                                        "b08bd95ff7cf4a078b0287df0525e992-ao-2-Q.svg",
+                                        "b08bd95ff7cf4a078b0287df0525e992-ao-O.svg",
+                                        "tmpxgwtkibc.png"
+                                    ],
+                                    "name": "Asthme",
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Prévalence de l'asthme (enfant et adulte)",
+                                                "Adulte : 6%<br>Enfant = 10%"
+                                            ],
+                                            "guid": "p/619Su}Z!",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Caractérisation de l'asthme",
+                                                "<ul><li>Épisodes aigus</li><li>Symptômes d’asthme</li><li>Exacerbations<br></li></ul>"
+                                            ],
+                                            "guid": "ECyw>!,GR+",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Symptômes d’asthme",
+                                                "<ul><li>gêne respiratoire, dyspnée, sifflements, oppression thoracique et/ou toux<br></li><li>de brève durée (de l’ordre de plusieurs minutes ; cèdent en général en moins de 20 minutes), variables et réversibles<br></li></ul>"
+                                            ],
+                                            "guid": "x8}`+Mp:!0",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Exacerbations de l'asthme",
+                                                "<ul><li>augmentation progressive des symptômes durant au moins deux jours et nécessitant une modification du traitement</li><li>non calmée par les bronchodilatateurs d’action rapide utilisés de façon fréquente et en quantité importante</li><li>sans retour à l’état habituel<br></li></ul>"
+                                            ],
+                                            "guid": "Gx_Xdf%7@@",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Diagnostic de l'asthme",
+                                                "Symptômes caractéristiques ET mise en évidence d’une obstruction des voies aériennes réversible"
+                                            ],
+                                            "guid": "M5=(]O;97t",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Histoire clinique caractéristique de l'asthme",
+                                                "<ul><li>association de plusieurs symptômes respiratoires</li><li>variable au cours du temps et réversible</li><li>déclenchement des symptômes par les infections virales, l’exercice, l’exposition aux allergènes et/ou aux irritants, le rire, les pleurs (enfants)…</li><li>aggravation des symptômes la nuit ou au petit matin</li><li>association à des symptômes allergiques ou une atopie (tests) : présente chez environ 70% des adultes et 80% des enfants asthmatiques<br></li></ul>"
+                                            ],
+                                            "guid": "gvY>}.dg,9",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Signes d'une obstruction bronchique variable et réversible typique de l'asthme",
+                                                "<ul><li>sibilants à l’auscultation au présent ou dans le passé&nbsp;</li><li>trouble ventilatoire obstructif réversible sous bronchodilatateurs</li><li>hyperréactivité bronchique (HRB) lors d’un test de provocation bronchique à la méthacholine ou lors d’un test d’effort (uniquement en cas de spirométrie normale)<br></li></ul>"
+                                            ],
+                                            "guid": "v$3t7J_f=^",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Débit expiratoire de pointe (DEP) - Principe",
+                                                "Débit maximal instantané mesuré lors d’une expiration forcée"
+                                            ],
+                                            "guid": "ll>=&5yjIf",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Débit expiratoire de pointe (DEP) - Utile pour",
+                                                "<ul><li>apprécier l’évolution sous traitement d’une exacerbation grave aux urgences</li><li>vérifier l’efficacité d’un traitement de fond mis en place</li><li>diagnostiquer un asthme professionnel (variabilité sur et hors du lieu de travail)</li><li>auto-surveillance par le patient<br></li></ul>"
+                                            ],
+                                            "guid": "lA|AeCdW{}",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Débit expiratoire de pointe (DEP) - Ne remplace quand même pas ...",
+                                                "<ul><li>VEMS<br></li><li>Courbe&nbsp;débit-volume</li></ul>"
+                                            ],
+                                            "guid": "GJS{7P)d:/",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "b08bd95ff7cf4a078b0287df0525e992-ao-1",
+                                                "",
+                                                "<img src=\"tmpxgwtkibc.png\" />",
+                                                "<img src=\"b08bd95ff7cf4a078b0287df0525e992-ao-1-Q.svg\" />",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "<img src=\"b08bd95ff7cf4a078b0287df0525e992-ao-1-A.svg\" />",
+                                                "<img src=\"b08bd95ff7cf4a078b0287df0525e992-ao-O.svg\" />"
+                                            ],
+                                            "guid": "Br5d4Oz$oK",
+                                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "b08bd95ff7cf4a078b0287df0525e992-ao-2",
+                                                "",
+                                                "<img src=\"tmpxgwtkibc.png\" />",
+                                                "<img src=\"b08bd95ff7cf4a078b0287df0525e992-ao-2-Q.svg\" />",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "<img src=\"b08bd95ff7cf4a078b0287df0525e992-ao-2-A.svg\" />",
+                                                "<img src=\"b08bd95ff7cf4a078b0287df0525e992-ao-O.svg\" />"
+                                            ],
+                                            "guid": "uP~7wI;+$V",
+                                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "707174ea-5288-11ec-a6b6-600308aa3fd6",
+                                    "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [
+                                        "0a3eed983b324b7684dbf6bb36c4b5fe-ao-1-A.svg",
+                                        "0a3eed983b324b7684dbf6bb36c4b5fe-ao-1-Q.svg",
+                                        "0a3eed983b324b7684dbf6bb36c4b5fe-ao-O.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-1-A.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-1-Q.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-2-A.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-2-Q.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-3-A.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-3-Q.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-4-A.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-4-Q.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-5-A.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-5-Q.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-6-A.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-6-Q.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-7-A.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-7-Q.svg",
+                                        "9f05fbcc9af94061a4ef810b61faa0dd-ao-O.svg",
+                                        "tmpci8ig810.png",
+                                        "tmpzpdm6ylu.png"
+                                    ],
+                                    "name": "BPCO",
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Définition de la BPCO (BronchoPneumopathie Chronique Obstructive)",
+                                                "<ul><li>Existence de symptômes respiratoires chroniques : Au moins un parmi<br></li><ul><li>dyspnée d’exercice</li><li>toux</li><li>expectoration</li><li>infections respiratoires basses répétées ou traînantes<br></li></ul><li>Trouble ventilatoire obstructif (TVO) non complètement réversible<br></li></ul>"
+                                            ],
+                                            "guid": "n:p<LsdWwf",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Trouble ventilatoire obstructif (TVO) - Définition",
+                                                "Rapport VEMS/CVF &lt; 0,70 (ou &lt; 70% de la capacité vitale)"
+                                            ],
+                                            "guid": "J:fcw7|SyS",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Diagnostic de la BPCO",
+                                                "<ol><li>Trouble ventilatoire obstructif (TVO)<br></li><li>Injection de bronchodilatateur ⇒ Encore un trouble ventilatoire obstructif (TVO)<br>⇒ Sinon, probablement un asthme</li></ol>"
+                                            ],
+                                            "guid": "D@g4Y8v9L0",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "9f05fbcc9af94061a4ef810b61faa0dd-ao-1",
+                                                "",
+                                                "<img src=\"tmpci8ig810.png\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-1-Q.svg\" />",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-1-A.svg\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-O.svg\" />"
+                                            ],
+                                            "guid": "df*Ja(lDIY",
+                                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "9f05fbcc9af94061a4ef810b61faa0dd-ao-2",
+                                                "",
+                                                "<img src=\"tmpci8ig810.png\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-2-Q.svg\" />",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-2-A.svg\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-O.svg\" />"
+                                            ],
+                                            "guid": "B;++lZ$Eh)",
+                                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "9f05fbcc9af94061a4ef810b61faa0dd-ao-3",
+                                                "",
+                                                "<img src=\"tmpci8ig810.png\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-3-Q.svg\" />",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-3-A.svg\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-O.svg\" />"
+                                            ],
+                                            "guid": "z~SXkw#(oq",
+                                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "9f05fbcc9af94061a4ef810b61faa0dd-ao-4",
+                                                "",
+                                                "<img src=\"tmpci8ig810.png\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-4-Q.svg\" />",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-4-A.svg\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-O.svg\" />"
+                                            ],
+                                            "guid": "futZzMX[cC",
+                                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "9f05fbcc9af94061a4ef810b61faa0dd-ao-5",
+                                                "",
+                                                "<img src=\"tmpci8ig810.png\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-5-Q.svg\" />",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-5-A.svg\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-O.svg\" />"
+                                            ],
+                                            "guid": "m@=k1f*aUB",
+                                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "9f05fbcc9af94061a4ef810b61faa0dd-ao-6",
+                                                "",
+                                                "<img src=\"tmpci8ig810.png\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-6-Q.svg\" />",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-6-A.svg\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-O.svg\" />"
+                                            ],
+                                            "guid": "w/d5r/Y3}H",
+                                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "9f05fbcc9af94061a4ef810b61faa0dd-ao-7",
+                                                "",
+                                                "<img src=\"tmpci8ig810.png\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-7-Q.svg\" />",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-7-A.svg\" />",
+                                                "<img src=\"9f05fbcc9af94061a4ef810b61faa0dd-ao-O.svg\" />"
+                                            ],
+                                            "guid": "d{at@{(rno",
+                                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "La&nbsp;BPCO peut aussi inclure les maladies :",
+                                                "<ul><li>Bronchite chronique<br></li><li>Emphysème<br></li></ul>"
+                                            ],
+                                            "guid": "lDUlXIcmh&",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Bronchite chronique - Définition",
+                                                "Purement clinique : <br><ul><li>toux productive (c’est-à-dire avec expectoration)</li><li>quotidienne ou quasi-quotidienne&nbsp;</li><li>durant au moins 3 mois par an</li><li>au cours d’au moins 2 années consécutives</li></ul>"
+                                            ],
+                                            "guid": "qIUbQ+jm3V",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "La bronchite chronique concerne {{c1::la moitié}} des fumeurs environ",
+                                                ""
+                                            ],
+                                            "guid": "GeBzPs]V?_",
+                                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Emphysème - Définition",
+                                                "définition anatomopathologique<br><ul><li>élargissement anormal et permanent des espaces aériens distaux (au-delà des bronchioles terminales)</li><li>destruction des parois alvéolaires, sans fibrose associée</li></ul>"
+                                            ],
+                                            "guid": "vvyl?j8lW)",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Emphysème - Comment le suspecter radiologiquement ?",
+                                                "Zones d’hypodensité traduisant une raréfaction du parenchyme pulmonaire. <br>Quand les zones d’hypodensité sont cerclées par une paroi fine et ont un diamètre de plus de 1 cm, on parle de bulles (emphysème bulleux)"
+                                            ],
+                                            "guid": "paKH+l,w=A",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "0a3eed983b324b7684dbf6bb36c4b5fe-ao-1",
+                                                "",
+                                                "<img src=\"tmpzpdm6ylu.png\" />",
+                                                "<img src=\"0a3eed983b324b7684dbf6bb36c4b5fe-ao-1-Q.svg\" />",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "<img src=\"0a3eed983b324b7684dbf6bb36c4b5fe-ao-1-A.svg\" />",
+                                                "<img src=\"0a3eed983b324b7684dbf6bb36c4b5fe-ao-O.svg\" />"
+                                            ],
+                                            "guid": "J%:4eMSEuh",
+                                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Types d'emphysèmes",
+                                                "<ul><li>centro-lobulaire (destruction centrée sur la bronchiole avec préservation des capillaires pulmonaires, à l’origine d’une hypoxémie par inégalité des rapports ventilation/perfusion)</li><li>pan-lobulaire (destruction de l’ensemble du lobule, hypoxémie de repos tardive)<br></li></ul>"
+                                            ],
+                                            "guid": "w4n@Fli]:|",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Facteurs de risque environnementaux de BPCO",
+                                                "<ul><li>Tabac (&gt;80%)</li><li>Aéro-contaminants d’origine professionnelle (15%)<br></li><li>Pollution domestique (pays émergeants)<br></li><li>Pollution atmosphérique particulaire ⇒ exacerbations<br></li><li>Facteurs influençant la croissance pulmonaire in utero ou dans l’enfance<br></li></ul>"
+                                            ],
+                                            "guid": "GGUjlB*hZ|",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "7071f578-5288-11ec-a6b6-600308aa3fd6",
+                                    "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [
+                                        "e8a1658bd7234dea999c7c88e4fd8d56-oa-1-A.svg",
+                                        "e8a1658bd7234dea999c7c88e4fd8d56-oa-1-Q.svg",
+                                        "e8a1658bd7234dea999c7c88e4fd8d56-oa-2-A.svg",
+                                        "e8a1658bd7234dea999c7c88e4fd8d56-oa-2-Q.svg",
+                                        "e8a1658bd7234dea999c7c88e4fd8d56-oa-O.svg",
+                                        "tmpfgn4gylo.png"
+                                    ],
+                                    "name": "Dyspnée aigue et chronique",
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Orthopnée",
+                                                "Dyspnée en décubitus dorsal"
+                                            ],
+                                            "guid": "bi-np]j%J/",
+                                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Antépnée",
+                                                "Dyspnée en antéflexion (position penchée en avant)"
+                                            ],
+                                            "guid": "s$[0nt.`ao",
+                                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Platypnée",
+                                                "Dyspnée en position debout"
+                                            ],
+                                            "guid": "qE1tjO1wV_",
+                                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Orthopnée - Lié à ?",
+                                                "Dyspnée liée à une insuffisance cardiaque, dysfonction diaphragmatique, obésité"
+                                            ],
+                                            "guid": "B<1f0e=G_Q",
+                                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Antépnée&nbsp;- Lié à ?",
+                                                "Dyspnée liée à une dysfonction diaphragmatique, obésité"
+                                            ],
+                                            "guid": "gf3=VzBb}$",
+                                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Platypnée&nbsp;- Lié à ?",
+                                                "Dyspnée&nbsp;liée à un shunt anatomique intracardiaque (foramen ovale perméable) ou intrapulmonaire (malformation ou fistule artério-veineuse, syndrome hépato-pulmonaire)"
+                                            ],
+                                            "guid": "M.Y8s[j^[=",
+                                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Signes de lutte",
+                                                "<ol><li>Tachypnée +&nbsp;diminution du volume courant<br></li><ol><li>FR &gt; 25/min (adulte)<br></li><li>↓ VC = faiblesse de l'amplitude,&nbsp;hypophonie ou inefficacité de la toux</li></ol><li>Recrutement des groupes musculaires inspiratoires et expiratoires :</li><ol><li>Tirage :&nbsp;Muscles inspiratoires extra-diaphragmatiques</li><li>Expiration active :&nbsp;Muscles expiratoires</li><li>Battement des ailes du nez :&nbsp;Muscles dilatateurs des voies aériennes supérieures</li></ol></ol>"
+                                            ],
+                                            "guid": "pu<5[jQHT]",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "La bradypnée et les irrégularités respiratoires témoignent de ?",
+                                                "Une défaillance neurologique et non pas respiratoire ! ⇒ gravité +++, annonciateurs d'un arrêt respiratoire imminent"
+                                            ],
+                                            "guid": "nEZ-ucfr^#",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Signes de faillite",
+                                                "<ol><li>Respiration abdominale paradoxale (faillite de la pompe ventilatoire)</li><li>Cyanose (faillite de l'oxygénation)<br></li><li>Retentissement neurologique<br></li></ol>"
+                                            ],
+                                            "guid": "I0N^FiJDb7",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Respiration abdominale paradoxale",
+                                                "Recul de la paroi antérieure de l'abdomen lors de l'inspiration en lieu et place de l'expansion abdominale attendue"
+                                            ],
+                                            "guid": "k1B95cVRM&",
+                                            "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Respiration abdominale paradoxale<br><ul><li>Accompagnée {{c1::d'une orthopnée}}</li><li>Aggravée par {{c1::le décubitus dorsal}}<br></li><li>Signe de {{c1::l'absence de participation du diaphragme}}</li><li>Fait craindre&nbsp;{{c1::la survenue d'une défaillance à court terme.}}</li><li>Réponse : {{c1::assistance ventilatoire, ou au moins admission dans une structure où c'est possible}}</li></ul>",
+                                                ""
+                                            ],
+                                            "guid": "l+?{|>Vvm9",
+                                            "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Cyanose (faillite de l'oxygénation) - Signe",
+                                                "<ul><li>Coloration bleutée des téguments et muqueuses</li><li>Pour sujets mélanodermes, regarder la langue</li></ul>"
+                                            ],
+                                            "guid": "k2!pzAjD#,",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Signes neurologiques évocateurs de la présence d'une hypercapnie",
+                                                "<ul><li>Astérixis, ou \"flapping tremor\"</li><li>Altération du comportement ou de la vigilance<br></li></ul>"
+                                            ],
+                                            "guid": "qKeQl<iM[h",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Types de signes \"circulatoires\" devant être recherchés systématiquement devant une détresse respiratoire",
+                                                "<ul><li>cœur pulmonaire aigu</li><li>pouls paradoxal</li><li>hypertension artérielle accompagnée de sueurs</li><li>insuffisance circulatoire<br></li></ul>"
+                                            ],
+                                            "guid": "yj?qB4`{#u",
+                                            "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "e8a1658bd7234dea999c7c88e4fd8d56-oa-1",
+                                                "",
+                                                "<img src=\"tmpfgn4gylo.png\" />",
+                                                "<img src=\"e8a1658bd7234dea999c7c88e4fd8d56-oa-1-Q.svg\" />",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "<img src=\"e8a1658bd7234dea999c7c88e4fd8d56-oa-1-A.svg\" />",
+                                                "<img src=\"e8a1658bd7234dea999c7c88e4fd8d56-oa-O.svg\" />"
+                                            ],
+                                            "guid": "dZTu6J0y?T",
+                                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "e8a1658bd7234dea999c7c88e4fd8d56-oa-2",
+                                                "",
+                                                "<img src=\"tmpfgn4gylo.png\" />",
+                                                "<img src=\"e8a1658bd7234dea999c7c88e4fd8d56-oa-2-Q.svg\" />",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "",
+                                                "<img src=\"e8a1658bd7234dea999c7c88e4fd8d56-oa-2-A.svg\" />",
+                                                "<img src=\"e8a1658bd7234dea999c7c88e4fd8d56-oa-O.svg\" />"
+                                            ],
+                                            "guid": "GS]PljtCE*",
+                                            "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                            "tags": [
+                                                "todo"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "crowdanki_uuid": "7070b9d8-5288-11ec-a6b6-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "TVO chronique - BPCO - dyspnee chronique",
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -10615,7 +11462,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Prélèvements potentiellement nécessaires",
+                                        "Prélèvements médiastinaux potentiellement nécessaires",
                                         "<ul><li>parenchyme pulmonaire</li><li>bronche souche, lobaire ou segmentaire</li><li>prélèvements pleuraux</li><li>des ganglions en cas d’adénopathie</li><li>tout élément anormal du médiastin<br></li></ul>"
                                     ],
                                     "guid": "Ae$FY}Rq4g",
@@ -10841,6 +11688,238 @@
                 {
                     "__type__": "Deck",
                     "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "707344aa-5288-11ec-a6b6-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "2fcd640539b4403b9f3da1e3c5a2de42-ao-1-A.svg",
+                                "2fcd640539b4403b9f3da1e3c5a2de42-ao-1-Q.svg",
+                                "2fcd640539b4403b9f3da1e3c5a2de42-ao-O.svg",
+                                "f1f36e78dca64ff19ddf72e3f2bd95da-oa-1-A.svg",
+                                "f1f36e78dca64ff19ddf72e3f2bd95da-oa-1-Q.svg",
+                                "f1f36e78dca64ff19ddf72e3f2bd95da-oa-2-A.svg",
+                                "f1f36e78dca64ff19ddf72e3f2bd95da-oa-2-Q.svg",
+                                "f1f36e78dca64ff19ddf72e3f2bd95da-oa-O.svg",
+                                "tmpdlt5rfxn.png",
+                                "tmpf09uva1w.png"
+                            ],
+                            "name": "Anatomie Coronaire, imagerie en coupe",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Trajet de la coronaire droite",
+                                        "<ul><li>Segment 1 : Sillon auriculaire droit (horizontal)<br></li><li>Segment 2 :&nbsp;Redescend dans ce sillon droit (vertical)<br></li><li>Segment 3 :&nbsp;Rejoint la croix du cœur (trépied) (horizontal)<br></li><li>Bifurque en 2 artères terminales<br></li><ul><li>inter-ventriculaire postérieure (IVP) ⇒ septum inf</li><li>rétro-ventriculaire postérieure (RV ou RVP)&nbsp;⇒ VG inf&nbsp;<br></li></ul></ul>"
+                                    ],
+                                    "guid": "h>&f?z6H*V",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Trajet de la coronaire gauche",
+                                        "<ul><li>Horizontal vers la G sur 10cm<br></li><li>Se divise en</li><ul><li>artère interventriculaire antérieure (IVA) avec collatérales<br></li><ul><li>Septales hautes (S)</li><li>VG Antéro-lat (artères diagonales D)</li></ul><li>artère circonflexe (Cx) dans le sillon auriculoV G avec collatérales (artères marginales M1, M2, ...)<br></li><ul><li>latérales</li><li>inféro-latérales</li></ul></ul></ul>"
+                                    ],
+                                    "guid": "oE{je%In/u",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "2fcd640539b4403b9f3da1e3c5a2de42-ao-1",
+                                        "",
+                                        "<img src=\"tmpdlt5rfxn.png\" />",
+                                        "<img src=\"2fcd640539b4403b9f3da1e3c5a2de42-ao-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"2fcd640539b4403b9f3da1e3c5a2de42-ao-1-A.svg\" />",
+                                        "<img src=\"2fcd640539b4403b9f3da1e3c5a2de42-ao-O.svg\" />"
+                                    ],
+                                    "guid": "b<A&@4fFU3",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "f1f36e78dca64ff19ddf72e3f2bd95da-oa-1",
+                                        "",
+                                        "<img src=\"tmpf09uva1w.png\" />",
+                                        "<img src=\"f1f36e78dca64ff19ddf72e3f2bd95da-oa-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"f1f36e78dca64ff19ddf72e3f2bd95da-oa-1-A.svg\" />",
+                                        "<img src=\"f1f36e78dca64ff19ddf72e3f2bd95da-oa-O.svg\" />"
+                                    ],
+                                    "guid": "I`bbFW1}eg",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "f1f36e78dca64ff19ddf72e3f2bd95da-oa-2",
+                                        "",
+                                        "<img src=\"tmpf09uva1w.png\" />",
+                                        "<img src=\"f1f36e78dca64ff19ddf72e3f2bd95da-oa-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"f1f36e78dca64ff19ddf72e3f2bd95da-oa-2-A.svg\" />",
+                                        "<img src=\"f1f36e78dca64ff19ddf72e3f2bd95da-oa-O.svg\" />"
+                                    ],
+                                    "guid": "xPV(zbOZT!",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Répartition la plus fréquente des coronaires sur les segments du VG (80%)&nbsp; ⇒ Nom, coronaire, et vascularisation",
+                                        "<ul><li>\"coronaire droit dominant\"</li><li>la coronaire droite donne à la fois l'artère IVP et l'artère RVP</li><li>Vascularisation de toute la paroi inférieure du VG, de la paroi septale basse du tiers basal et médian en plus de celle du VD<br></li></ul>"
+                                    ],
+                                    "guid": "B!9g*H$uL^",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Répartition la 2e plus fréquente des coronaires sur les segments du VG (15%)&nbsp; ⇒ Nom, coronaires, et vascularisation",
+                                        "<ul><li>\"gauche dominant\"<br></li><li>l'artère circonflexe donne l'artère RVP, et/ou en grande partie l'IVP</li><li>Totalité de la vascularisation inférieure du VG<br></li></ul>"
+                                    ],
+                                    "guid": "IJaHC]2phg",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Répartition la 3e plus fréquente des coronaires sur les segments du VG (5%)&nbsp; ⇒ Nom, coronaires, et vascularisation",
+                                        "<ul><li>\"équilibré\"<br></li><li>la coronaire droite assure l'artère IVP et la coronaire gauche donne la RVP<br></li></ul>"
+                                    ],
+                                    "guid": "szD.Fnx]-M",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Lésion coupable d'un infarctus localisé dans le territoire antéro septal, ou antérieur du tiers basal du VG",
+                                        "Lésion occlusive de l'IVA (100%)"
+                                    ],
+                                    "guid": "n8j?lfX#st",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Infarctus localisé dans la paroi antérolatéral du tiers basal",
+                                        "<ul><li>Occlusion de la Cx (89%)</li><li>Branche diagonale issue de l'IVA</li></ul>"
+                                    ],
+                                    "guid": "mCh}NY>=UT",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Infarctus de la paroi inférieure du tiers basal ou moyen",
+                                        "<ul><li>Le plus souvent localisée sur la coronaire droite (valeur prédictive positive de 73%)&nbsp;</li><li>Cx (VPP de 25%)<br></li></ul>"
+                                    ],
+                                    "guid": "Aj=q1bcWiZ",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le risque individuel d'une lésion coronaire sera plus grand quand la {{c1::lésion est proximale}}",
+                                        ""
+                                    ],
+                                    "guid": "Qa~}VS{G~]",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le risque sur le long terme de la maladie coronaire augmente quand les lésions sont {{c1::de plus en plus diffuses sur l'arborescence coronaire}}",
+                                        ""
+                                    ],
+                                    "guid": "EC%BeSH}7z",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Méthodes d'explorations des artères coronaires",
+                                        "<ul><li>Coronarographie</li><li>Scanner cardiaque et coronaire</li></ul>"
+                                    ],
+                                    "guid": "Lq,^g|DN]4",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Coronarographie<br><ul><li>{{c1::Invasif::Invasif ou non ?}}</li><li>But :&nbsp;{{c1::localiser les zones de rétrécissements (ou sténoses) provoquées par des plaques d’athérome}}</li><li>{{c1::Projection::Projection/Coupe}}</li><li>Principe : {{c1::injection de produit de contraste à l'embouchure des coronaires et imagerie aux rayons X, par l'artère fémorale ou radiale+++}}</li><li>Possibilité : {{c1::Traitement d'une sténose dans la foulée}}</li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "qXS!61p.}o",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                }
+                            ]
+                        },
                         {
                             "__type__": "Deck",
                             "children": [],
@@ -15943,6 +17022,346 @@
                         {
                             "__type__": "Deck",
                             "children": [],
+                            "crowdanki_uuid": "707acaa4-5288-11ec-a6b6-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "paste-403ff02ba0165cbd11e4bdbe32a6215dae44a646.png"
+                            ],
+                            "name": "Circulation coronaire",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "% de sang allant aux coronaires",
+                                        "5%"
+                                    ],
+                                    "guid": "yqk{2v[v1)",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Consommation du coeur en ATP",
+                                        "1 mM ATP par seconde (30 kg d’ATP par jour)"
+                                    ],
+                                    "guid": "C,0Vd2]ylQ",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Réserves d'ATP du coeur ⇒ temps de fonctionnement ?",
+                                        "1 minute de fonctionnement"
+                                    ],
+                                    "guid": "JftiL,{!r7",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Nutriments utilisés pour la synthèse d’ATP dans le coeur",
+                                        "<ul><li>glucose</li><li>acides gras (AG)</li><li>lactate</li><li>pyruvate</li><li>corps cétoniques</li><li>acides aminés.</li></ul>"
+                                    ],
+                                    "guid": "DqaO7U7)uR",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Une molécule d’AG produit {{c1::130}} molécules d’ATP vs {{c1::38}} pour le glucose.",
+                                        ""
+                                    ],
+                                    "guid": "i_Z94FJ0b6",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La consommation d’oxygène du myocarde = MVO<sub>2 </sub>représent&nbsp;{{c1::10}}% de la consommation de l’organisme",
+                                        ""
+                                    ],
+                                    "guid": "dSaw+B&iMt",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La variation de MVO<sub>2</sub>&nbsp;dépend surtout de la variation de {{c1::Q<sub>coronaire</sub>::Q<sub>coronaire</sub>&nbsp;ou DAVO<sub>2</sub> ?}}",
+                                        ""
+                                    ],
+                                    "guid": "raW4*yvNB&",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "MVO<sub>2</sub> ≈ {{c1::100}} ml/kg/min",
+                                        ""
+                                    ],
+                                    "guid": "w&C679L)Y$",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Répartition de MVO<sub>2</sub> selon les activités du coeur<br><ul style=\"\"><li style=\"\">{{c1::60% → développement de la tension pariétale en systole}}<br></li><li style=\"\">{{c1::20% → raccourcissement et relaxation}}<br></li><li style=\"\">{{c1::20% → métabolisme basal}}<br></li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "G[.{i-M@Zz",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les artères coronaires (ou épicardiques) donnent ensuite (de plus en plus petit, indiquer la taille)",
+                                        "<ul><li>Les artères intramyocardiques de petits calibre (10-250μm résistance précapillaire)</li><ul><li>Vaisseau de type A (¾ myocarde)</li><li>Vaisseau de type B plus rare jusqu’à l’endocarde</li></ul><li>Les artérioles &lt; 100μm</li><li>Les artérioles précapillaires (10-250μm, résistance ++++++)<br></li></ul>"
+                                    ],
+                                    "guid": "zj8#;gtbwj",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le myocarde a une {{c1::haute::haute/basse}} densité capillaire : {{c1::3000-4000}} capillaires/mm2",
+                                        ""
+                                    ],
+                                    "guid": "q&wOA/;YH>",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Les résistances vasculaires myocardiques sont représentées pour {{c1::10}}% par les artères épicardiques et {{c1::90}}% par les petites artères et les artérioles.",
+                                        ""
+                                    ],
+                                    "guid": "c]SvGum;D",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La grande partie de la perfusion s’effectue en {{c1::diastole}} à cause de {{c1::la contraction myocardique en systole (compression voire occlusion des artérioles)}}",
+                                        ""
+                                    ],
+                                    "guid": "k4_a*xhSW5",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La perfusion {{c1::épicardique}} est meilleure que la perfusion {{c1::endocardique}}. <br>En cas d’ischémie, {{c1::l’endocarde}} va être plus sensible à l’ischémie que {{c1::l’épicarde}}",
+                                        ""
+                                    ],
+                                    "guid": "Q/0}:~q8zv",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le VD est perfusé {{c1::pendant tout le cycle cardiaque::quand ?}}",
+                                        ""
+                                    ],
+                                    "guid": "J@i9x$!MFy",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Répartition des origines du métabolisme cardiaque au repos",
+                                        "<ul><li>AG 60%</li><li>glucose 30%</li><li>lactate, pyruvate et corps cétoniques 10%<br></li></ul>"
+                                    ],
+                                    "guid": "Df=YWTW1)a",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Répartition des origines du métabolisme cardiaque à l'effort",
+                                        "<ul><li>lactates 60%</li><li>AG 20%</li><li>glucose 15%<br></li></ul>"
+                                    ],
+                                    "guid": "wm9v,!5-%S",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Réserve coronaire",
+                                        "Rapport entre le débit maximal et le débit de base pour une pression de perfusion donnée"
+                                    ],
+                                    "guid": "lGZh2<FuF#",
+                                    "note_model_uuid": "fe119f26-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Le débit sanguin coronaire suit de façon {{c1::linéaire}} la {{c2::MVO2}}",
+                                        "<img src=\"paste-403ff02ba0165cbd11e4bdbe32a6215dae44a646.png\">"
+                                    ],
+                                    "guid": "rQPs]!?o`A",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Comment le débit sanguin coronaire s'adapte-t-il à la&nbsp;MVO<sub>2</sub>&nbsp;? Par quels facteurs ?",
+                                        "Adaptation du diamètre des vaisseaux coronaires<br><ul><li>Facteurs endothéliaux (NO dépendant)<br></li><li>Facteurs neurohormonaux (Adrénaline, NA) =&gt; action récepteurs β2-adrénergiques des vx<br></li><li>Facteurs métaboliques (Effet vasodilatateur manque d’O2, Adénosine: AMP via les récepteurs α2 des cellules musculaires de la paroi artérielle, lactate, PGI2)<br></li></ul>"
+                                    ],
+                                    "guid": "PY`#1WyNf%",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Adaptation du diamètre des vaisseaux coronaires<br><ul><li>{{c1::vasodilatation}} des {{c2::artérioles}}<br></li><li>{{c1::vasoconstriction}} au niveau des {{c2::artères épicardiques}}<br></li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "NFRY|VhbJj",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c2::Ischémie myocardique}} = {{c1::inadéquation des apports et des besoins myocardiques}}",
+                                        ""
+                                    ],
+                                    "guid": "FAXxJF7Hn/",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ischémie au repos<br><br>Au-delà de {{c1::70}}% de sténose on a<br><ul><li>{{c1::la pression de perfusion en aval diminue}}</li><li>{{c1::⇒ vasodilatation (diminution des résistances) pour compenser la perte de charge.}}</li></ul>",
+                                        ""
+                                    ],
+                                    "guid": "r{`fUsbh9N",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ischémie à l'effort - Conséquences",
+                                        "Pas de réserve coronaire disponible (vasodilatation&nbsp;préexistante artériolaire de repos) ⇒ Impossibilité d'augmenter le débit<br><br>⇒Insuffisance coronaire ou ischémie myocardique"
+                                    ],
+                                    "guid": "G>P&Xfa4UH",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Adaptations du coeur à l'ischémie - Collatérales",
+                                        "<ul><li>Développement d’anastomoses septales ou épicardiques<br></li><li>Sévère ⇒ Apparition d’une circulation collatérale</li></ul>⇒ Pas suffisant à l'effort<br>"
+                                    ],
+                                    "guid": "m}qlaHupO5",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Adaptations du coeur à l'ischémie - Types",
+                                        "<ul><li>Collatérales</li><li>Metabolisme<br></li></ul>"
+                                    ],
+                                    "guid": "Id6{#Y-3)U",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Adaptations du coeur à l'ischémie - Metabolisme",
+                                        "<ul><li>Normalement, le métabolisme est&nbsp;aérobie</li><li>Ichémie ⇒ changement de métabolisme énergétique ⇒ glycolyse anaérobie et production de lactates</li></ul>"
+                                    ],
+                                    "guid": "K&SIoOo!6@",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": [
+                                        "todo"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
                             "crowdanki_uuid": "73010534-4254-11ec-92c1-600308aa3fd6",
                             "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
                             "desc": "",
@@ -18531,6 +19950,135 @@
                                     "tags": [
                                         "todo"
                                     ]
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "707f3058-5288-11ec-a6b6-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "7e57c8adca844d4ea4d3cf3954371fbf-oa-1-A.svg",
+                                "7e57c8adca844d4ea4d3cf3954371fbf-oa-1-Q.svg",
+                                "7e57c8adca844d4ea4d3cf3954371fbf-oa-2-A.svg",
+                                "7e57c8adca844d4ea4d3cf3954371fbf-oa-2-Q.svg",
+                                "7e57c8adca844d4ea4d3cf3954371fbf-oa-O.svg",
+                                "tmp9zod7n48.png"
+                            ],
+                            "name": "Syndromes coronaires aigus et chroniques",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Types de maldies coronaires",
+                                        "<ul><li>Syndrome coronarien aigu (SCA) : angor instable (= au repos)</li><li>Syndrome coronarien chronique (SCC) : angor stable<br></li></ul>"
+                                    ],
+                                    "guid": "b>46]1!*o[",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Syndromes coronariens chroniques -&nbsp;Physiopathologie",
+                                        "Cascade ischémique : série de manifestations qui apparaissent de manière séquentielle en fonction du degré de l’ischémie<br><ul><li>Circulation coronaire normale</li><li>perfusion myocardique anormale</li><li>anomalie de la fonction diastolique</li><li>anomalie de la fonction systolique</li><li>anomalie de la repolarisation à l’ECG</li><li>angor<br></li></ul>"
+                                    ],
+                                    "guid": "Jx~&GF%HQT",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "La réserve coronaire commence à chuter à partir d’un degré de sténose coronaire de {{c1::50}}% et la chute est significative à partir de {{c1::70}}%",
+                                        ""
+                                    ],
+                                    "guid": "g}7YQq@AsY",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Réserve coronaire normale : {{c1::4 à 6, càd que le débit coronaire de repos peut au maximum être multiplié par 4 à 6}}",
+                                        ""
+                                    ],
+                                    "guid": "t}h05fy-A!",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Signes fonctionnels de l'angor stable<br><ul><li>Type de douleur : {{c1::Douleur rétrosternale, constrictive}}</li><li>Irradiations : {{c1::(non systématiques) Epaules, Bras, Cou, Mâchoires}}</li><li>Mode d'apparition :&nbsp;</li><ul><li>{{c1::Apparait à l’effort}}</li><li>{{c1::S’arrête à l’arrêt de l’effort}}</li><li>{{c1::Est trinitro-sensible}}</li><li>{{c1::Est favorisée par le froid}}</li></ul><li>Autres signes moins typiques</li><ul><li>{{c1::Ischémie silencieuse ⇒ pas d'angor}}</li><li>{{c1::Manifestations digestives}}<br></li><li>{{c1::Blockpnée (sensation « d’air qui ne rentre pas ») ⇒&nbsp;sténose sur un vaisseau vascularisan un vaste territoire}}<br></li></ul></ul><br>",
+                                        ""
+                                    ],
+                                    "guid": "pD.ahpu&iu",
+                                    "note_model_uuid": "fe10c236-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "7e57c8adca844d4ea4d3cf3954371fbf-oa-1",
+                                        "",
+                                        "<img src=\"tmp9zod7n48.png\" />",
+                                        "<img src=\"7e57c8adca844d4ea4d3cf3954371fbf-oa-1-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"7e57c8adca844d4ea4d3cf3954371fbf-oa-1-A.svg\" />",
+                                        "<img src=\"7e57c8adca844d4ea4d3cf3954371fbf-oa-O.svg\" />"
+                                    ],
+                                    "guid": "s%,MLB-GYL",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "7e57c8adca844d4ea4d3cf3954371fbf-oa-2",
+                                        "",
+                                        "<img src=\"tmp9zod7n48.png\" />",
+                                        "<img src=\"7e57c8adca844d4ea4d3cf3954371fbf-oa-2-Q.svg\" />",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "",
+                                        "<img src=\"7e57c8adca844d4ea4d3cf3954371fbf-oa-2-A.svg\" />",
+                                        "<img src=\"7e57c8adca844d4ea4d3cf3954371fbf-oa-O.svg\" />"
+                                    ],
+                                    "guid": "d5nPAV^Oef",
+                                    "note_model_uuid": "fe10de42-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Angor stable - examen clinique",
+                                        "<ul><li>Le plus souvent normal : aucun signe spécifique<br></li><li>Rechercher :</li><ul><li>Signes d’insuffisance cardiaque</li><li>Signes d’autre localisation athéromateuse (pouls périphérique)</li></ul><li>ECG : normal le plus souvent (car ischémie myocardique apparaît à l’effort)<br></li></ul>"
+                                    ],
+                                    "guid": "qA>TZ(u3`~",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Tests fonctionnels dans les syndromes coronaires chroniques",
+                                        "Suit la cascade ischémique<br><ul><li>Anomalie de perfusion myocardique : scintigraphie myocardique d’effort</li><li>Anomalie de la fonction diastolique du myocarde : NA</li><li>Anomalie de la fonction systolique du myocarde : Echographie de stress (d’effort ou dobutamine)</li><li>Anomalies de la repolarisation à l’électrocardiogramme : ECG d’effort<br></li></ul>"
+                                    ],
+                                    "guid": "oImdcAVG1$",
+                                    "note_model_uuid": "fe14951e-40a1-11ec-ac5f-600308aa3fd6",
+                                    "tags": []
                                 }
                             ]
                         }
@@ -44158,6 +45706,58 @@
                 {
                     "__type__": "Deck",
                     "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "7098cf90-5288-11ec-a6b6-600308aa3fd6",
+                            "deck_config_uuid": "fe1a80f0-40a1-11ec-ac5f-600308aa3fd6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Bilan de l'eau",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div>Un sujet présente un SIADH (syndrome de sécrétion inappropriée d’hormone antidiurétique). Sa capacité maximale de dilution est à 600 mOsm/kgH2O. Quelle(s) est(sont) les proposition(s) exacte(s) ?</div>",
+                                        "",
+                                        "1",
+                                        "Ce patient présente un trouble de concentration des urines.",
+                                        "Il sera toujours en hyponatrémie.",
+                                        "Si les apports osmolaires de ce patient sont à 600 mOsm par 24h, il pourra boire jusqu’à 1 litre d’eau sans aggraver son hyponatrémie.",
+                                        "Si les apports osmolaires de ce patient sont à 900 mOsm par 24h, il pourra boire jusqu’à 1,25 litre d’eau sans aggraver son hyponatrémie.",
+                                        "L’apport d’un litre de solution de chlorure de sodium isotonique va corriger l’hyponatrémie chez ce patient.",
+                                        "0 0 1 1 0",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "JQTQ)n.@6+",
+                                    "note_model_uuid": "c6aee922-49f1-11ec-b5de-600308aa3fd6",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Un trouble de concentration des urines pourrait théoriquement résulter de (une ou plusieurs proposition(s) exacte(s))&nbsp;",
+                                        "",
+                                        "1",
+                                        "Une augmentation de production d’ADH (hormone antidiurétique)",
+                                        "Une diminution de la fonction du récepteur de l’ADH dans le canal collecteur",
+                                        "Un traitement par diurétiques de l’anse (de Henle)",
+                                        "Un traitement par diurétique thiazidique (agissant sur le tubule distal)",
+                                        "Une diminution massive de la production d’urée",
+                                        "0 1 1 0 1",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "Gx4=#]oeW@",
+                                    "note_model_uuid": "c6aee922-49f1-11ec-b5de-600308aa3fd6",
+                                    "tags": []
+                                }
+                            ]
+                        },
                         {
                             "__type__": "Deck",
                             "children": [],

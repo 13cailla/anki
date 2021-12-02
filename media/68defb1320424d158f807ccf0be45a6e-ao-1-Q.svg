@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="494">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_19" y="181.9259" x="523.14815" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#aad4ff">+/-</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_20" y="59.70368" x="113.88889" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffaaff">Molécules ?</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_22" y="246" x="142" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#007f00">Molécules métaboliques</text>
+  <text style="cursor: move;" id="svg_23" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="390.25" x="526" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffaaaa">Signalisation cellulaire</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="68defb1320424d158f807ccf0be45a6e-ao-1" class="qshape">
+   <g class="qshape">
+    <rect height="25" width="51.85185" y="258.77775" x="243.51852" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+    <rect height="26.85185" width="60.18519" y="255.07405" x="364.81481" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+    <rect height="37.96296" width="78.7037" y="254.14812" x="506.48148" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+    <rect height="34.25926" width="116.66667" y="322.66664" x="338.88889" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   </g>
+   <rect height="80.55556" width="105.55556" y="115.25923" x="80.55556" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="50.92593" width="64.81481" y="19.88886" x="197.22222" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="36.11111" width="53.7037" y="91.18516" x="309.25926" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="89.81481" width="170.37037" y="16.18516" x="397.22222" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="37.03704" width="150" y="212.48145" x="403.7037" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect stroke="#2D2D2D" height="34.25926" width="102.77777" y="215.25923" x="282.40741" fill="#FF7E7E" class="qshape"/>
+   <rect height="38.88889" width="32.40741" y="157.85182" x="469.44444" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="35.18519" width="46.2963" y="165.25923" x="340.74074" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="27.77778" width="38.88889" y="188.40738" x="262.03704" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  </g>
+ </g>
+</svg>

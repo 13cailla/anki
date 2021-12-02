@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="778" height="611.9999999999999">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_4" y="76.50574" x="578.32187" stroke-width="0" fill="#000000">Mesure de la réserve coronaire</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="be3a8227a2f64a7ca49a62cf8ea0b8da-ao-1" class="qshape">
+   <rect height="43.67816" width="380.45978" y="559.26437" x="202.45979" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect height="428.73564" width="50.57471" y="93.74712" x="15.10347" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  </g>
+ </g>
+</svg>
